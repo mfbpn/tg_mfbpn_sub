@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：29 天 - 一元云梯, server: yiyuanvpn.top, port: 80, type: vmess, uuid: 5899e7c2-fafc-4b4e-84f9-ccfcbf1f1687, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
-- {name: 【公告】调整协议加密功能，可能出现波动，请更新订阅 - 一元云梯, server: yiyuanvpn.top, port: 80, type: vmess, uuid: 5899e7c2-fafc-4b4e-84f9-ccfcbf1f1687, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 距离下次重置剩余：30 天 - 一元云梯, server: yiyuanvpn.top, port: 80, type: vmess, uuid: 35902aaf-cc24-45f5-99fb-798532ef91f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
+- {name: 【公告】调整协议加密功能，可能出现波动，请更新订阅 - 一元云梯, server: yiyuanvpn.top, port: 80, type: vmess, uuid: 35902aaf-cc24-45f5-99fb-798532ef91f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}

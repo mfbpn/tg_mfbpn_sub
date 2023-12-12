@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡1 - 一元云梯, server: yyjc-sg1.shaniugpt.top, port: 443, type: vmess, uuid: 5899e7c2-fafc-4b4e-84f9-ccfcbf1f1687, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1, headers: {Host: yyjc-sg1.shaniugpt.top}}, udp: true}
-- {name: 🇸🇬 新加坡2 - 一元云梯, server: cfcdn.996699.top, port: 80, type: vmess, uuid: 5899e7c2-fafc-4b4e-84f9-ccfcbf1f1687, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1, headers: {Host: yyjc-sg1.shaniugpt.top}}, udp: true}
+- {name: 🇸🇬 新加坡1 - 一元云梯, server: yyjc-sg1.shaniugpt.top, port: 443, type: vmess, uuid: 35902aaf-cc24-45f5-99fb-798532ef91f5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1, headers: {Host: yyjc-sg1.shaniugpt.top}}, udp: true}
+- {name: 🇸🇬 新加坡2 - 一元云梯, server: cfcdn.996699.top, port: 80, type: vmess, uuid: 35902aaf-cc24-45f5-99fb-798532ef91f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1, headers: {Host: yyjc-sg1.shaniugpt.top}}, udp: true}
