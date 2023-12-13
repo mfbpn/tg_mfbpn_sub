@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: b3fab265-d11a-432a-b303-fcccaf46f134, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: rb01.pigvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: b3fab265-d11a-432a-b303-fcccaf46f134, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
-- {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: b3fab265-d11a-432a-b303-fcccaf46f134, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇯🇵 日本|01|京东 - 猪网-PIGVIP, server: rb01.pigvip.xyz, port: 2380, type: vmess, uuid: f1a747e5-08f6-435a-afe5-628c7570accd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: rb01.pigvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: f1a747e5-08f6-435a-afe5-628c7570accd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: f1a747e5-08f6-435a-afe5-628c7570accd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
