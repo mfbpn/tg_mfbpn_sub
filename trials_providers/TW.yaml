@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: b6d71d45-caed-3978-acc6-685bc6b69961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: b6d71d45-caed-3978-acc6-685bc6b69961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: 72a0327d-fdfb-3691-8f1e-d50f18a554d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 72a0327d-fdfb-3691-8f1e-d50f18a554d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow, server: b11.spwvpn.link, port: 443, type: vmess, uuid: 14327f86-7734-4d5b-9561-b58ad95cbcfb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b11, headers: {Host: b11.spwvpn.link}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow, server: b12.spwvpn.link, port: 443, type: vmess, uuid: 14327f86-7734-4d5b-9561-b58ad95cbcfb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b12, headers: {Host: b12.spwvpn.link}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow, server: b13.spwvpn.link, port: 443, type: vmess, uuid: 14327f86-7734-4d5b-9561-b58ad95cbcfb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b13, headers: {Host: b13.spwvpn.link}}, udp: true}
@@ -17,8 +17,8 @@ proxies:
 - {name: 🇹🇼 TW台湾 B - 可乐云, server: tw.colacloud.site, port: 48886, type: ss, cipher: chacha20-ietf-poly1305, password: 27a1cec5-26bb-4f87-9a5d-b3a108c01537, udp: true}
 - {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 73959996-8354-4da9-b620-5ba0d829ef1f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
 - {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 73959996-8354-4da9-b620-5ba0d829ef1f, udp: true}
-- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48875, type: ss, cipher: chacha20-ietf-poly1305, password: 5fb2deef-6968-462c-8ffa-6a24e6cd99f6, udp: true}
-- {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 5fb2deef-6968-462c-8ffa-6a24e6cd99f6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
+- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48875, type: ss, cipher: chacha20-ietf-poly1305, password: 70656c71-70a3-4dcf-a02d-9634b8b5e2ff, udp: true}
+- {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 70656c71-70a3-4dcf-a02d-9634b8b5e2ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
 - {name: 🇹🇼 台湾02--1.3x - 小巫云 ☁️, server: xx.white51.top, port: 52968, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾10--1.3x - 小巫云 ☁️, server: shdx.white51.top, port: 52095, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾03--1.3x - 小巫云 ☁️, server: ahdx.white51.top, port: 44943, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
