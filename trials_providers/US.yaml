@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: ddea0e7c-f883-3e33-b504-8b8d53f3311f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xgxdjs.dx001.top, port: 19862, type: vmess, uuid: ddea0e7c-f883-3e33-b504-8b8d53f3311f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: b1602028-0a29-3066-a4f5-0d341ddabce1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xgxdjs.dx001.top, port: 19862, type: vmess, uuid: b1602028-0a29-3066-a4f5-0d341ddabce1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: d77c1769-2cb2-43fb-854c-215f8e2038f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇺🇸 美国|02|纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: d77c1769-2cb2-43fb-854c-215f8e2038f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
 - {name: 🇺🇸 美国|03|弗吉尼亚州 - 猪网-PIGVIP, server: mg03.pigvip.xyz, port: 2380, type: vmess, uuid: d77c1769-2cb2-43fb-854c-215f8e2038f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
@@ -19,9 +19,9 @@ proxies:
 - {name: 🇺🇸 US美国 B - 可乐云, server: us.colacloud.site, port: 20562, type: ss, cipher: chacha20-ietf-poly1305, password: 27a1cec5-26bb-4f87-9a5d-b3a108c01537, udp: true}
 - {name: 🇺🇸 美国1 - 一元云梯, server: cdn1.shaniugpt.top, port: 443, type: vmess, uuid: 4c60116a-6586-403c-b51a-765f389da936, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-us1, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
 - {name: 🇺🇸 美国2 - 一元云梯, server: cdn.shaniugpt.top, port: 443, type: vmess, uuid: 4c60116a-6586-403c-b51a-765f389da936, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-us1, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
-- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: b982e56a-8e0f-48ec-a63d-9532258927f4, udp: true}
-- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: b982e56a-8e0f-48ec-a63d-9532258927f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20453, type: ss, cipher: chacha20-ietf-poly1305, password: b982e56a-8e0f-48ec-a63d-9532258927f4, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 19ea5f9d-a8a3-4583-9d84-dab043669cd1, udp: true}
+- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 19ea5f9d-a8a3-4583-9d84-dab043669cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
+- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20453, type: ss, cipher: chacha20-ietf-poly1305, password: 19ea5f9d-a8a3-4583-9d84-dab043669cd1, udp: true}
 - {name: 🇺🇸 美国new01（1倍率） - 快狗云, server: us-new01.gujuji.top, port: 8080, type: vmess, uuid: 0f762387-a32d-4482-a4f4-9968489a6dbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new01.gujuji.top}}, udp: true}
 - {name: 🇺🇸 美国new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 0f762387-a32d-4482-a4f4-9968489a6dbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new01.gujuji.top}}, udp: true}
 - {name: 🇺🇸 美国new02（1倍率） - 快狗云, server: us-new02.gujuji.top, port: 8080, type: vmess, uuid: 0f762387-a32d-4482-a4f4-9968489a6dbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new02.gujuji.top}}, udp: true}
