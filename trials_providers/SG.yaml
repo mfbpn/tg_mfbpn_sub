@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: f92e9dd7-5844-33b8-be30-879ba85198ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: f92e9dd7-5844-33b8-be30-879ba85198ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 2c288eb4-62d7-31cd-8d1b-3a619518dc92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: 2c288eb4-62d7-31cd-8d1b-3a619518dc92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2380, type: vmess, uuid: e383c7b0-07b2-4bd8-8e12-eb1b3d20b7d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: e383c7b0-07b2-4bd8-8e12-eb1b3d20b7d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 27a1cec5-26bb-4f87-9a5d-b3a108c01537, udp: true}
@@ -10,8 +10,7 @@ proxies:
 - {name: 🇸🇬 新加坡1 - 一元云梯, server: cdn2.shaniugpt.top, port: 443, type: vmess, uuid: 4c60116a-6586-403c-b51a-765f389da936, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1-2, headers: {Host: yyjc-sg1-2.shaniugpt.top}}, udp: true}
 - {name: 🇸🇬 新加坡2 - 一元云梯, server: cfcdn.996699.top, port: 80, type: vmess, uuid: 4c60116a-6586-403c-b51a-765f389da936, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1-1, headers: {Host: yyjc-sg1-1.shaniugpt.top}}, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 557aa012-f660-4111-a583-61dba6622fd6, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 557aa012-f660-4111-a583-61dba6622fd6, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 557aa012-f660-4111-a583-61dba6622fd6, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 21552, type: ss, cipher: chacha20-ietf-poly1305, password: 557aa012-f660-4111-a583-61dba6622fd6, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 30d72abe-4c07-47d6-a35e-6f1b8765b9e0, udp: true}
 - {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
