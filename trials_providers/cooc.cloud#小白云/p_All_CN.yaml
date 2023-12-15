@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇲🇴 澳门 / 华南｜MO - 小白云, server: mo1.iepl.cooc.icu, port: 35613, type: ss, cipher: aes-128-gcm, password: 618447e0-043e-4b3a-bbe3-834f2f51b3fa, udp: true}
-- {name: 🇲🇴 澳门 / 华东｜MO - 小白云, server: mo2.iepl.cooc.icu, port: 35614, type: ss, cipher: aes-128-gcm, password: 618447e0-043e-4b3a-bbe3-834f2f51b3fa, udp: true}
-- {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 618447e0-043e-4b3a-bbe3-834f2f51b3fa, udp: true}
+- {name: 🇲🇴 澳门 / 华南｜MO - 小白云, server: mo1.iepl.cooc.icu, port: 35613, type: ss, cipher: aes-128-gcm, password: 3d5fef3b-db6b-4050-aa0e-edd4f3d172ec, udp: true}
+- {name: 🇲🇴 澳门 / 华东｜MO - 小白云, server: mo2.iepl.cooc.icu, port: 35614, type: ss, cipher: aes-128-gcm, password: 3d5fef3b-db6b-4050-aa0e-edd4f3d172ec, udp: true}
+- {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 3d5fef3b-db6b-4050-aa0e-edd4f3d172ec, udp: true}
