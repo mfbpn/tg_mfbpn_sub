@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK香港 A - 可乐云, server: dl1.colacloud.free.hr, port: 80, type: vmess, uuid: 27a1cec5-26bb-4f87-9a5d-b3a108c01537, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.colacloud.free.hr}}, udp: true}
+- {name: 🇭🇰 HK香港 A - 可乐云, server: cp1.colacloud.site, port: 80, type: vmess, uuid: 27a1cec5-26bb-4f87-9a5d-b3a108c01537, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hkk.colacloud.free.hr}}, udp: true}
