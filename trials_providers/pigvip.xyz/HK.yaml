@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 | 01 - 猪网-PIGVIP, server: xg01.pigvip.xyz, port: 2380, type: vmess, uuid: e383c7b0-07b2-4bd8-8e12-eb1b3d20b7d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
-- {name: 🇭🇰 香港 | 02 - 猪网-PIGVIP, server: xg02.pigvip.xyz, port: 2380, type: vmess, uuid: e383c7b0-07b2-4bd8-8e12-eb1b3d20b7d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇭🇰 香港 | 01 - 猪网-PIGVIP, server: xg01.pigvip.xyz, port: 2380, type: vmess, uuid: d40f80a5-ceae-47a6-9b18-81c257fa16a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
+- {name: 🇭🇰 香港 | 02 - 猪网-PIGVIP, server: xg02.pigvip.xyz, port: 2380, type: vmess, uuid: d40f80a5-ceae-47a6-9b18-81c257fa16a0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
