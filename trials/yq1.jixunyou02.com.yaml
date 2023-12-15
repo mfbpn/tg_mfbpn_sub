@@ -82,8 +82,8 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: 公益免费 🇺🇸 美国 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 323e39f5-209e-4a4b-ab92-d4ce89d108c4, udp: true}
-- {name: 公益免费 🇳🇱荷兰 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49999, type: ss, cipher: chacha20-ietf-poly1305, password: 323e39f5-209e-4a4b-ab92-d4ce89d108c4, udp: true}
+- {name: 公益免费 🇺🇸 美国 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: f0f5aa5c-5387-48b1-b00c-4eb6d12ffbd7, udp: true}
+- {name: 公益免费 🇳🇱荷兰 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49999, type: ss, cipher: chacha20-ietf-poly1305, password: f0f5aa5c-5387-48b1-b00c-4eb6d12ffbd7, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

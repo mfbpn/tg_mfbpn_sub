@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：16 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 323e39f5-209e-4a4b-ab92-d4ce89d108c4, udp: true}
-- {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 323e39f5-209e-4a4b-ab92-d4ce89d108c4, udp: true}
+- {name: 距离下次重置剩余：16 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: f0f5aa5c-5387-48b1-b00c-4eb6d12ffbd7, udp: true}
+- {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: f0f5aa5c-5387-48b1-b00c-4eb6d12ffbd7, udp: true}
 - {name: 距离下次重置剩余：29 天 - 一元云梯, server: yiyuanvpn.top, port: 80, type: vmess, uuid: 4c60116a-6586-403c-b51a-765f389da936, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
 - {name: 【公告】建议APP设置每次打开自动更新订阅或每天手动更新 - 一元云梯, server: yiyuanvpn.top, port: 80, type: vmess, uuid: 4c60116a-6586-403c-b51a-765f389da936, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-hk-ipv6-1, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
 - {name: 距离下次重置剩余：30 天 - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 0f762387-a32d-4482-a4f4-9968489a6dbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
