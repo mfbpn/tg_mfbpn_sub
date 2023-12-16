@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2380, type: vmess, uuid: 52e077a3-93a5-4c2e-974e-039844a96899, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
-- {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 52e077a3-93a5-4c2e-974e-039844a96899, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇸🇬 新加坡|01|新加坡 - 猪网-PIGVIP, server: xjp01.pigvip.xyz, port: 2380, type: vmess, uuid: 892b8b6e-8ebb-46e8-beb4-987be2e36cae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
+- {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 892b8b6e-8ebb-46e8-beb4-987be2e36cae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
