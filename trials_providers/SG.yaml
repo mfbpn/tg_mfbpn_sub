@@ -9,8 +9,8 @@ proxies:
 - {name: 🇸🇬 SG新加坡 B - 可乐云, server: sg.colacloud.site, port: 20153, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
 - {name: 🇸🇬 新加坡1 - 一元云梯, server: cdn2.shaniugpt.top, port: 443, type: vmess, uuid: 4081c7e0-0b9b-434f-82f4-3a657636f65b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1-2, headers: {Host: yyjc-sg1-2.shaniugpt.top}}, udp: true}
 - {name: 🇸🇬 新加坡2 - 一元云梯, server: cfcdn.996699.top, port: 80, type: vmess, uuid: 4081c7e0-0b9b-434f-82f4-3a657636f65b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yyjc-sg1-1, headers: {Host: yyjc-sg1-1.shaniugpt.top}}, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 19ea5f9d-a8a3-4583-9d84-dab043669cd1, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 21552, type: ss, cipher: chacha20-ietf-poly1305, password: 19ea5f9d-a8a3-4583-9d84-dab043669cd1, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 2bcafdf2-2ae7-4ca4-a312-6e27bdfd2471, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 21552, type: ss, cipher: chacha20-ietf-poly1305, password: 2bcafdf2-2ae7-4ca4-a312-6e27bdfd2471, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 679cd2c5-320d-4387-a7bf-be90ccd54473, udp: true}
 - {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
