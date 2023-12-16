@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: ebcfffc5-ce78-3042-9a0a-04473ea04e84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: ebcfffc5-ce78-3042-9a0a-04473ea04e84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: ebcfffc5-ce78-3042-9a0a-04473ea04e84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: ebcfffc5-ce78-3042-9a0a-04473ea04e84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: acf57247-45a1-3ff6-a2a7-a0480f97aa71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: acf57247-45a1-3ff6-a2a7-a0480f97aa71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: acf57247-45a1-3ff6-a2a7-a0480f97aa71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: acf57247-45a1-3ff6-a2a7-a0480f97aa71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇱 以色列|01|特拉维夫 - 猪网-PIGVIP, server: ysl01.pigvip.xyz, port: 2380, type: vmess, uuid: fbde742d-6547-4bc9-8be9-7896a3a57b93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇦🇺 澳大利亚|01|悉尼 - 猪网-PIGVIP, server: adly01.pigvip.xyz, port: 2380, type: vmess, uuid: fbde742d-6547-4bc9-8be9-7896a3a57b93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇰🇷 韩国|01|首尔 - 猪网-PIGVIP, server: hg01.pigvip.xyz, port: 2380, type: vmess, uuid: fbde742d-6547-4bc9-8be9-7896a3a57b93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
@@ -22,9 +22,9 @@ proxies:
 - {name: 🇲🇽 墨西哥|01|抖音 - 猪网-PIGVIP, server: mg10.pigvip.xyz, port: 2380, type: vmess, uuid: fbde742d-6547-4bc9-8be9-7896a3a57b93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg10.pigvip.xyz}}, udp: true}
 - {name: 🇨🇱 智利01|抖音节点 - 猪网-PIGVIP, server: mg12.pigvip.xyz, port: 2380, type: vmess, uuid: fbde742d-6547-4bc9-8be9-7896a3a57b93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg12.pigvip.xyz}}, udp: true}
 - {name: 🇦🇺 澳大利亚|01|抖音 - 猪网-PIGVIP, server: adly02.pigvip.xyz, port: 2380, type: vmess, uuid: fbde742d-6547-4bc9-8be9-7896a3a57b93, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: adly02.pigvip.xyz}}, udp: true}
-- {name: 距离下次重置剩余：15 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: e4249fe6-4f39-4b1c-a2af-be035b296b5f, udp: true}
-- {name: 公益免费 🇳🇱荷兰 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49999, type: ss, cipher: chacha20-ietf-poly1305, password: e4249fe6-4f39-4b1c-a2af-be035b296b5f, udp: true}
-- {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: e4249fe6-4f39-4b1c-a2af-be035b296b5f, udp: true}
+- {name: 距离下次重置剩余：15 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 68548d62-8c14-4e17-b10d-288b25ec8a7a, udp: true}
+- {name: 公益免费 🇳🇱荷兰 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49999, type: ss, cipher: chacha20-ietf-poly1305, password: 68548d62-8c14-4e17-b10d-288b25ec8a7a, udp: true}
+- {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 68548d62-8c14-4e17-b10d-288b25ec8a7a, udp: true}
 - {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
 - {name: 🇰🇷 KR韩国 B - 可乐云, server: cp2.colacloud.site, port: 80, type: vmess, uuid: 2430a610-4898-4b45-b341-f9ab4d498f52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-krr.colacloud.site}}, udp: true}
 - {name: 🇧🇷 BR巴西 A - 可乐云, server: cp2.colacloud.site, port: 80, type: vmess, uuid: 2430a610-4898-4b45-b341-f9ab4d498f52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-bxss.colacloud.site}}, udp: true}
