@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 60d886f7-9ac5-3ac9-bd0f-cf5950c7c2e9, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 60d886f7-9ac5-3ac9-bd0f-cf5950c7c2e9, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 60d886f7-9ac5-3ac9-bd0f-cf5950c7c2e9, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 60d886f7-9ac5-3ac9-bd0f-cf5950c7c2e9, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: b7418264-8c2d-322c-9162-34a1fc124eff, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: b7418264-8c2d-322c-9162-34a1fc124eff, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: b7418264-8c2d-322c-9162-34a1fc124eff, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: b7418264-8c2d-322c-9162-34a1fc124eff, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
