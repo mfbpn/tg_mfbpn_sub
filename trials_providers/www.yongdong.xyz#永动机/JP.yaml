@@ -1,9 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 白银vip｜中转 -> 日本｜vvSoc128 - 永动机, server: zfkr1.30803080.xyz, port: 20231, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇯🇵 白银vip｜中转 -> 日本｜vvSoc197 - 永动机, server: zfkr1.30803080.xyz, port: 20230, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇯🇵 白银vip｜中转 -> 日本｜vvSoc204 - 永动机, server: zfkr1.30803080.xyz, port: 20232, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc216 - 永动机, server: zfkr2.30803080.xyz, port: 21043, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc217 - 永动机, server: zfkr2.30803080.xyz, port: 21042, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇯🇵 白银vip｜中转2 -> 日本｜vvSoc218 - 永动机, server: zfkr2.30803080.xyz, port: 21041, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
