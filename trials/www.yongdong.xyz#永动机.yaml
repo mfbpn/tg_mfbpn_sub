@@ -37,6 +37,7 @@ proxy-groups:
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc227 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc228 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc229 - 永动机
+  - 🇺🇸 白银vip｜中转3 -> 美国｜vvSoc248 - 永动机
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc237 - 永动机
   - 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc238 - 永动机
   - 🇰🇷 白银vip｜中转3 -> 韩国｜vvSoc246 - 永动机
@@ -107,6 +108,7 @@ proxy-groups:
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc227 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc228 - 永动机
   - 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc229 - 永动机
+  - 🇺🇸 白银vip｜中转3 -> 美国｜vvSoc248 - 永动机
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -146,6 +148,7 @@ proxies:
 - {name: 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc227 - 永动机, server: zfkr2.30803080.xyz, port: 21034, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc228 - 永动机, server: zfkr2.30803080.xyz, port: 21033, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇺🇸 白银vip｜中转2 -> 美国｜vvSoc229 - 永动机, server: zfkr2.30803080.xyz, port: 21032, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
+- {name: 🇺🇸 白银vip｜中转3 -> 美国｜vvSoc248 - 永动机, server: zfkr3.30803080.xyz, port: 20811, type: vmess, uuid: 52021503-4a07-4a0c-acff-7bb3cdd4e868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
