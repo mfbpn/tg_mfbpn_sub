@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: 8b8be9d2-0c06-3a44-a5ce-2745cbf09403, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xgxdjs.dx001.top, port: 19862, type: vmess, uuid: 8b8be9d2-0c06-3a44-a5ce-2745cbf09403, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: ad8bcb23-46ec-3919-9bf2-919aef0817d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xgxdjs.dx001.top, port: 19862, type: vmess, uuid: ad8bcb23-46ec-3919-9bf2-919aef0817d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国|01|西雅图 - 猪网-PIGVIP, server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇺🇸 美国|02|纽约 - 猪网-PIGVIP, server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mg02.pigvip.xyz}}, udp: true}
 - {name: 🇺🇸 美国|03|弗吉尼亚州 - 猪网-PIGVIP, server: mg03.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
@@ -10,8 +10,8 @@ proxies:
 - {name: 公益免费 🇺🇸 美国 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 8967ec5b-1008-414e-953e-4827c7bbbb7e, udp: true}
 - {name: 🇺🇸 US美国 A - 可乐云, server: us.colacloud.site, port: 20552, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
 - {name: 🇺🇸 US美国 B - 可乐云, server: us.colacloud.site, port: 20562, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
-- {name: 🇺🇸 美国1 - 一元云梯, server: cdn1.shaniugpt.top, port: 8080, type: vmess, uuid: 07902bdc-627d-4602-b8be-dadec104ea82, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20231217, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
-- {name: 🇺🇸 美国2 - 一元云梯, server: cdn3.shaniugpt.top, port: 8080, type: vmess, uuid: 07902bdc-627d-4602-b8be-dadec104ea82, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20231217, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
+- {name: 🇺🇸 美国1 - 一元云梯, server: cdn1.shaniugpt.top, port: 8080, type: vmess, uuid: 539c31e8-75a0-4307-b000-ca1b1951bf88, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20231217, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
+- {name: 🇺🇸 美国2 - 一元云梯, server: cdn3.shaniugpt.top, port: 8080, type: vmess, uuid: 539c31e8-75a0-4307-b000-ca1b1951bf88, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20231217, headers: {Host: yyjc-us1.shaniugpt.top}}, udp: true}
 - {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 3c534b49-9ee6-4ede-b20b-9b8e0871216e, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 3c534b49-9ee6-4ede-b20b-9b8e0871216e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
 - {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20453, type: ss, cipher: chacha20-ietf-poly1305, password: 3c534b49-9ee6-4ede-b20b-9b8e0871216e, udp: true}
