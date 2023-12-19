@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: d323cf65-f13c-3b15-a7d8-b959659b14ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: d323cf65-f13c-3b15-a7d8-b959659b14ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: 4223b9a5-a30e-3505-a435-fcfbc721427e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19832, type: vmess, uuid: 4223b9a5-a30e-3505-a435-fcfbc721427e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 | 02 | 京东 - 猪网-PIGVIP, server: rb02.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本 | 03 | 大阪市 - 猪网-PIGVIP, server: rb03.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: 5543c089-aa95-3d0e-9bc8-5042f6eaf4f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 28152, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
 - {name: 🇯🇵 JP日本 B - 可乐云, server: jp.colacloud.site, port: 28153, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: b6e7880b-070c-4ab2-9f5e-82d74cd81c88, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 2f1f7805-427a-46d3-a00d-41ba09a991f0, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: b1c64446-533b-4f8c-b3fb-026cc7138812, udp: true}
 - {name: 🇯🇵 Japan-日本 - 一机场, server: frontend.yijianlian.app, port: 54530, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本02-解锁 - PL, server: rb02.bbx9527.xyz, port: 26068, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
