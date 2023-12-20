@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: ad91fac7-3f2c-3f24-8708-8a63118ca6da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: ad91fac7-3f2c-3f24-8708-8a63118ca6da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: ad91fac7-3f2c-3f24-8708-8a63118ca6da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: ad91fac7-3f2c-3f24-8708-8a63118ca6da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: 2b04df8e-dcf9-3100-9c58-d4832b59c6d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 2b04df8e-dcf9-3100-9c58-d4832b59c6d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 2b04df8e-dcf9-3100-9c58-d4832b59c6d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 2b04df8e-dcf9-3100-9c58-d4832b59c6d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇳🇴 挪威 | 01 - 猪网-PIGVIP, server: nw01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇨🇭 瑞士 | 01 | 抖音 - 猪网-PIGVIP, server: rs01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
-- {name: 距离下次重置剩余：11 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 4e6e855d-c69c-4311-999f-e2eea237fffa, udp: true}
+- {name: 距离下次重置剩余：10 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 4e6e855d-c69c-4311-999f-e2eea237fffa, udp: true}
 - {name: 公益免费 🇳🇱荷兰 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49999, type: ss, cipher: chacha20-ietf-poly1305, password: 4e6e855d-c69c-4311-999f-e2eea237fffa, udp: true}
 - {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 4e6e855d-c69c-4311-999f-e2eea237fffa, udp: true}
 - {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
@@ -36,6 +36,7 @@ proxies:
 - {name: 🇫🇷法国01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 58b4d197-f3a4-4171-ab3c-f52b797ffff6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西01 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 58b4d197-f3a4-4171-ab3c-f52b797ffff6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1ss.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西02 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: 58b4d197-f3a4-4171-ab3c-f52b797ffff6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss.nicehand.top}}, udp: true}
+- {name: 距离下次重置剩余：30 天 - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: f533362b-a56e-4226-afd5-2b52da6176d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
 - {name: 官网www. kuaigou.life - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: f533362b-a56e-4226-afd5-2b52da6176d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
 - {name: 🇰🇷 韩国01 优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: f533362b-a56e-4226-afd5-2b52da6176d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
 - {name: 🇨🇦 加拿大new01（1倍率） - 快狗云, server: ca-new01.gujuji.top, port: 8080, type: vmess, uuid: f533362b-a56e-4226-afd5-2b52da6176d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.gujuji.top}}, udp: true}
