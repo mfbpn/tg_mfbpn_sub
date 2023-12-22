@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国06---1x - 小巫云 ☁️, server: hzlt.white51.top, port: 23298, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇺🇸 美国08---1x - 小巫云 ☁️, server: xx.white51.top, port: 23447, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}

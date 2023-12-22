@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港5-1x - 小巫云 ☁️, server: gda.white51.top, port: 23409, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇭🇰 香港6-1x - 小巫云 ☁️, server: gdb.white51.top, port: 14414, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇭🇰 香港17-1x - 小巫云 ☁️, server: shdx.white51.top, port: 29473, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇭🇰 香港8-1x - 小巫云 ☁️, server: ahdx.white51.top, port: 32664, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇭🇰 香港9-1x - 小巫云 ☁️, server: hndx.white51.top, port: 51146, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇭🇰 香港21-1x - 小巫云 ☁️, server: shdx.073505.cn, port: 11439, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}

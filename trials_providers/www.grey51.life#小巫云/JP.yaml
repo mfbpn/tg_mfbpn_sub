@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本12-1.3x - 小巫云 ☁️, server: shshyd.073505.cn, port: 49094, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇯🇵 日本13-1.3x - 小巫云 ☁️, server: hndx.white51.top, port: 19170, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇯🇵 日本06-1.3x - 小巫云 ☁️, server: gda.white51.top, port: 43900, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇯🇵 日本07-1.3x - 小巫云 ☁️, server: gdb.white51.top, port: 27251, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇯🇵 日本08-1.3x - 小巫云 ☁️, server: gdc.white51.top, port: 17353, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇯🇵 日本11-1.3x - 小巫云 ☁️, server: xx.white51.top, port: 44437, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
