@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: d5b4f7df-1491-3109-a4f8-58712a9768fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: d5b4f7df-1491-3109-a4f8-58712a9768fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 7c39b3f9-23a3-3218-9a99-4a5b6bbd6b95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 7c39b3f9-23a3-3218-9a99-4a5b6bbd6b95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1(TCP) - 麻雀加速器 Sparrow, server: b11.ntbq.dynu.net, port: 5643, type: vmess, uuid: 2358c269-178a-43c0-a208-c6cc52d398f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: 2358c269-178a-43c0-a208-c6cc52d398f9, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 2358c269-178a-43c0-a208-c6cc52d398f9, udp: true}
@@ -13,8 +13,8 @@ proxies:
 - {name: 🇹🇼 TW-台中1-1(TCP) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 6899, type: vmess, uuid: 2358c269-178a-43c0-a208-c6cc52d398f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-2(TCP) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 6122, type: vmess, uuid: 2358c269-178a-43c0-a208-c6cc52d398f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: 6b19b4ee-b69f-3e35-acf4-a5c3583df187, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 01426fc6-55b2-4880-918c-fe7844bcc4e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-twww2.doushimeng.com}}, udp: true}
-- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 01426fc6-55b2-4880-918c-fe7844bcc4e6, udp: true}
+- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 54b1bd13-1ea5-4eb9-a2e2-7899eaf7cf60, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-twww2.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 54b1bd13-1ea5-4eb9-a2e2-7899eaf7cf60, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48875, type: ss, cipher: chacha20-ietf-poly1305, password: f54e6e8f-a2f9-4718-b099-5cdef4f99232, udp: true}
 - {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: f54e6e8f-a2f9-4718-b099-5cdef4f99232, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
 - {name: 🇹🇼 台湾02--1.3x - 小巫云 ☁️, server: xx.white51.top, port: 52968, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
@@ -26,11 +26,11 @@ proxies:
 - {name: 🇹🇼 台湾A | 抖音ip 01 | 1x - 小巫云 ☁️, server: gda.white51.top, port: 45779, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾B | 抖音ip 02 | 1x - 小巫云 ☁️, server: gdb.white51.top, port: 17455, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
 - {name: 🇹🇼 台湾C | 抖音ip 03 | 1x - 小巫云 ☁️, server: gdc.white51.top, port: 49239, type: ss, cipher: aes-128-gcm, password: 8c111c4f-d54d-43f9-95e1-23bf8958ec89, udp: true}
-- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gy.58n.net, port: 17629, type: trojan, password: 3b9cacd5-d235-3e4f-97be-ca5278132650, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 3b9cacd5-d235-3e4f-97be-ca5278132650, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 3b9cacd5-d235-3e4f-97be-ca5278132650, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 3b9cacd5-d235-3e4f-97be-ca5278132650, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 3b9cacd5-d235-3e4f-97be-ca5278132650, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gy.58n.net, port: 17629, type: trojan, password: b5cd0525-df4b-3ecb-ae8f-cee5b5724b4d, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: b5cd0525-df4b-3ecb-ae8f-cee5b5724b4d, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: b5cd0525-df4b-3ecb-ae8f-cee5b5724b4d, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: b5cd0525-df4b-3ecb-ae8f-cee5b5724b4d, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: b5cd0525-df4b-3ecb-ae8f-cee5b5724b4d, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: '🇹🇼 🇨🇳 台湾01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw01.bigmeyear.org, port: 20334, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
 - {name: '🇹🇼 🇨🇳 台湾02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw02.bigmeyear.org, port: 20335, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
 - {name: '🇹🇼 🇨🇳 台湾03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: tw03.bigmeyear.org, port: 20336, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
