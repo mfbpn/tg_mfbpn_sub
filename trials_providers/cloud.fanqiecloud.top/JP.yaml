@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 639665ab-8135-4aeb-bebe-7edecf25111d, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 0a861913-373f-4b3a-aded-8a6d7c284df7, udp: true}
