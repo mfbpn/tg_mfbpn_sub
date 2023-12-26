@@ -1,5 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - 一元云梯, server: yiyuanvpn.top, port: 8080, type: vmess, uuid: ac91d280-097d-4651-a95c-5668a8dbd701, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20231217, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
 - {name: 【公告】建议APP设置每次打开自动更新订阅或每天手动更新 - 一元云梯, server: yiyuanvpn.top, port: 8080, type: vmess, uuid: ac91d280-097d-4651-a95c-5668a8dbd701, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20231217, headers: {Host: yyjc-hk-ipv6-1.shaniugpt.top}}, udp: true}
