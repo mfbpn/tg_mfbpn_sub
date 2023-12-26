@@ -46,6 +46,7 @@ proxy-groups:
   - 🇩🇪 德国2 - 西瓜皮是真的皮
   - 🇬🇧 英国 1 - 西瓜皮是真的皮
   - 🇬🇧 英国 2 - 西瓜皮是真的皮
+  - 🇮🇳 印度 1 - 西瓜皮是真的皮
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -152,6 +153,7 @@ proxy-groups:
   - 🇩🇪 德国2 - 西瓜皮是真的皮
   - 🇬🇧 英国 1 - 西瓜皮是真的皮
   - 🇬🇧 英国 2 - 西瓜皮是真的皮
+  - 🇮🇳 印度 1 - 西瓜皮是真的皮
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -187,10 +189,11 @@ proxies:
 - {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 5bf3188a-356d-3f67-bf2a-587ba283e655, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
