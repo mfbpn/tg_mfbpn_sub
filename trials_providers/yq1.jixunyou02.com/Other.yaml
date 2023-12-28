@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：3 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 52e28a0f-694b-4a34-9014-2b449a3cf683, udp: true}
+- {name: 距离下次重置剩余：2 天 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49998, type: ss, cipher: chacha20-ietf-poly1305, password: 52e28a0f-694b-4a34-9014-2b449a3cf683, udp: true}
 - {name: 公益免费 🇳🇱荷兰 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49999, type: ss, cipher: chacha20-ietf-poly1305, password: 52e28a0f-694b-4a34-9014-2b449a3cf683, udp: true}
 - {name: 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 52e28a0f-694b-4a34-9014-2b449a3cf683, udp: true}

@@ -2,4 +2,3 @@
 ---
 proxies:
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 57d232a8-bd0e-45ec-b369-a7b1ed5b49dd, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 21552, type: ss, cipher: chacha20-ietf-poly1305, password: 57d232a8-bd0e-45ec-b369-a7b1ed5b49dd, udp: true}
