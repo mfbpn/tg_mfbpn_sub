@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 公益免费 🇳🇱荷兰 - Gegeth极迅游, server: ydfive.yb59.uk, port: 49999, type: ss, cipher: chacha20-ietf-poly1305, password: 6c62ddd6-4dca-4259-801d-f16727d9dae2, udp: true}

@@ -10,9 +10,11 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -20,8 +22,8 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id001
+  - JP
   - US
-  - p_All_Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -47,7 +49,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -56,26 +60,43 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇯🇵 ‍日本
+  type: url-test
+  tolerance: 100
+  use: &id002
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 300
-  use: &id002
+  use: &id003
   - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
-  use: &id003
-  - p_All_Other
+  use: &id004
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id002
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id003
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id004
 proxy-providers:
+  JP:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/yq1.jixunyou02.com/JP.yaml
+    interval: 180
+    path: trials_providers/yq1.jixunyou02.com/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   US:
     type: http
     url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/yq1.jixunyou02.com/US.yaml
@@ -85,11 +106,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/yq1.jixunyou02.com/p_All_Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/yq1.jixunyou02.com/Other.yaml
     interval: 180
-    path: trials_providers/yq1.jixunyou02.com/p_All_Other.yaml
+    path: trials_providers/yq1.jixunyou02.com/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
