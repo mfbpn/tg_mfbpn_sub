@@ -37,21 +37,21 @@ proxies:
 - {name: 🇩🇪 德国new01（1倍率） - 快狗云, server: de-new01.gujuji.top, port: 8080, type: vmess, uuid: 890b9ddb-3a7b-47b2-a1bd-9a2e838e3cf7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de-new01.gujuji.top}}, udp: true}
 - {name: 🇩🇪 德国new01优选（1倍率） - 快狗云, server: go.gujuji.top, port: 8080, type: vmess, uuid: 890b9ddb-3a7b-47b2-a1bd-9a2e838e3cf7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: de-new01.gujuji.top}}, udp: true}
 - {name: 🇰🇷 韩国01（1倍率） - 快狗云, server: kr-01.gujuji.top, port: 8080, type: vmess, uuid: 890b9ddb-3a7b-47b2-a1bd-9a2e838e3cf7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.gujuji.top}}, udp: true}
-- {name: 🇰🇷 South Korea - 番茄云, server: kr.fanqiecloud.top, port: 24954, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇰🇷 South Korea 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 1feb4619-a240-4286-b6d4-40ee28616f45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-kr2.fanqiecloud.top}}, udp: true}
-- {name: 🇰🇷 South Korea 3 - 番茄云, server: kr2.fanqiecloud.top, port: 20852, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇰🇷 South Korea 4 - 番茄云, server: kr3.fanqiecloud.top, port: 20102, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇨🇦 Canada - 番茄云, server: cf.fanqiecloud.top, port: 22554, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇧🇷 Brazil - 番茄云, server: bx.fanqiecloud.top, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇬🇧 England - 番茄云, server: uk.fanqiecloud.top, port: 24504, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇮🇹 Italy - 番茄云, server: it.fanqiecloud.top, port: 39052, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇩🇪 Germany - 番茄云, server: de.fanqiecloud.top, port: 22302, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇫🇷 Franch - 番茄云, server: fr.fanqiecloud.top, port: 50252, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇦🇺 Melbourne - 番茄云, server: au2.fanqiecloud.top, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇦🇺 Sydney - 番茄云, server: au.fanqiecloud.top, port: 21702, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇹🇷 Turkey - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 1feb4619-a240-4286-b6d4-40ee28616f45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tr.fanqiecloud.top}}, udp: true}
-- {name: 🇮🇳 India - 番茄云, server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: 1feb4619-a240-4286-b6d4-40ee28616f45, udp: true}
-- {name: 🇦🇪 Dubai - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: 1feb4619-a240-4286-b6d4-40ee28616f45, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-db.fanqiecloud.top}}, udp: true}
+- {name: 🇰🇷 South Korea - 番茄云, server: kr.fanqiecloud.top, port: 24954, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇰🇷 South Korea 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 67570cc1-f855-4156-8bbc-2318a585be35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-kr2.fanqiecloud.top}}, udp: true}
+- {name: 🇰🇷 South Korea 3 - 番茄云, server: kr2.fanqiecloud.top, port: 20852, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇰🇷 South Korea 4 - 番茄云, server: kr3.fanqiecloud.top, port: 20102, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇨🇦 Canada - 番茄云, server: cf.fanqiecloud.top, port: 22554, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇧🇷 Brazil - 番茄云, server: bx.fanqiecloud.top, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇬🇧 England - 番茄云, server: uk.fanqiecloud.top, port: 24504, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇮🇹 Italy - 番茄云, server: it.fanqiecloud.top, port: 39052, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇩🇪 Germany - 番茄云, server: de.fanqiecloud.top, port: 22302, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇫🇷 Franch - 番茄云, server: fr.fanqiecloud.top, port: 50252, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇦🇺 Melbourne - 番茄云, server: au2.fanqiecloud.top, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇦🇺 Sydney - 番茄云, server: au.fanqiecloud.top, port: 21702, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇹🇷 Turkey - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 67570cc1-f855-4156-8bbc-2318a585be35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tr.fanqiecloud.top}}, udp: true}
+- {name: 🇮🇳 India - 番茄云, server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: 67570cc1-f855-4156-8bbc-2318a585be35, udp: true}
+- {name: 🇦🇪 Dubai - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: 67570cc1-f855-4156-8bbc-2318a585be35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-db.fanqiecloud.top}}, udp: true}
 - {name: 🇰🇷 Korea-韩国 - 一机场, server: frontend.yijianlian.app, port: 54540, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺 Australia-澳大利亚 - 一机场, server: frontend.yijianlian.app, port: 54590, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 UK-英国 - 一机场, server: frontend.yijianlian.app, port: 54000, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
@@ -87,21 +87,21 @@ proxies:
 - {name: 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc237 - 永动机, server: zfkr2.30803080.xyz, port: 21025, type: vmess, uuid: 83e7babc-daae-41a7-8c01-8d14fe6b89cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc238 - 永动机, server: zfkr2.30803080.xyz, port: 21024, type: vmess, uuid: 83e7babc-daae-41a7-8c01-8d14fe6b89cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜中转3 -> 韩国｜vvSoc246 - 永动机, server: zfkr3.30803080.xyz, port: 20808, type: vmess, uuid: 83e7babc-daae-41a7-8c01-8d14fe6b89cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
-- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: ff08f331-5ef5-47cc-88d4-0daa704877d7, udp: true}
+- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
+- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 8fec536a-f499-4022-9cce-6cd1953e79fd, udp: true}
