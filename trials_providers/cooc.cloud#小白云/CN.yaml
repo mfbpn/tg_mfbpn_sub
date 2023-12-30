@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 / 华南｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 01dba0d9-dd72-4366-9a78-b4e8720dcdfe, udp: true}
-- {name: 🇭🇰 香港 / 华东｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 01dba0d9-dd72-4366-9a78-b4e8720dcdfe, udp: true}
-- {name: 🇭🇰 香港 / 备用｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 01dba0d9-dd72-4366-9a78-b4e8720dcdfe, udp: true}
-- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 01dba0d9-dd72-4366-9a78-b4e8720dcdfe, udp: true}
-- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 01dba0d9-dd72-4366-9a78-b4e8720dcdfe, udp: true}
-- {name: 🇭🇰 HK｜Overseas users - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 01dba0d9-dd72-4366-9a78-b4e8720dcdfe, udp: true}
-- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 01dba0d9-dd72-4366-9a78-b4e8720dcdfe, udp: true}
-- {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 01dba0d9-dd72-4366-9a78-b4e8720dcdfe, udp: true}
+- {name: 🇭🇰 香港 / 华南｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: dd5bd9ca-f50f-4bb5-8b9e-bdd4674a282a, udp: true}
+- {name: 🇭🇰 香港 / 华东｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: dd5bd9ca-f50f-4bb5-8b9e-bdd4674a282a, udp: true}
+- {name: 🇭🇰 香港 / 备用｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: dd5bd9ca-f50f-4bb5-8b9e-bdd4674a282a, udp: true}
+- {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: dd5bd9ca-f50f-4bb5-8b9e-bdd4674a282a, udp: true}
+- {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: dd5bd9ca-f50f-4bb5-8b9e-bdd4674a282a, udp: true}
+- {name: 🇭🇰 HK｜Overseas users - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: dd5bd9ca-f50f-4bb5-8b9e-bdd4674a282a, udp: true}
+- {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: dd5bd9ca-f50f-4bb5-8b9e-bdd4674a282a, udp: true}
+- {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: dd5bd9ca-f50f-4bb5-8b9e-bdd4674a282a, udp: true}
