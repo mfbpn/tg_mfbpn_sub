@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡1 - 一元云梯, server: cdn1.shaniugpt.top, port: 8080, type: vmess, uuid: 4765a50d-409d-40fb-9b9d-9da0fdc1131e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-sg-20240101.shaniugpt.top}}, udp: true}
-- {name: 🇸🇬 新加坡2 - 一元云梯, server: cdn3.shaniugpt.top, port: 8080, type: vmess, uuid: 4765a50d-409d-40fb-9b9d-9da0fdc1131e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-sg-20240101.shaniugpt.top}}, udp: true}
-- {name: 【VIP】🇸🇬 新加坡|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: 4765a50d-409d-40fb-9b9d-9da0fdc1131e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-sg-20240101.bzqjc.top}}, udp: true}
+- {name: 🇸🇬 新加坡1 - 一元云梯, server: cdn1.shaniugpt.top, port: 8080, type: vmess, uuid: 033f989d-8fc4-4be0-ac2f-cab40cc399f2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-sg-20240101.shaniugpt.top}}, udp: true}
+- {name: 🇸🇬 新加坡2 - 一元云梯, server: cdn3.shaniugpt.top, port: 8080, type: vmess, uuid: 033f989d-8fc4-4be0-ac2f-cab40cc399f2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-sg-20240101.shaniugpt.top}}, udp: true}
+- {name: 【VIP】🇸🇬 新加坡|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: 033f989d-8fc4-4be0-ac2f-cab40cc399f2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-sg-20240101.bzqjc.top}}, udp: true}
