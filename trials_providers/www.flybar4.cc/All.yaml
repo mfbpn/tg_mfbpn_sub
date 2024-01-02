@@ -12,6 +12,11 @@ proxies:
 - {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 8d35e5b7-8c04-37ff-b34a-932ccbbf70c7, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
