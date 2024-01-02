@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 【公告】建议APP设置每次打开自动更新订阅或每天手动更新 - 一元云梯, server: m01.yiyuanvpn.top, port: 8080, type: vmess, uuid: 238763bc-96af-41ee-9a8d-b7f4aaa8bc7f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-hk-20240101.shaniugpt.top}}, udp: true}
+- {name: ℹ 【公告】建议APP设置每次打开自动更新订阅或每天手动更新 - 一元云梯, server: m01.yiyuanvpn.top, port: 8080, type: vmess, uuid: 6f6ee9dc-11f9-432d-a96c-f025de015755, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-hk-20240101.shaniugpt.top}}, udp: true}
