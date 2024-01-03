@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 9f3f77c8-9645-3b40-ac5e-9621bc573744, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 9f3f77c8-9645-3b40-ac5e-9621bc573744, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 54499073-de33-30fc-8952-cd7f53ba1349, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 54499073-de33-30fc-8952-cd7f53ba1349, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
 - {name: 🇸🇬 SG新加坡 B - 可乐云, server: sg.colacloud.site, port: 20153, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
@@ -10,7 +10,7 @@ proxies:
 - {name: 🇸🇬 新加坡2 - 一元云梯, server: cdn3.shaniugpt.top, port: 8080, type: vmess, uuid: cff78ec5-6a89-4a6a-a9ef-0dfc6f44c786, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-sg-20240101.shaniugpt.top}}, udp: true}
 - {name: 【VIP】🇸🇬 新加坡|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: cff78ec5-6a89-4a6a-a9ef-0dfc6f44c786, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-sg-20240101.bzqjc.top}}, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: adb18a88-8eb2-4764-8bef-7f8d13ae935e, udp: true}
-- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 15ec3479-8d0e-4c57-8b18-78603b220a61, udp: true}
+- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: fc8a6d73-b427-4c41-a49f-68b84e112ea0, udp: true}
 - {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-解锁08 - PL, server: xjp08.bbx9527.xyz, port: 46102, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
@@ -33,9 +33,9 @@ proxies:
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 5b8a1559-a00a-380d-8960-e943226f76a4, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 5b8a1559-a00a-380d-8960-e943226f76a4, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 5b8a1559-a00a-380d-8960-e943226f76a4, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡(免费) - bee.sulepay.com, server: freezhongzhuan.7n1gg.cn, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19529:UXZe2X, obfs-param: 3909d19529.microsoft.com, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 482e3276-9ffc-31f8-8b77-aecd26ba7a28, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 482e3276-9ffc-31f8-8b77-aecd26ba7a28, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
+- {name: 🇸🇬 新加坡(免费) - bee.sulepay.com, server: freezhongzhuan.7n1gg.cn, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19580:GMymnS, obfs-param: 8f25919580.microsoft.com, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 332b5ef9-d863-343c-9850-034e5e42c5b8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 332b5ef9-d863-343c-9850-034e5e42c5b8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
 - {name: '🇸🇬 新加坡01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg01.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
 - {name: '🇸🇬 新加坡02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg02.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
 - {name: '🇸🇬 新加坡03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: sg03.bigmeyear.org, port: 30233, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
