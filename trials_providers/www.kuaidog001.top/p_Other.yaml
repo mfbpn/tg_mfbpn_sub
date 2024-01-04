@@ -1,5 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 距离下次重置剩余：30 天 - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: db2b1232-4a02-486c-a007-9b5c8dd50dc8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
-- {name: ℹ 官网https://www.kuaidog002.top - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: db2b1232-4a02-486c-a007-9b5c8dd50dc8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
+- {name: ℹ 官网https://www.kuaidog002.top - 快狗云, server: ca-01.gujuji.top, port: 8080, type: vmess, uuid: 4a4d3353-9d17-4f11-8c55-07d8a2974594, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.gujuji.top}}, udp: true}
