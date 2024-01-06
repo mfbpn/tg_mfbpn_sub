@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国1 - 一元云梯, server: cdn1.shaniugpt.top, port: 8080, type: vmess, uuid: 19a196d8-d668-4296-9e97-1fbd57fd9d4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-us-20240101.shaniugpt.top}}, udp: true}
-- {name: 🇺🇸 美国2 - 一元云梯, server: cdn3.shaniugpt.top, port: 8080, type: vmess, uuid: 19a196d8-d668-4296-9e97-1fbd57fd9d4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-us-20240101.shaniugpt.top}}, udp: true}
-- {name: 【VIP】🇺🇸 美国1|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: 19a196d8-d668-4296-9e97-1fbd57fd9d4b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-us-20240101.bzqjc.top}}, udp: true}
+- {name: 🇺🇸 美国1 - 一元云梯, server: cdn1.shaniugpt.top, port: 8080, type: vmess, uuid: c6cd5a18-b9a0-4636-9427-930595b4a52d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-us-20240101.shaniugpt.top}}, udp: true}
+- {name: 🇺🇸 美国2 - 一元云梯, server: cdn3.shaniugpt.top, port: 8080, type: vmess, uuid: c6cd5a18-b9a0-4636-9427-930595b4a52d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-us-20240101.shaniugpt.top}}, udp: true}
+- {name: 【VIP】🇺🇸 美国1|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: c6cd5a18-b9a0-4636-9427-930595b4a52d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-us-20240101.bzqjc.top}}, udp: true}
