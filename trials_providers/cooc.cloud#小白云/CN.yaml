@@ -6,6 +6,5 @@ proxies:
 - {name: 🇭🇰 香港 / 备用｜HK - 小白云, server: hk3.iepl.cooc.icu, port: 23881, type: ss, cipher: aes-256-gcm, password: 9dd16b05-19f3-44f4-8fd1-cd640a574bb9, udp: true}
 - {name: 🇹🇼 台湾 / 华东｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 9dd16b05-19f3-44f4-8fd1-cd640a574bb9, udp: true}
 - {name: 🇹🇼 台湾 / 华南｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 9dd16b05-19f3-44f4-8fd1-cd640a574bb9, udp: true}
-- {name: 🇭🇰 HK｜Overseas users - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 9dd16b05-19f3-44f4-8fd1-cd640a574bb9, udp: true}
 - {name: 🇹🇼 TW｜Overseas users - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 9dd16b05-19f3-44f4-8fd1-cd640a574bb9, udp: true}
 - {name: 🇲🇴 MO｜Overseas users - 小白云, server: mo.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 9dd16b05-19f3-44f4-8fd1-cd640a574bb9, udp: true}
