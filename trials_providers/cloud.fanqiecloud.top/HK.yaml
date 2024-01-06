@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 895cf42b-cd65-4064-b12f-1d2c18c87e5a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: 895cf42b-cd65-4064-b12f-1d2c18c87e5a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dl3.fanqiecloud.top, port: 2086, type: vmess, uuid: 895cf42b-cd65-4064-b12f-1d2c18c87e5a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 85de5aa9-0dea-4411-a0de-871cd83e8ad0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: 85de5aa9-0dea-4411-a0de-871cd83e8ad0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dl3.fanqiecloud.top, port: 2086, type: vmess, uuid: 85de5aa9-0dea-4411-a0de-871cd83e8ad0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3.fanqiecloud.top}}, udp: true}
