@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: 09dc64b0-8709-32bb-a459-76e18cf486ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: 09dc64b0-8709-32bb-a459-76e18cf486ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62003, type: vmess, uuid: 09dc64b0-8709-32bb-a459-76e18cf486ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62015, type: vmess, uuid: 09dc64b0-8709-32bb-a459-76e18cf486ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: ee73ab26-3927-30bd-9ea9-99394f726c65, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: ee73ab26-3927-30bd-9ea9-99394f726c65, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62003, type: vmess, uuid: ee73ab26-3927-30bd-9ea9-99394f726c65, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62015, type: vmess, uuid: ee73ab26-3927-30bd-9ea9-99394f726c65, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
