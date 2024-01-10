@@ -47,6 +47,7 @@ proxy-groups:
   - 【VVIP】🇰🇷 韩国2|中转|VMESS - 一元云梯
   - 【VIP】🇬🇧 英国1|CDN|VMESS - 一元云梯
   - 【VVIP】🇬🇧 英国1|中转|VMESS - 一元云梯
+  - 【VVIP】🇩🇪 德国|中转|VMESS - 一元云梯
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -130,6 +131,7 @@ proxy-groups:
   - 【VVIP】🇰🇷 韩国2|中转|VMESS - 一元云梯
   - 【VIP】🇬🇧 英国1|CDN|VMESS - 一元云梯
   - 【VVIP】🇬🇧 英国1|中转|VMESS - 一元云梯
+  - 【VVIP】🇩🇪 德国|中转|VMESS - 一元云梯
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -167,6 +169,7 @@ proxies:
 - {name: 【VVIP】🇺🇸 美国1|中转|VMESS - 一元云梯, server: zz-cmi.shaniugpt.top, port: 12082, type: vmess, uuid: 62b72ab1-1cff-4ada-a240-8c6d3cf1b159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-us-20240101.bzqjc.top}}, udp: true}
 - {name: 【VIP】🇬🇧 英国1|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: 62b72ab1-1cff-4ada-a240-8c6d3cf1b159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-uk-20240101.bzqjc.top}}, udp: true}
 - {name: 【VVIP】🇬🇧 英国1|中转|VMESS - 一元云梯, server: zz-cmi.shaniugpt.top, port: 12082, type: vmess, uuid: 62b72ab1-1cff-4ada-a240-8c6d3cf1b159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-uk-20240101.bzqjc.top}}, udp: true}
+- {name: 【VVIP】🇩🇪 德国|中转|VMESS - 一元云梯, server: zz-cmi.shaniugpt.top, port: 12082, type: vmess, uuid: 62b72ab1-1cff-4ada-a240-8c6d3cf1b159, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-de-20240101.bzqjc.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
