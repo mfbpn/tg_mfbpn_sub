@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: f4b3d926-5c29-327d-a0ac-29537103af62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: f4b3d926-5c29-327d-a0ac-29537103af62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: f4b3d926-5c29-327d-a0ac-29537103af62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: f4b3d926-5c29-327d-a0ac-29537103af62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: f4b3d926-5c29-327d-a0ac-29537103af62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 507a4aa0-d08c-3f83-a3b2-4341f239c209, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 507a4aa0-d08c-3f83-a3b2-4341f239c209, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 507a4aa0-d08c-3f83-a3b2-4341f239c209, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 507a4aa0-d08c-3f83-a3b2-4341f239c209, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 507a4aa0-d08c-3f83-a3b2-4341f239c209, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇳🇴 挪威 | 01 - 猪网-PIGVIP, server: nw01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇨🇭 瑞士 | 01 | 抖音 - 猪网-PIGVIP, server: rs01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
@@ -72,11 +72,11 @@ proxies:
 - {name: 🇦🇺 悉尼vmzz - PL, server: nnrxnvm01.bbx9527.xyz, port: 35295, type: vmess, uuid: 848f4573-222e-40a8-b9df-5689cfc8be00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: www.bing.com}}, udp: true}
 - {name: 🇩🇪 德国sszz - PL, server: nnr01dgss.bbx9527.xyz, port: 25684, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
 - {name: 🇦🇺 悉尼sszz - PL, server: nnr01xnss.bbx9527.xyz, port: 25280, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
-- {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 10443, type: trojan, password: 8aa4cda8-cdc9-3273-a5fc-84764399fd1e, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 20443, type: trojan, password: 8aa4cda8-cdc9-3273-a5fc-84764399fd1e, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 30443, type: trojan, password: 8aa4cda8-cdc9-3273-a5fc-84764399fd1e, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 40443, type: trojan, password: 8aa4cda8-cdc9-3273-a5fc-84764399fd1e, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 50443, type: trojan, password: 8aa4cda8-cdc9-3273-a5fc-84764399fd1e, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 10443, type: trojan, password: 0461b776-d917-32ea-a127-e43265b22dee, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 20443, type: trojan, password: 0461b776-d917-32ea-a127-e43265b22dee, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 30443, type: trojan, password: 0461b776-d917-32ea-a127-e43265b22dee, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 40443, type: trojan, password: 0461b776-d917-32ea-a127-e43265b22dee, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip101.qlgq1.pw, port: 50443, type: trojan, password: 0461b776-d917-32ea-a127-e43265b22dee, sni: fkvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
 - {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 3aa55142-a21f-3160-b656-95a72fe21782, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 3aa55142-a21f-3160-b656-95a72fe21782, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 3aa55142-a21f-3160-b656-95a72fe21782, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -96,22 +96,22 @@ proxies:
 - {name: 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc237 - 永动机, server: zfkr2.30803080.xyz, port: 21025, type: vmess, uuid: 83e7babc-daae-41a7-8c01-8d14fe6b89cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜中转2 -> 韩国｜vvSoc238 - 永动机, server: zfkr2.30803080.xyz, port: 21024, type: vmess, uuid: 83e7babc-daae-41a7-8c01-8d14fe6b89cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
 - {name: 🇰🇷 白银vip｜中转3 -> 韩国｜vvSoc246 - 永动机, server: zfkr3.30803080.xyz, port: 20808, type: vmess, uuid: 83e7babc-daae-41a7-8c01-8d14fe6b89cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /yongdong, headers: {Host: yongdong.xyz}}, udp: true}
-- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 1HK｜Overseas users - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
-- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 2d33b0d6-f338-47c4-9bf7-a2765e5cad56, udp: true}
+- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 1HK｜Overseas users - 小白云, server: hk.cooc.icu, port: 31511, type: ss, cipher: aes-256-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}
+- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 8359a698-b92e-494a-8228-e77eafa8ca0f, udp: true}

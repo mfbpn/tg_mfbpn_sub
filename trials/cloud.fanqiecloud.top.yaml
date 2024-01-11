@@ -11,16 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -35,8 +31,6 @@ proxy-groups:
   - 🇭🇰 Hongkong - 番茄云
   - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰 Hongkong 3 - 番茄云
-  - 🇹🇼 Taiwan - 番茄云
-  - 🇹🇼 Taiwan 2 - 番茄云
   - 🇸🇬 Singapore - 番茄云
   - 🇯🇵 Japan - 番茄云
   - 🇺🇸 America - 番茄云
@@ -73,14 +67,10 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
-  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -89,11 +79,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
-  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -113,45 +101,26 @@ proxy-groups:
   - 🇭🇰 Hongkong - 番茄云
   - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰 Hongkong 3 - 番茄云
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 Taiwan - 番茄云
-  - 🇹🇼 Taiwan 2 - 番茄云
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 Hongkong - 番茄云
-  - 🇭🇰 Hongkong 2 - 番茄云
-  - 🇭🇰 Hongkong 3 - 番茄云
-  - 🇹🇼 Taiwan - 番茄云
-  - 🇹🇼 Taiwan 2 - 番茄云
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id005
+  proxies: &id003
   - 🇸🇬 Singapore - 番茄云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id006
+  proxies: &id004
   - 🇯🇵 Japan - 番茄云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id007
+  proxies: &id005
   - 🇺🇸 America - 番茄云
   - 🇺🇸 America 2 - 番茄云
 - name: 🎏 ‍其他
@@ -159,7 +128,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
+  proxies: &id006
   - 🇰🇷 South Korea - 番茄云
   - 🇰🇷 South Korea 2 - 番茄云
   - 🇰🇷 South Korea 3 - 番茄云
@@ -183,24 +152,18 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id005
+  proxies: *id003
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id006
+  proxies: *id004
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id005
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id006
 proxies:
 - {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
 - {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
@@ -210,8 +173,6 @@ proxies:
 - {name: 🇰🇷 South Korea 3 - 番茄云, server: kr2.fanqiecloud.top, port: 20852, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
 - {name: 🇰🇷 South Korea 4 - 番茄云, server: kr3.fanqiecloud.top, port: 20102, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
-- {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48875, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
-- {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
 - {name: 🇨🇦 Canada - 番茄云, server: cf.fanqiecloud.top, port: 22554, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
 - {name: 🇧🇷 Brazil - 番茄云, server: bx.fanqiecloud.top, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
 - {name: 🇬🇧 England - 番茄云, server: uk.fanqiecloud.top, port: 24504, type: ss, cipher: chacha20-ietf-poly1305, password: 439c8ae8-73a7-4584-99f3-5dacabe34bd5, udp: true}
