@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【主页】m02.yiyuanvpn.top - 一元云梯, server: m01.yiyuanvpn.top, port: 8080, type: vmess, uuid: 53cf4550-9522-491e-86d2-f8440eab45cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-hk-20240101.shaniugpt.top}}, udp: true}
+- {name: 【主页】m03.yiyuanvpn.top - 一元云梯, server: m01.yiyuanvpn.top, port: 8080, type: vmess, uuid: 53cf4550-9522-491e-86d2-f8440eab45cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-hk-20240101.shaniugpt.top}}, udp: true}
 - {name: ℹ 【公告】建议APP设置每次打开自动更新订阅或每天手动更新 - 一元云梯, server: m01.yiyuanvpn.top, port: 8080, type: vmess, uuid: 53cf4550-9522-491e-86d2-f8440eab45cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-hk-20240101.shaniugpt.top}}, udp: true}
 - {name: 【介绍】一元云梯，不定时上新更稳定的VIP节点 - 一元云梯, server: m01.yiyuanvpn.top, port: 8080, type: vmess, uuid: 53cf4550-9522-491e-86d2-f8440eab45cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-hk-20240101.shaniugpt.top}}, udp: true}
 - {name: 🇰🇷 韩国1 - 一元云梯, server: cdn1.shaniugpt.top, port: 8080, type: vmess, uuid: 53cf4550-9522-491e-86d2-f8440eab45cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyjc-kr-20240101.shaniugpt.top}}, udp: true}
