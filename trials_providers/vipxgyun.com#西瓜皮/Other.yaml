@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: c42e1eef-7e8e-39f8-8957-9a5e95da68f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: c42e1eef-7e8e-39f8-8957-9a5e95da68f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: c42e1eef-7e8e-39f8-8957-9a5e95da68f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: c42e1eef-7e8e-39f8-8957-9a5e95da68f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: c42e1eef-7e8e-39f8-8957-9a5e95da68f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: d144b625-e60c-37fd-8ebb-1de3f2850f0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: d144b625-e60c-37fd-8ebb-1de3f2850f0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: d144b625-e60c-37fd-8ebb-1de3f2850f0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: d144b625-e60c-37fd-8ebb-1de3f2850f0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: d144b625-e60c-37fd-8ebb-1de3f2850f0f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
