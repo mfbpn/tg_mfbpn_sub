@@ -35,7 +35,7 @@ proxy-groups:
   - SG
   - JP
   - US
-  - p_All_Other
+  - Other
   - p_All_CN
 - name: 🛩️ ‍墙内
   type: select
@@ -119,7 +119,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id008
-  - p_All_Other
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -190,11 +190,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cooc.cloud#小白云/p_All_Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cooc.cloud#小白云/Other.yaml
     interval: 180
-    path: trials_providers/cooc.cloud#小白云/p_All_Other.yaml
+    path: trials_providers/cooc.cloud#小白云/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
