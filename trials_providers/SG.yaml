@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 3778a62e-0f29-3456-a99a-48e65ba8d176, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 3778a62e-0f29-3456-a99a-48e65ba8d176, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: d69a5d32-ddb5-3bed-af9a-594f2f8c13da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: d69a5d32-ddb5-3bed-af9a-594f2f8c13da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡|02|新加坡 - 猪网-PIGVIP, server: xjp02.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pigvip.xyz}}, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
 - {name: 🇸🇬 SG新加坡 B - 可乐云, server: sg.colacloud.site, port: 20153, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
@@ -21,11 +21,11 @@ proxies:
 - {name: 🇸🇬 新加坡-解锁05 - PL, server: xjp05.bbx9527.xyz, port: 35983, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
 - {name: 🇸🇬 新加坡-解锁06 - PL, server: xjp06.bbx9527.xyz, port: 35986, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
 - {name: 🇸🇬 新加坡-解锁07 - PL, server: xjp07.bbx9527.xyz, port: 26045, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
-- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 7cce4568-2a61-329d-b409-eabaffb8215a, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: 7cce4568-2a61-329d-b409-eabaffb8215a, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 30443, type: trojan, password: 7cce4568-2a61-329d-b409-eabaffb8215a, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 40443, type: trojan, password: 7cce4568-2a61-329d-b409-eabaffb8215a, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 50443, type: trojan, password: 7cce4568-2a61-329d-b409-eabaffb8215a, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 10443, type: trojan, password: 1b6f14d5-a7b1-3d51-a56d-9b41f777827b, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 20443, type: trojan, password: 1b6f14d5-a7b1-3d51-a56d-9b41f777827b, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 30443, type: trojan, password: 1b6f14d5-a7b1-3d51-a56d-9b41f777827b, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 40443, type: trojan, password: 1b6f14d5-a7b1-3d51-a56d-9b41f777827b, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq1.pw, port: 50443, type: trojan, password: 1b6f14d5-a7b1-3d51-a56d-9b41f777827b, sni: sgvip101.qlgq1.pw, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: fae56a35-a1a8-3e1d-97aa-adb9e9ce7fa1, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: fae56a35-a1a8-3e1d-97aa-adb9e9ce7fa1, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: fae56a35-a1a8-3e1d-97aa-adb9e9ce7fa1, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
