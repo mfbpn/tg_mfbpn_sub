@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【VIP】🇸🇬 新加坡|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: 446bb13a-dbd6-4c06-835d-38d7e32e9913, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-sg-20240101.bzqjc.top}}, udp: true}
+- {name: 【VIP】🇸🇬 新加坡|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: c282ad21-5f2d-4341-ba24-57966ce12273, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-sg-20240101.bzqjc.top}}, udp: true}

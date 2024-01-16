@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本(免費) - bee.sulepay.com, server: v3nw.7n1gg.cn, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19712:pVon47, obfs-param: 356a619712.microsoft.com, udp: true}
+- {name: 🇯🇵 日本(免費) - bee.sulepay.com, server: v3nw.7n1gg.cn, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19733:I7Zjt1, obfs-param: 8a17119733.microsoft.com, udp: true}
