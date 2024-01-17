@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 8bd201b2-44d9-3ed8-801f-1da9ae40f75d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 8bd201b2-44d9-3ed8-801f-1da9ae40f75d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 47025fcc-14e5-336a-bfca-b78eb3c85f3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 47025fcc-14e5-336a-bfca-b78eb3c85f3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1(SS) - 麻雀加速器 Sparrow, server: b11.ntbq.dynu.net, port: 6543, type: ss, cipher: chacha20-ietf-poly1305, password: 60ab817e-0566-44cb-becd-6b51698d5672, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: 60ab817e-0566-44cb-becd-6b51698d5672, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 60ab817e-0566-44cb-becd-6b51698d5672, udp: true}
