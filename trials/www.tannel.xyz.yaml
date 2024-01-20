@@ -9,7 +9,31 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - DIRECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务
+  - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
+  - 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务
+  - 🇺🇲 美国丨波特兰 - Tannel中继网络服务
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -25,11 +49,25 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 👆🏻🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
+  - 🇯🇵 ‍日本
+  - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -38,10 +76,68 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
+  - 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务
+  - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id006
+  - 🇺🇲 美国丨波特兰 - Tannel中继网络服务
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id005
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id006
 proxies:
-- {name: 🇨🇳 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: d26146a1-4621-3efc-8b42-3ab870ed29c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: d26146a1-4621-3efc-8b42-3ab870ed29c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本A丨Lin丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62001, type: vmess, uuid: d26146a1-4621-3efc-8b42-3ab870ed29c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国丨波特兰 - Tannel中继网络服务, server: www.zztannel.com, port: 62014, type: vmess, uuid: d26146a1-4621-3efc-8b42-3ab870ed29c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国丨波特兰 - Tannel中继网络服务, server: www.zztannel.com, port: 62014, type: vmess, uuid: d26146a1-4621-3efc-8b42-3ab870ed29c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62016, type: vmess, uuid: d26146a1-4621-3efc-8b42-3ab870ed29c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62003, type: vmess, uuid: d26146a1-4621-3efc-8b42-3ab870ed29c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港福利BGP丨流媒体 - Tannel中继网络服务, server: iepl.zztannel.com, port: 62015, type: vmess, uuid: d26146a1-4621-3efc-8b42-3ab870ed29c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
