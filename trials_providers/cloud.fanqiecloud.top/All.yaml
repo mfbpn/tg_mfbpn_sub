@@ -14,6 +14,7 @@ proxies:
 - {name: 🇮🇹 Italy - 番茄云, server: it.fanqiecloud.top, port: 39052, type: ss, cipher: chacha20-ietf-poly1305, password: efa9b67e-5489-4197-89c4-38129814f71b, udp: true}
 - {name: 🇮🇹 Italy 2 - 番茄云, server: dl3.fanqiecloud.top, port: 2052, type: vmess, uuid: efa9b67e-5489-4197-89c4-38129814f71b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-it.fanqiecloud.top}}, udp: true}
 - {name: 🇩🇪 Germany - 番茄云, server: de.fanqiecloud.top, port: 22302, type: ss, cipher: chacha20-ietf-poly1305, password: efa9b67e-5489-4197-89c4-38129814f71b, udp: true}
+- {name: 🇩🇪 Germany 2 - 番茄云, server: dl1.fanqiecloud.top, port: 2095, type: vmess, uuid: efa9b67e-5489-4197-89c4-38129814f71b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-de.fanqiecloud.top}}, udp: true}
 - {name: 🇫🇷 Franch - 番茄云, server: fr.fanqiecloud.top, port: 50252, type: ss, cipher: chacha20-ietf-poly1305, password: efa9b67e-5489-4197-89c4-38129814f71b, udp: true}
 - {name: 🇦🇺 Melbourne - 番茄云, server: au2.fanqiecloud.top, port: 58202, type: ss, cipher: chacha20-ietf-poly1305, password: efa9b67e-5489-4197-89c4-38129814f71b, udp: true}
 - {name: 🇦🇺 Sydney - 番茄云, server: au.fanqiecloud.top, port: 21702, type: ss, cipher: chacha20-ietf-poly1305, password: efa9b67e-5489-4197-89c4-38129814f71b, udp: true}
@@ -24,4 +25,3 @@ proxies:
 - {name: 🇳🇱 Netherlands - 番茄云, server: dl2.fanqiecloud.top, port: 2086, type: vmess, uuid: efa9b67e-5489-4197-89c4-38129814f71b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nl.fanqiecloud.top}}, udp: true}
 - {name: 🇮🇳 India - 番茄云, server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: efa9b67e-5489-4197-89c4-38129814f71b, udp: true}
 - {name: 🇦🇪 Dubai - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: efa9b67e-5489-4197-89c4-38129814f71b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-db.fanqiecloud.top}}, udp: true}
-- {name: 🇩🇪 Germany 2 - 番茄云, server: dl1.fanqiecloud.top, port: 2095, type: vmess, uuid: efa9b67e-5489-4197-89c4-38129814f71b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-de.fanqiecloud.top}}, udp: true}
