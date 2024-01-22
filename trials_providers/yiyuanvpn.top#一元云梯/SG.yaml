@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 【中级】🇸🇬 新加坡|CDN|VMESS - 一元云梯, server: cdn.shaniugpt.top, port: 2082, type: vmess, uuid: 8fd2b7d5-76aa-467a-a6e4-8bbef4d96f24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /20240101, headers: {Host: yyyt-vip-sg-20240101.bzqjc.top}}, udp: true}
