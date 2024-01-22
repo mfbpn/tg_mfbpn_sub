@@ -14,13 +14,11 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -29,7 +27,6 @@ proxy-groups:
   - HK
   - TW
   - JP
-  - US
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -57,8 +54,6 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 👆🏻🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
@@ -93,11 +88,6 @@ proxy-groups:
   tolerance: 100
   use: &id005
   - JP
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 300
-  use: &id006
-  - US
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -113,9 +103,6 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id005
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id006
 proxy-providers:
   HK:
     type: http
@@ -140,15 +127,6 @@ proxy-providers:
     url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.tannel.xyz/JP.yaml
     interval: 180
     path: trials_providers/www.tannel.xyz/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.tannel.xyz/US.yaml
-    interval: 180
-    path: trials_providers/www.tannel.xyz/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
