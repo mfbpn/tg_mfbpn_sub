@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 公益免费 🇺🇸美国 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 7feb1de1-71a6-4756-bfdb-c5a8da5d56d1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
+- {name: 公益免费 🇺🇸美国 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 3e8ff9ed-8ef4-40fd-a396-e9418b3b1d56, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
