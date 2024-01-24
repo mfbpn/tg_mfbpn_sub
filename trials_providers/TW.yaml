@@ -12,7 +12,7 @@ proxies:
 - {name: 🇹🇼 TW-桃园1-2(SS) - 麻雀加速器 Sparrow, server: ty12.twty.dynu.net, port: 4303, type: ss, cipher: chacha20-ietf-poly1305, password: bc22f8b6-a366-4c09-812f-64da5a6a15b1, udp: true}
 - {name: 🇹🇼 TW-台中1-1(SS) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 3234, type: ss, cipher: chacha20-ietf-poly1305, password: bc22f8b6-a366-4c09-812f-64da5a6a15b1, udp: true}
 - {name: 🇹🇼 TW-台中1-2(TCP) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 6122, type: vmess, uuid: bc22f8b6-a366-4c09-812f-64da5a6a15b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: 09967978-037f-3c9f-a664-13f178c044a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: f561b677-27d7-3d28-bf64-cb0774018452, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾258•高速 - 飞翔吧, server: gy.58n.net, port: 17629, type: trojan, password: fe3b1890-06de-3927-a751-1ec94590dbc3, sni: z258.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: fe3b1890-06de-3927-a751-1ec94590dbc3, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: fe3b1890-06de-3927-a751-1ec94590dbc3, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
