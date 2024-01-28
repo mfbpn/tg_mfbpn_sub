@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: bc22f8b6-a366-4c09-812f-64da5a6a15b1, udp: true}
-- {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: bc22f8b6-a366-4c09-812f-64da5a6a15b1, udp: true}
-- {name: 🇹🇼 TW-板桥2-2(TCP) - 麻雀加速器 Sparrow, server: nb22.ntbq.dynu.net, port: 12002, type: vmess, uuid: bc22f8b6-a366-4c09-812f-64da5a6a15b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-板桥2-3(TCP) - 麻雀加速器 Sparrow, server: b23.ntbq.dynu.net, port: 2024, type: vmess, uuid: bc22f8b6-a366-4c09-812f-64da5a6a15b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-板桥2-4(TCP) - 麻雀加速器 Sparrow, server: nb24.ntbq.dynu.net, port: 4443, type: vmess, uuid: bc22f8b6-a366-4c09-812f-64da5a6a15b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-桃园1-1(SS) - 麻雀加速器 Sparrow, server: ty11.twty.dynu.net, port: 2203, type: ss, cipher: chacha20-ietf-poly1305, password: bc22f8b6-a366-4c09-812f-64da5a6a15b1, udp: true}
-- {name: 🇹🇼 TW-桃园1-2(SS) - 麻雀加速器 Sparrow, server: ty12.twty.dynu.net, port: 4303, type: ss, cipher: chacha20-ietf-poly1305, password: bc22f8b6-a366-4c09-812f-64da5a6a15b1, udp: true}
-- {name: 🇹🇼 TW-台中1-1(SS) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 3234, type: ss, cipher: chacha20-ietf-poly1305, password: bc22f8b6-a366-4c09-812f-64da5a6a15b1, udp: true}
-- {name: 🇹🇼 TW-台中1-2(TCP) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 6122, type: vmess, uuid: bc22f8b6-a366-4c09-812f-64da5a6a15b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, udp: true}
+- {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, udp: true}
+- {name: 🇹🇼 TW-板桥2-2(TCP) - 麻雀加速器 Sparrow, server: nb22.ntbq.dynu.net, port: 12002, type: vmess, uuid: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-板桥2-3(TCP) - 麻雀加速器 Sparrow, server: b23.ntbq.dynu.net, port: 2024, type: vmess, uuid: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-板桥2-4(TCP) - 麻雀加速器 Sparrow, server: nb24.ntbq.dynu.net, port: 4443, type: vmess, uuid: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-桃园1-1(SS) - 麻雀加速器 Sparrow, server: ty11.twty.dynu.net, port: 2203, type: ss, cipher: chacha20-ietf-poly1305, password: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, udp: true}
+- {name: 🇹🇼 TW-桃园1-2(SS) - 麻雀加速器 Sparrow, server: ty12.twty.dynu.net, port: 4303, type: ss, cipher: chacha20-ietf-poly1305, password: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, udp: true}
+- {name: 🇹🇼 TW-台中1-1(SS) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 3234, type: ss, cipher: chacha20-ietf-poly1305, password: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, udp: true}
+- {name: 🇹🇼 TW-台中1-2(TCP) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 6122, type: vmess, uuid: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
