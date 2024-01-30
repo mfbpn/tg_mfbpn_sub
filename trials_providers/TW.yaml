@@ -2,8 +2,8 @@
 ---
 proxies:
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: f9a081d7-eece-3b32-82b3-2b8d484cc70f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 1e9b2ec8-81c3-339a-aa1f-57d9110817df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 1e9b2ec8-81c3-339a-aa1f-57d9110817df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19821, type: vmess, uuid: 7bc5844e-f0db-3004-a179-9b379e49c2aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19822, type: vmess, uuid: 7bc5844e-f0db-3004-a179-9b379e49c2aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(SS) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(SS) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 7773, type: ss, cipher: chacha20-ietf-poly1305, password: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, udp: true}
 - {name: 🇹🇼 TW-板桥2-2(TCP) - 麻雀加速器 Sparrow, server: nb22.ntbq.dynu.net, port: 12002, type: vmess, uuid: 1d08abce-b0ad-4f5e-aa49-884d5f6690f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
