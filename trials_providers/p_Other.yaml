@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 36321d05-2e40-4fca-981f-1a2186cbe924, udp: true}
+- {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: cf3728dd-e0ee-4d8e-9765-02f14c084c72, udp: true}
 - {name: ℹ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 032929a4-dca9-4d4e-887d-d8f4c9da189a, udp: true}
 - {name: ℹ 距离下次重置剩余：13 天 - Itdog云, server: www.itdog.cloud, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2df5564c-621e-4ace-8f3c-beaeef79303e, udp: true}
 - {name: ℹ 不能使用请更新订阅 - Itdog云, server: www.itdog.cloud, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2df5564c-621e-4ace-8f3c-beaeef79303e, udp: true}
