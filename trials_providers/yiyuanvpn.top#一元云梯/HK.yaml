@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯, server: cf-cdn.996699.top, port: 2082, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: 【高级】🇭🇰 香港|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯, server: cf-cdn.996699.top, port: 2082, type: vmess, uuid: e453ec90-7839-43bc-b4be-d91460eb3281, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇭🇰 香港|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: e453ec90-7839-43bc-b4be-d91460eb3281, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}

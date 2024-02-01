@@ -82,7 +82,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id004
-  - ℹ 距离下次重置剩余：28 天 - Gegeth极迅游
   - ℹ 官网:www.gegeth.com - Gegeth极迅游
 - name: 👆🏻 ‍指定
   type: select
@@ -97,7 +96,6 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: ℹ 距离下次重置剩余：28 天 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 687d5599-fb9d-45d1-bed6-b94703755e8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
 - {name: 公益免费 🇺🇸美国 - Gegeth极迅游, server: us-west-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 687d5599-fb9d-45d1-bed6-b94703755e8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/44?ed=2048', headers: {Host: uspz.edge.233.tw}}, udp: true}
 - {name: 公益免费 🇯🇵日本 - Gegeth极迅游, server: ap-northeast-anycast.lnaspiring.com, port: 80, type: vmess, uuid: 687d5599-fb9d-45d1-bed6-b94703755e8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/geg/45?ed=2048', headers: {Host: jpli.edge.233.tw}}, udp: true}
 - {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 687d5599-fb9d-45d1-bed6-b94703755e8b, udp: true}

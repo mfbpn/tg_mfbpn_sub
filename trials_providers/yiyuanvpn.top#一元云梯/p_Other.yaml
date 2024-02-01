@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 【中文地址】一元云梯.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: ℹ 【英文地址】yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: ℹ 【公告】无法更新订阅时请重置订阅链接后导入 - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: ℹ 【公告】每月1号进行节点维护请及时更新一下订阅 - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【中文地址】一元云梯.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: e453ec90-7839-43bc-b4be-d91460eb3281, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【英文地址】yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: e453ec90-7839-43bc-b4be-d91460eb3281, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【公告】每月1号进行节点维护请及时更新一下订阅 - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: e453ec90-7839-43bc-b4be-d91460eb3281, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
