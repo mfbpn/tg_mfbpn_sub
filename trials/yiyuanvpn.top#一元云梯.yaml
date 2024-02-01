@@ -11,10 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -26,6 +28,7 @@ proxy-groups:
   proxies: &id001
   - 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯
   - 【高级】🇭🇰 香港|中转|VMESS - 一元云梯
+  - 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯
   - 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯
   - 【高级】🇺🇸 美国|中转|VMESS - 一元云梯
   - 【当前主页】m06.yiyuanvpn.top - 一元云梯
@@ -63,7 +66,9 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇸🇬 ‍新加坡
   - 👆🏻 ‍指定
+  - 👆🏻🇸🇬 ‍新加坡
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -80,12 +85,19 @@ proxy-groups:
   proxies: &id002
   - 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯
   - 【高级】🇭🇰 香港|中转|VMESS - 一元云梯
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id003
+  proxies: &id004
   - 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯
   - 【高级】🇺🇸 美国|中转|VMESS - 一元云梯
 - name: 🎏 ‍其他
@@ -93,7 +105,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id004
+  proxies: &id005
   - 【当前主页】m06.yiyuanvpn.top - 一元云梯
   - 【中级】🇰🇷 韩国|CND|VMESS - 一元云梯
   - 【中级】🇬🇧 英国|CDN|VMESS - 一元云梯
@@ -108,12 +120,15 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id004
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id005
 proxies:
 - {name: 【当前主页】m06.yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
 - {name: 【中级】🇰🇷 韩国|CND|VMESS - 一元云梯, server: cf-cdn.996699.top, port: 2082, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-kr-202402.bzqcmi.top}}, udp: true}
@@ -127,6 +142,7 @@ proxies:
 - {name: 【高级】🇭🇰 香港|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
 - {name: 【高级】🇮🇳 印度|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-in-202402.bzqcmi.top}}, udp: true}
 - {name: 【高级】🇦🇺 澳洲|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-au-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: c6f674f8-2f86-4e3e-82a9-82a114b30884, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-sg-202402.bzqcmi.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
