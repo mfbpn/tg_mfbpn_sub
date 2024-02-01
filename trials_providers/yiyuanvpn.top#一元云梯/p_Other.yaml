@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 【中文地址】一元云梯.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 4398dbcf-3e1d-4390-bdbb-5034b60d48df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: ℹ 【英文地址】yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 4398dbcf-3e1d-4390-bdbb-5034b60d48df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
-- {name: ℹ 【公告】每月1号进行节点维护请及时更新一下订阅 - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 4398dbcf-3e1d-4390-bdbb-5034b60d48df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【中文地址】一元云梯.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 92cea2e9-2702-4d8d-8ff1-e180df52c95a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【英文地址】yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 92cea2e9-2702-4d8d-8ff1-e180df52c95a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: ℹ 【公告】每月1号进行节点维护请及时更新一下订阅 - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 92cea2e9-2702-4d8d-8ff1-e180df52c95a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
