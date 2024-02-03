@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: 02de3171-5994-4ac8-bd15-8cbc968a2783, udp: true}
+- {name: ℹ 官网:www.gegeth.com - Gegeth极迅游, server: gy.yb59.uk, port: 18785, type: ss, cipher: chacha20-ietf-poly1305, password: d0a632e2-2992-4be7-8eb4-6ebe77222cef, udp: true}
 - {name: ℹ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 032929a4-dca9-4d4e-887d-d8f4c9da189a, udp: true}
 - {name: ℹ 不能使用请更新订阅 - Itdog云, server: www.itdog.cloud, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2df5564c-621e-4ace-8f3c-beaeef79303e, udp: true}
 - {name: ℹ 网址：m07.yiyuanvpn.top - 一元云梯, server: cfgo-cdn.996699.top, port: 2082, type: vmess, uuid: 856dafdf-be8c-48e8-95df-24a3bea41c46, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
