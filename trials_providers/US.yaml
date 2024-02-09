@@ -55,6 +55,6 @@ proxies:
 - {name: '🇺🇸 美国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us01.bigmeyear.org, port: 30238, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
 - {name: '🇺🇸 美国02 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us02.bigmeyear.org, port: 30240, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
 - {name: '🇺🇸 美国03 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: us03.bigmeyear.org, port: 30241, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
-- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: 783a0e47-7079-4e13-ac58-1f7ffeb00e65, udp: true}
-- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 783a0e47-7079-4e13-ac58-1f7ffeb00e65, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: 200efac4-a007-4fce-96d7-453fda958f5a, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 200efac4-a007-4fce-96d7-453fda958f5a, udp: true}
 - {name: 🇺🇸 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 19951:hY2hQQ, obfs-param: b53f319951.microsoft.com, udp: true}
