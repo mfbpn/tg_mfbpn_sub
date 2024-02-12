@@ -4,30 +4,30 @@ proxies:
 - {name: 🇳🇴 挪威 | 01 - 猪网-PIGVIP, server: nw01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇨🇭 瑞士 | 01 | 抖音 - 猪网-PIGVIP, server: rs01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ssmtt.com}}, udp: true}
 - {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 7fbf3a75-4159-401f-a82f-2e48487d9222, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de10.doushimeng.com}}, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 6227636d-ade1-3453-a9da-a8a4169aaf1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 6227636d-ade1-3453-a9da-a8a4169aaf1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 6227636d-ade1-3453-a9da-a8a4169aaf1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 6227636d-ade1-3453-a9da-a8a4169aaf1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 6227636d-ade1-3453-a9da-a8a4169aaf1c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 33f2fa89-3097-3396-8035-3f73bc4f245b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 33f2fa89-3097-3396-8035-3f73bc4f245b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 33f2fa89-3097-3396-8035-3f73bc4f245b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 33f2fa89-3097-3396-8035-3f73bc4f245b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 33f2fa89-3097-3396-8035-3f73bc4f245b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: www.itdog.cloud - Itdog云, server: www.itdog.cloud, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2df5564c-621e-4ace-8f3c-beaeef79303e, udp: true}
-- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
-- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: 36e2b773-9ea3-471c-ba59-8f69f3626478, udp: true}
+- {name: 🇰🇷 韩国 / 华东｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇰🇷 韩国 / 华南｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇻🇳 越南 / 华东 | 原生 - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇻🇳 越南 / 华南 | 原生 - 小白云, server: vn2.iepl.cooc.icu, port: 35602, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇲🇾 马来 / 华南 | 原生 - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇲🇾 马来 / 华东 | 原生 - 小白云, server: mas2.iepl.cooc.icu, port: 35604, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇬🇧 英国 / 华东 | 原生 - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇬🇧 英国 / 华南 | 原生 - 小白云, server: uk2.iepl.cooc.icu, port: 35606, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇩🇪 德国 / 华南 | 原生 - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇩🇪 德国 / 华东 | 原生 - 小白云, server: ger2.iepl.cooc.icu, port: 35608, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇫🇷 法国 / 华南 | 原生 - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇫🇷 法国 / 华东 | 原生 - 小白云, server: fr2.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇰🇷 KR｜Overseas users - 小白云, server: kr.cooc.icu, port: 37882, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇻🇳 VN｜Overseas users - 小白云, server: vn.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: MAS｜Overseas users - 小白云, server: mas.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇬🇧 UK｜Overseas users - 小白云, server: uk.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: GER｜Overseas users - 小白云, server: 185.39.51.197, port: 31511, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
+- {name: 🇫🇷 FR｜Overseas users - 小白云, server: fr.cooc.icu, port: 31511, type: ss, cipher: aes-128-gcm, password: ef79f4d1-8e1e-47db-9080-c16367062a49, udp: true}
 - {name: '🇮🇳 印度[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguoin.qiliqili.store}}, udp: true}
 - {name: '🇮🇳 印度尼西亚[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguoid.qiliqili.store}}, udp: true}
 - {name: '🇸🇪 瑞典[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguose.qiliqili.store}}, udp: true}
