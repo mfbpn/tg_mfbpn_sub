@@ -27,7 +27,7 @@ proxy-groups:
   - HK
   - SG
   - US
-  - p_All_Other
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -85,7 +85,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id005
-  - p_All_Other
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -129,11 +129,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/yiyuanvpn.top#一元云梯/p_All_Other.yaml
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/yiyuanvpn.top#一元云梯/Other.yaml
     interval: 180
-    path: trials_providers/yiyuanvpn.top#一元云梯/p_All_Other.yaml
+    path: trials_providers/yiyuanvpn.top#一元云梯/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -185,8 +185,12 @@ rules:
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,api.tsutsu.one,🛩️ ‍墙内
+- DOMAIN,gh.api.99988866.xyz,🛩️ ‍墙内
+- DOMAIN,ghproxy.top,🛩️ ‍墙内
+- DOMAIN,ghproxy.net,🛩️ ‍墙内
+- DOMAIN,ghproxy.org,🛩️ ‍墙内
+- DOMAIN,ghproxy.cc,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,fgit.cf,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
