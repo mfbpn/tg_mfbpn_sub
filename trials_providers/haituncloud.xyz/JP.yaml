@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14109, type: vmess, uuid: 442d5554-d301-35c1-bd50-653c68c9ad36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14110, type: vmess, uuid: 442d5554-d301-35c1-bd50-653c68c9ad36, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14109, type: vmess, uuid: f73e13c3-065d-3976-abf2-bc64047c091c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14110, type: vmess, uuid: f73e13c3-065d-3976-abf2-bc64047c091c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
