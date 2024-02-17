@@ -11,12 +11,16 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -31,6 +35,7 @@ proxy-groups:
   - 🇭🇰 Hongkong - 番茄云
   - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰 Hongkong 3 - 番茄云
+  - 🇹🇼 Taiwan - 番茄云
   - 🇸🇬 Singapore - 番茄云
   - 🇯🇵 Japan - 番茄云
   - 🇺🇸 America - 番茄云
@@ -68,10 +73,14 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
@@ -80,9 +89,11 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -102,33 +113,50 @@ proxy-groups:
   - 🇭🇰 Hongkong - 番茄云
   - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰 Hongkong 3 - 番茄云
-- name: 🇸🇬 ‍新加坡
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
+  - 🇹🇼 Taiwan - 番茄云
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 Hongkong - 番茄云
+  - 🇭🇰 Hongkong 2 - 番茄云
+  - 🇭🇰 Hongkong 3 - 番茄云
+  - 🇹🇼 Taiwan - 番茄云
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
   - 🇸🇬 Singapore - 番茄云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id004
+  proxies: &id006
   - 🇯🇵 Japan - 番茄云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id005
+  proxies: &id007
   - 🇺🇸 America - 番茄云
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id006
+  proxies: &id008
   - 🇰🇷 South Korea - 番茄云
   - 🇰🇷 South Korea 2 - 番茄云
   - 🇰🇷 South Korea 3 - 番茄云
@@ -154,18 +182,24 @@ proxy-groups:
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id003
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id005
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
 - {name: 🇺🇸 America - 番茄云, server: us2.fanqiecloud.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
@@ -180,6 +214,7 @@ proxies:
 - {name: 🇮🇹 Italy - 番茄云, server: it.fanqiecloud.top, port: 39052, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇮🇹 Italy 2 - 番茄云, server: dl3.fanqiecloud.top, port: 2052, type: vmess, uuid: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-it.fanqiecloud.top}}, udp: true}
 - {name: 🇩🇪 Germany - 番茄云, server: de.fanqiecloud.top, port: 22302, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
+- {name: 🇹🇼 Taiwan - 番茄云, server: dl1.fanqiecloud.top, port: 2095, type: vmess, uuid: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
 - {name: 🇫🇷 Franch - 番茄云, server: fr.fanqiecloud.top, port: 50252, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇫🇷 Franch 2 - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-fr2.fanqiecloud.top}}, udp: true}
 - {name: 🇪🇸 Spain - 番茄云, server: dl4.fanqiecloud.top, port: 2052, type: vmess, uuid: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-sby2.fanqiecloud.top}}, udp: true}
