@@ -2,11 +2,12 @@
 ---
 proxies:
 - {name: 🇺🇸 America - 番茄云, server: us2.fanqiecloud.top, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
-- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 51652, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇰🇷 South Korea - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-kr2a.fanqiecloud.top}}, udp: true}
 - {name: 🇰🇷 South Korea 2 - 番茄云, server: kr2.fanqiecloud.top, port: 54052, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇰🇷 South Korea 3 - 番茄云, server: kr3.fanqiecloud.top, port: 20102, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
+- {name: 🇸🇬 Singapore 2 - 番茄云, server: sg2.fanqiecloud.top, port: 20063, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇨🇦 Canada - 番茄云, server: cf.fanqiecloud.top, port: 22554, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇧🇷 Brazil - 番茄云, server: bx.fanqiecloud.top, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, udp: true}
 - {name: 🇧🇷 Brazil  2 - 番茄云, server: dl3.fanqiecloud.top, port: 2052, type: vmess, uuid: 423cbd5d-25dc-4105-942a-2a700cdeb7e6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-bx2a.fanqiecloud.top}}, udp: true}
