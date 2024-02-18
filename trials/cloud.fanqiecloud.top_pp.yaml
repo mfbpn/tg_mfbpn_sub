@@ -15,6 +15,7 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
@@ -22,6 +23,7 @@ proxy-groups:
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -32,6 +34,7 @@ proxy-groups:
   - TW
   - SG
   - JP
+  - US
   - Other
 - name: 🛩️ ‍墙内
   type: select
@@ -60,7 +63,9 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
@@ -103,10 +108,15 @@ proxy-groups:
   tolerance: 100
   use: &id006
   - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 300
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
-  use: &id007
+  use: &id008
   - Other
 - name: 👆🏻 ‍指定
   type: select
@@ -126,9 +136,12 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id006
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id008
 proxy-providers:
   HK:
     type: http
@@ -162,6 +175,15 @@ proxy-providers:
     url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.fanqiecloud.top/JP.yaml
     interval: 180
     path: trials_providers/cloud.fanqiecloud.top/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/cloud.fanqiecloud.top/US.yaml
+    interval: 180
+    path: trials_providers/cloud.fanqiecloud.top/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
