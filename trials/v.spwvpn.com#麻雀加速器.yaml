@@ -68,7 +68,7 @@ proxies:
 - {name: 🇹🇼 TW-板桥2-4(TCP) - 麻雀加速器 Sparrow, server: nb24.ntbq.dynu.net, port: 3278, type: vmess, uuid: 927d3649-6f6d-4111-a726-5fb16d5401bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-桃园1-1(Trojan) - 麻雀加速器 Sparrow, server: ty11t.twty.dynu.net, port: 13761, type: trojan, password: 927d3649-6f6d-4111-a726-5fb16d5401bf, sni: ty11t.twty.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-桃园1-2(Trojan) - 麻雀加速器 Sparrow, server: ty12t.twty.dynu.net, port: 18912, type: trojan, password: 927d3649-6f6d-4111-a726-5fb16d5401bf, sni: ty12t.twty.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 12388, type: trojan, password: 927d3649-6f6d-4111-a726-5fb16d5401bf, sni: c11.twtc.dynu.net, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: TRTC1}, udp: true}
+- {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 12388, type: trojan, password: 927d3649-6f6d-4111-a726-5fb16d5401bf, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-2(TCP) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 14431, type: vmess, uuid: 927d3649-6f6d-4111-a726-5fb16d5401bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
