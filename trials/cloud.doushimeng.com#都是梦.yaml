@@ -29,6 +29,7 @@ proxy-groups:
   - 🇺🇸美国02|V6 - 都是梦
   - 🇰🇷韩国01|V6 - 都是梦
   - 🇩🇪德国01 - 都是梦
+  - 🇩🇪德国02 - 都是梦
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -88,6 +89,7 @@ proxy-groups:
   proxies: &id004
   - 🇰🇷韩国01|V6 - 都是梦
   - 🇩🇪德国01 - 都是梦
+  - 🇩🇪德国02 - 都是梦
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -106,6 +108,7 @@ proxies:
 - {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: 1631e28b-20ab-4345-b629-330e4a5aa94d, udp: true}
 - {name: 🇺🇸美国02|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20061, type: trojan, password: 1631e28b-20ab-4345-b629-330e4a5aa94d, sni: us5.doushimeng.free.hr, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 1631e28b-20ab-4345-b629-330e4a5aa94d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de13.doushimeng.com}}, udp: true}
+- {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 1631e28b-20ab-4345-b629-330e4a5aa94d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee1.doushimeng.free.hr}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
