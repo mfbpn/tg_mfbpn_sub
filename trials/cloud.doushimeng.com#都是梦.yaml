@@ -25,8 +25,7 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 🇯🇵日本01 - 都是梦
-  - 🇺🇸美国01|V6 - 都是梦
-  - 🇺🇸美国02|V6 - 都是梦
+  - 🇺🇸美国01 - 都是梦
   - 🇰🇷韩国01|V6 - 都是梦
   - 🇩🇪德国01 - 都是梦
   - 🇩🇪德国02 - 都是梦
@@ -79,8 +78,7 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id003
-  - 🇺🇸美国01|V6 - 都是梦
-  - 🇺🇸美国02|V6 - 都是梦
+  - 🇺🇸美国01 - 都是梦
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -105,8 +103,7 @@ proxy-groups:
 proxies:
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 51653, type: ss, cipher: chacha20-ietf-poly1305, password: b5688e98-eb02-4e39-adde-c8b3a2bc5223, udp: true}
 - {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: b5688e98-eb02-4e39-adde-c8b3a2bc5223, udp: true}
-- {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: b5688e98-eb02-4e39-adde-c8b3a2bc5223, udp: true}
-- {name: 🇺🇸美国02|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20061, type: trojan, password: b5688e98-eb02-4e39-adde-c8b3a2bc5223, sni: us5.doushimeng.free.hr, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: b5688e98-eb02-4e39-adde-c8b3a2bc5223, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us2.doushimeng.free.hr}}, udp: true}
 - {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: b5688e98-eb02-4e39-adde-c8b3a2bc5223, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de13.doushimeng.com}}, udp: true}
 - {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: b5688e98-eb02-4e39-adde-c8b3a2bc5223, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee1.doushimeng.free.hr}}, udp: true}
 rules:
