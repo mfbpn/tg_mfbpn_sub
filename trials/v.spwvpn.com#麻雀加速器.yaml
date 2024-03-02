@@ -107,8 +107,8 @@ proxies:
 - {name: 🇹🇼 TW-板桥2-4(Trojan) - 麻雀加速器 Sparrow, server: b24.ntbq.dynu.net, port: 3271, type: trojan, password: 645f0af0-dec8-48db-862f-82b6346408b4, sni: b24.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-桃园1-1(Trojan) - 麻雀加速器 Sparrow, server: ty11t.twty.dynu.net, port: 13761, type: trojan, password: 645f0af0-dec8-48db-862f-82b6346408b4, sni: ty11t.twty.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-桃园1-2(Trojan) - 麻雀加速器 Sparrow, server: ty12t.twty.dynu.net, port: 18912, type: trojan, password: 645f0af0-dec8-48db-862f-82b6346408b4, sni: ty12t.twty.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 12388, type: trojan, password: 645f0af0-dec8-48db-862f-82b6346408b4, sni: c11.twtc.dynu.net, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: TRTC1}, udp: true}
-- {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 13911, type: trojan, password: 645f0af0-dec8-48db-862f-82b6346408b4, sni: c12.twtc.dynu.net, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: TRTC2}, udp: true}
+- {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 12388, type: trojan, password: 645f0af0-dec8-48db-862f-82b6346408b4, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 13911, type: trojan, password: 645f0af0-dec8-48db-862f-82b6346408b4, sni: c12.twtc.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 USA-德州-1(Trojan) - 麻雀加速器 Sparrow, server: us1.n305.dynu.net, port: 16389, type: trojan, password: 645f0af0-dec8-48db-862f-82b6346408b4, sni: us1.n305.dynu.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
