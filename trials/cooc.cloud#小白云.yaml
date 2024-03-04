@@ -185,24 +185,24 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇺🇸 美国 / US｜BIZ - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇰🇷 韩国 / KR｜BIZ - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇲🇾 大马 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
-- {name: 🇫🇷 法国 / FR | BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: b33c2ebf-289e-47b8-a85e-b6406013f297, udp: true}
+- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇺🇸 美国 / US｜BIZ - 小白云, server: usa4.iepl.cooc.icu, port: 34881, type: ss, cipher: aes-256-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇰🇷 韩国 / KR｜BIZ - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇲🇾 大马 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
+- {name: 🇫🇷 法国 / FR | BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: cc2a2d88-384f-4c0c-aba0-dfa39b6c8c7a, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
