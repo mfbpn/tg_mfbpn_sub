@@ -107,8 +107,8 @@ proxies:
 - {name: 🇹🇼 TW-板桥2-4(Trojan) - 麻雀加速器 Sparrow, server: b24.ntbq.dynu.net, port: 3271, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: b24.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-桃园1-1(Trojan) - 麻雀加速器 Sparrow, server: ty11t.twty.dynu.net, port: 13761, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: ty11t.twty.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-桃园1-2(Trojan) - 麻雀加速器 Sparrow, server: ty12t.twty.dynu.net, port: 18912, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: ty12t.twty.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 12388, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 13911, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: c12.twtc.dynu.net, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 13989, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 14656, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: c12.twtc.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 USA-德州-1(Trojan) - 麻雀加速器 Sparrow, server: us1.n305.dynu.net, port: 16389, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: us1.n305.dynu.net, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
