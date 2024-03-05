@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 Taiwan - 番茄云, server: dlaa.fanqiecloud.top, port: 2095, type: vmess, uuid: 86e17876-40e5-43ef-90b9-1cf458ae9ec1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw3.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong V6 - 番茄云, server: hk3.fanqiecloud.top, port: 22555, type: ss, cipher: chacha20-ietf-poly1305, password: 86e17876-40e5-43ef-90b9-1cf458ae9ec1, udp: true}
-- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 86e17876-40e5-43ef-90b9-1cf458ae9ec1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2e.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 86e17876-40e5-43ef-90b9-1cf458ae9ec1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3e.fanqiecloud.top}}, udp: true}
+- {name: 🇹🇼 Taiwan - 番茄云, server: dlaa.fanqiecloud.top, port: 2095, type: vmess, uuid: 013699e1-563c-4602-b837-8a66e3b2c68b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw3.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong V6 - 番茄云, server: hk3.fanqiecloud.top, port: 22555, type: ss, cipher: chacha20-ietf-poly1305, password: 013699e1-563c-4602-b837-8a66e3b2c68b, udp: true}
+- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 013699e1-563c-4602-b837-8a66e3b2c68b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2e.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 013699e1-563c-4602-b837-8a66e3b2c68b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3e.fanqiecloud.top}}, udp: true}
