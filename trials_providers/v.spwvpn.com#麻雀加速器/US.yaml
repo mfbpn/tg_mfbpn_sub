@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 USA-德州-1(Trojan) - 麻雀加速器 Sparrow, server: us1.n305.dynu.net, port: 16389, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: us1.n305.dynu.net, skip-cert-verify: true, udp: true}
