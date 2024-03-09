@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 Hongkong V6 - 番茄云, server: hk3.fanqiecloud.top, port: 22555, type: ss, cipher: chacha20-ietf-poly1305, password: e8ea57b7-ac6d-4e7b-91cf-61bf9930f6dc, udp: true}
-- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: e8ea57b7-ac6d-4e7b-91cf-61bf9930f6dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2e.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: e8ea57b7-ac6d-4e7b-91cf-61bf9930f6dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3e.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong V6 - 番茄云, server: hk3.fanqiecloud.top, port: 22555, type: ss, cipher: chacha20-ietf-poly1305, password: 9a49fe43-87c7-4e98-8fd1-25cbdcdf3b9e, udp: true}
+- {name: 🇭🇰 Hongkong 2 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 9a49fe43-87c7-4e98-8fd1-25cbdcdf3b9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk2e.fanqiecloud.top}}, udp: true}
+- {name: 🇭🇰 Hongkong 3 - 番茄云, server: dlcc.fanqiecloud.top, port: 2086, type: vmess, uuid: 9a49fe43-87c7-4e98-8fd1-25cbdcdf3b9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk3e.fanqiecloud.top}}, udp: true}
