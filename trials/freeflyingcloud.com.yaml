@@ -30,6 +30,8 @@ proxy-groups:
   - 🇦🇺 澳大利亚01 - 自由飞云
   - 🇷🇺 俄罗斯01 - 自由飞云
   - 🇫🇷 法国01 - 自由飞云
+  - 🇩🇪 德国02 - 自由飞云
+  - 🇦🇪 迪拜01 - 自由飞云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -90,6 +92,8 @@ proxy-groups:
   - 🇦🇺 澳大利亚01 - 自由飞云
   - 🇷🇺 俄罗斯01 - 自由飞云
   - 🇫🇷 法国01 - 自由飞云
+  - 🇩🇪 德国02 - 自由飞云
+  - 🇦🇪 迪拜01 - 自由飞云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -109,6 +113,8 @@ proxies:
 - {name: 🇦🇺 澳大利亚01 - 自由飞云, server: au01.freeflyingcloud.xyz, port: 42002, type: trojan, password: f497b94d-b148-498f-925f-8fe2ab9ff06b, sni: au01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇷🇺 俄罗斯01 - 自由飞云, server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: f497b94d-b148-498f-925f-8fe2ab9ff06b, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 法国01 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: f497b94d-b148-498f-925f-8fe2ab9ff06b, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国02 - 自由飞云, server: de02.freeflyingcloud.xyz, port: 46302, type: trojan, password: f497b94d-b148-498f-925f-8fe2ab9ff06b, sni: de02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪 迪拜01 - 自由飞云, server: ae01.freeflyingcloud.xyz, port: 52102, type: trojan, password: f497b94d-b148-498f-925f-8fe2ab9ff06b, sni: ae01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
