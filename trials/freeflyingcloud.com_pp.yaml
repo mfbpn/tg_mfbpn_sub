@@ -12,10 +12,12 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -24,6 +26,7 @@ proxy-groups:
   use: &id001
   - SG
   - JP
+  - US
   - Other
 - name: 🛩️ ‍墙内
   type: select
@@ -46,7 +49,9 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -71,10 +76,15 @@ proxy-groups:
   tolerance: 100
   use: &id003
   - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 300
+  use: &id004
+  - US
 - name: 🎏 ‍其他
   type: url-test
   tolerance: 100
-  use: &id004
+  use: &id005
   - Other
 - name: 👆🏻 ‍指定
   type: select
@@ -85,9 +95,12 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id003
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   use: *id004
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id005
 proxy-providers:
   SG:
     type: http
@@ -103,6 +116,15 @@ proxy-providers:
     url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/freeflyingcloud.com/JP.yaml
     interval: 180
     path: trials_providers/freeflyingcloud.com/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/freeflyingcloud.com/US.yaml
+    interval: 180
+    path: trials_providers/freeflyingcloud.com/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
