@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: c395dc45-97b9-3387-95e3-ec1d3d0856d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: c395dc45-97b9-3387-95e3-ec1d3d0856d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: e954c891-0945-4a0d-a5e5-015f7044621b, udp: true}
-- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: e954c891-0945-4a0d-a5e5-015f7044621b, udp: true}
-- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: e954c891-0945-4a0d-a5e5-015f7044621b, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 66688795-79c5-3107-94b8-018788fd8f92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 66688795-79c5-3107-94b8-018788fd8f92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 07c24d85-267b-4cdb-8fd4-d7aa4299d978, udp: true}
+- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 07c24d85-267b-4cdb-8fd4-d7aa4299d978, udp: true}
+- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 07c24d85-267b-4cdb-8fd4-d7aa4299d978, udp: true}
 - {name: 🇹🇼 TW-板桥1-2(Trojan) - 麻雀加速器 Sparrow, server: b12.ntbq.dynu.net, port: 9755, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: b12.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-3(Trojan) - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 9489, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: b13.ntbq.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥2-2(Trojan) - 麻雀加速器 Sparrow, server: b22.ntbq.dynu.net, port: 19489, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: b22.ntbq.dynu.net, skip-cert-verify: true, udp: true}
@@ -22,7 +22,7 @@ proxies:
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: f9a081d7-eece-3b32-82b3-2b8d484cc70f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14099, type: vmess, uuid: 39af8d77-e6e6-3ce8-8c03-7b8106b898d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇹🇼 V4-4008|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14000, type: vmess, uuid: 39af8d77-e6e6-3ce8-8c03-7b8106b898d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: aee3bcb7-19b9-3c29-bcd0-54d10246b6d8, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: aee3bcb7-19b9-3c29-bcd0-54d10246b6d8, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: aee3bcb7-19b9-3c29-bcd0-54d10246b6d8, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: aee3bcb7-19b9-3c29-bcd0-54d10246b6d8, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: a9298a72-4587-3a06-99b0-4dec4927fda7, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: a9298a72-4587-3a06-99b0-4dec4927fda7, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: a9298a72-4587-3a06-99b0-4dec4927fda7, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: a9298a72-4587-3a06-99b0-4dec4927fda7, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}

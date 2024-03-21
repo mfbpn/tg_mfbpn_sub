@@ -124,16 +124,16 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
-- {name: 🇰🇷 韩国01 - 自由飞云, server: kr01.freeflyingcloud.xyz, port: 24852, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: kr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - 自由飞云, server: jp01.freeflyingcloud.xyz, port: 44402, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: jp01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 澳大利亚01 - 自由飞云, server: au01.freeflyingcloud.xyz, port: 42002, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: au01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇷🇺 俄罗斯01 - 自由飞云, server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国01 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国02 - 自由飞云, server: de02.freeflyingcloud.xyz, port: 46302, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: de02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇦🇪 迪拜01 - 自由飞云, server: ae01.freeflyingcloud.xyz, port: 52102, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: ae01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 自由飞云, server: us02.freeflyingcloud.xyz, port: 30017, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: us02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国03 - 自由飞云, server: us03.freeflyingcloud.xyz, port: 30018, type: trojan, password: 658e0e50-ce27-4f4d-ab2c-bd48859f4cb6, sni: us03.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国01 - 自由飞云, server: kr01.freeflyingcloud.xyz, port: 24852, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: kr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - 自由飞云, server: jp01.freeflyingcloud.xyz, port: 44402, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: jp01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 澳大利亚01 - 自由飞云, server: au01.freeflyingcloud.xyz, port: 42002, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: au01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 俄罗斯01 - 自由飞云, server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国01 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国02 - 自由飞云, server: de02.freeflyingcloud.xyz, port: 46302, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: de02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪 迪拜01 - 自由飞云, server: ae01.freeflyingcloud.xyz, port: 52102, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: ae01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - 自由飞云, server: us02.freeflyingcloud.xyz, port: 30017, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: us02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国03 - 自由飞云, server: us03.freeflyingcloud.xyz, port: 30018, type: trojan, password: 1def2101-9130-49a4-be11-20ee34c8946c, sni: us03.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
