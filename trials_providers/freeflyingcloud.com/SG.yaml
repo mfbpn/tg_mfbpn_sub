@@ -2,3 +2,6 @@
 ---
 proxies:
 - {name: 🇸🇬 新加坡01 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: b1afa783-351f-4a2a-a7a9-c8550526ac9b, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: b1afa783-351f-4a2a-a7a9-c8550526ac9b, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: b1afa783-351f-4a2a-a7a9-c8550526ac9b, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡04 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: b1afa783-351f-4a2a-a7a9-c8550526ac9b, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
