@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: ac671802-a38e-3661-9b7e-d51c04dfc76c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: ac671802-a38e-3661-9b7e-d51c04dfc76c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: b6e049de-553d-37ba-b6bf-196df95ceded, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: b6e049de-553d-37ba-b6bf-196df95ceded, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 免费-新加坡 - bee.sulepay.com, server: freeno1sg.beednsvip.top, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20284:nH6t2A, obfs-param: 1957420284.microsoft.com, udp: true}
-- {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 01ecb437-28fb-4b38-b35a-89f7e600285c, udp: true}
-- {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 01ecb437-28fb-4b38-b35a-89f7e600285c, udp: true}
+- {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: 893c223b-d955-42ae-a3ca-01462f3f6687, udp: true}
+- {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: 893c223b-d955-42ae-a3ca-01462f3f6687, udp: true}
 - {name: 🇸🇬 Singapore-新加坡 - 一机场, server: frontend.yijianlian.app, port: 54420, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore2-新加坡2 - 一机场, server: frontend.yijianlian.app, port: 54591, type: trojan, password: c3427751-8ed4-4250-9d5e-b410126eaf03, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 42760, type: ss, cipher: chacha20-ietf-poly1305, password: eec8671c-8b06-4475-9139-7fa0c32098b2, udp: true}
@@ -32,8 +32,8 @@ proxies:
 - {name: 🇸🇬 新加坡02 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: b1afa783-351f-4a2a-a7a9-c8550526ac9b, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡03 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: b1afa783-351f-4a2a-a7a9-c8550526ac9b, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡04 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: b1afa783-351f-4a2a-a7a9-c8550526ac9b, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 371d9a9a-52ea-3959-9f88-f67a82f2b3af, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 371d9a9a-52ea-3959-9f88-f67a82f2b3af, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: c5834c9b-8af1-38fb-afdb-42168058f473, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.v2-ray.cyou}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: c5834c9b-8af1-38fb-afdb-42168058f473, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.v2-ray.cyou}}, udp: true}
 - {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 7abfd1a1-87b4-35ac-b455-66eb404c60d1, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 7abfd1a1-87b4-35ac-b455-66eb404c60d1, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
 - {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 7abfd1a1-87b4-35ac-b455-66eb404c60d1, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
