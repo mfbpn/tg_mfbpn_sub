@@ -97,9 +97,9 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇯🇵 免费-日本 - bee.sulepay.com, server: freejpno1.beednsvip.top, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20284:nH6t2A, obfs-param: 1957420284.microsoft.com, udp: true}
-- {name: 🇸🇬 免费-新加坡 - bee.sulepay.com, server: freeno1sg.beednsvip.top, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20284:nH6t2A, obfs-param: 1957420284.microsoft.com, udp: true}
-- {name: 🇺🇸 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20284:nH6t2A, obfs-param: 1957420284.microsoft.com, udp: true}
+- {name: 🇯🇵 免费-日本 - bee.sulepay.com, server: freejpno1.beednsvip.top, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20295:e5iGEX, obfs-param: bbe3b20295.microsoft.com, udp: true}
+- {name: 🇸🇬 免费-新加坡 - bee.sulepay.com, server: freeno1sg.beednsvip.top, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20295:e5iGEX, obfs-param: bbe3b20295.microsoft.com, udp: true}
+- {name: 🇺🇸 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20295:e5iGEX, obfs-param: bbe3b20295.microsoft.com, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
