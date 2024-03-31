@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 63791986-b4ab-412c-8999-7ffa9341eb15, udp: true}
-- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 63791986-b4ab-412c-8999-7ffa9341eb15, udp: true}
-- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 63791986-b4ab-412c-8999-7ffa9341eb15, udp: true}
+- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: a8e8b075-2ccd-4972-82cb-644f1f74cf1e, udp: true}
+- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: a8e8b075-2ccd-4972-82cb-644f1f74cf1e, udp: true}
+- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: a8e8b075-2ccd-4972-82cb-644f1f74cf1e, udp: true}
