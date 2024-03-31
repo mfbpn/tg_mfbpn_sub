@@ -2,7 +2,6 @@
 ---
 proxies:
 - {name: 🇰🇷 韩国01 - 自由飞云, server: kr01.freeflyingcloud.xyz, port: 24852, type: trojan, password: 4844a5e0-1a2e-424d-8718-d9bc561332d8, sni: kr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国02 - 自由飞云, server: kr01.freeflyingcloud.xyz, port: 24852, type: trojan, password: 4844a5e0-1a2e-424d-8718-d9bc561332d8, sni: kr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国03 - 自由飞云, server: kr02.freeflyingcloud.xyz, port: 21702, type: trojan, password: 4844a5e0-1a2e-424d-8718-d9bc561332d8, sni: kr02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国04 - 自由飞云, server: 'kr02.freeflyingcloud.xyz:', port: 21702, type: trojan, password: 4844a5e0-1a2e-424d-8718-d9bc561332d8, sni: 'kr02.freeflyingcloud.xyz:', skip-cert-verify: true, udp: true}
 - {name: 🇦🇺 澳大利亚01 - 自由飞云, server: au01.freeflyingcloud.xyz, port: 42002, type: trojan, password: 4844a5e0-1a2e-424d-8718-d9bc561332d8, sni: au01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
