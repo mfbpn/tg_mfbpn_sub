@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20320:ZDTc4s, obfs-param: bc54320320.microsoft.com, udp: true}
+- {name: 🇺🇸 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20330:7xXSSO, obfs-param: 84fc520330.microsoft.com, udp: true}
