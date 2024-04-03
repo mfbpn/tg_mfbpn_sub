@@ -21,16 +21,16 @@ proxies:
 - {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 41cf185b-2645-443c-9541-0edb598edc82, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee3.doushimeng.free.hr}}, udp: true}
 - {name: 🇫🇷法国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 41cf185b-2645-443c-9541-0edb598edc82, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss9.nicehand.top}}, udp: true}
 - {name: www.itdog.cloud - Itdog云, server: www.itdog.cloud, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2df5564c-621e-4ace-8f3c-beaeef79303e, udp: true}
-- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇰🇷 韩国 / A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇰🇷 韩国 / B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇹🇭 泰国 / TH｜BIZ - 小白云, server: th.iepl.cooc.icu, port: 35613, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
-- {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: dc3a5866-db66-447e-a22f-df4bebdd30fa, udp: true}
+- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇰🇷 韩国 / A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇰🇷 韩国 / B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇹🇭 泰国 / TH｜BIZ - 小白云, server: th.iepl.cooc.icu, port: 35613, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
+- {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 3a7c94be-2dd1-4da4-866f-382218afbcd0, udp: true}
 - {name: '🇮🇳 印度[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguoin.qiliqili.store}}, udp: true}
 - {name: '🇮🇳 印度尼西亚[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguoid.qiliqili.store}}, udp: true}
 - {name: '🇸🇪 瑞典[解锁GPT] 01 - 别再错过', server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/?ed=2048', headers: {Host: cuoguose.qiliqili.store}}, udp: true}
