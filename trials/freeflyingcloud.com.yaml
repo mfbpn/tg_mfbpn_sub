@@ -154,7 +154,7 @@ proxies:
 - {name: 🇮🇹 意大利01 - 自由飞云, server: it01.freeflyingcloud.xyz, port: 48102, type: trojan, password: ec3c741f-2fd1-40f4-9fd6-97f979c51e4f, sni: it01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇪 迪拜01 - 自由飞云, server: ae01.freeflyingcloud.xyz, port: 52102, type: trojan, password: ec3c741f-2fd1-40f4-9fd6-97f979c51e4f, sni: ae01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国03 - 自由飞云, server: kr02.freeflyingcloud.xyz, port: 21702, type: trojan, password: ec3c741f-2fd1-40f4-9fd6-97f979c51e4f, sni: kr02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国04 - 自由飞云, server: 'kr02.freeflyingcloud.xyz:', port: 21702, type: trojan, password: ec3c741f-2fd1-40f4-9fd6-97f979c51e4f, sni: kr02.freeflyingcloud.xyz%3A, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国04 - 自由飞云, server: 'kr02.freeflyingcloud.xyz:', port: 21702, type: trojan, password: ec3c741f-2fd1-40f4-9fd6-97f979c51e4f, sni: 'kr02.freeflyingcloud.xyz:', skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 法国02 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: ec3c741f-2fd1-40f4-9fd6-97f979c51e4f, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国03 - 自由飞云, server: us03.freeflyingcloud.xyz, port: 30018, type: trojan, password: ec3c741f-2fd1-40f4-9fd6-97f979c51e4f, sni: us03.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国02 - 自由飞云, server: us02.freeflyingcloud.xyz, port: 30019, type: trojan, password: ec3c741f-2fd1-40f4-9fd6-97f979c51e4f, sni: us02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
@@ -1835,7 +1835,6 @@ rules:
 - DOMAIN-SUFFIX,gtm.oasisfeng.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,mtalk.google.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ocsp.pki.goog,🛩️ ‍墙内
-- DOMAIN-SUFFIX,recaptcha.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,safebrowsing-cache.google.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,settings.crashlytics.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,🛩️ ‍墙内
@@ -5392,6 +5391,7 @@ rules:
 - DOMAIN-SUFFIX,realsexpass.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,reason.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rebatesrule.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,recaptcha.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,recordhistory.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,recoveryversion.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,red-lang.org,✈️ ‍起飞
