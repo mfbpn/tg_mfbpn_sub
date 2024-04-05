@@ -2,4 +2,3 @@
 ---
 proxies:
 - {name: 🇯🇵 日本01 - 自由飞云, server: jp01.freeflyingcloud.xyz, port: 44402, type: trojan, password: 97539ebe-4ed6-45d4-a155-826f0884fc78, sni: jp01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本02 - 自由飞云, server: jp01.freeflyingcloud.xyz, port: 44402, type: trojan, password: 97539ebe-4ed6-45d4-a155-826f0884fc78, sni: jp01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
