@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01 - 自由飞云, server: jp01.freeflyingcloud.xyz, port: 44402, type: trojan, password: fcc1a9dd-fa39-41a0-9751-b71d7e10f665, sni: jp01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - 自由飞云, server: jp01.freeflyingcloud.xyz, port: 44402, type: trojan, password: 2ee6f407-3a86-48d9-9042-3f80dd18fad6, sni: jp01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
