@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 3ca4e2ab-0e56-4592-afcf-fe0509f387c7, udp: true}
-- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 3ca4e2ab-0e56-4592-afcf-fe0509f387c7, udp: true}
+- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 20aaed55-6c28-4c88-9992-34037c9d6c76, udp: true}
+- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 20aaed55-6c28-4c88-9992-34037c9d6c76, udp: true}
