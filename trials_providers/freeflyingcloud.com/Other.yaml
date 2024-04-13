@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国01 - 自由飞云, server: kr01.freeflyingcloud.xyz, port: 24852, type: trojan, password: 25706894-07da-45cc-a119-6faa8e9cdd7b, sni: kr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国02 - 自由飞云, server: kr02.freeflyingcloud.xyz, port: 21702, type: trojan, password: 25706894-07da-45cc-a119-6faa8e9cdd7b, sni: kr02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 澳大利亚01 - 自由飞云, server: au01.freeflyingcloud.xyz, port: 42002, type: trojan, password: 25706894-07da-45cc-a119-6faa8e9cdd7b, sni: au01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇷🇺 俄罗斯 CN2 01 - 自由飞云, server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: 25706894-07da-45cc-a119-6faa8e9cdd7b, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国01 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: 25706894-07da-45cc-a119-6faa8e9cdd7b, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国01 - 自由飞云, server: uk01.freeflyingcloud.xyz, port: 22252, type: trojan, password: 25706894-07da-45cc-a119-6faa8e9cdd7b, sni: uk01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇮🇹 意大利01 - 自由飞云, server: it01.freeflyingcloud.xyz, port: 48102, type: trojan, password: 25706894-07da-45cc-a119-6faa8e9cdd7b, sni: it01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国01 - 自由飞云, server: kr01.freeflyingcloud.xyz, port: 24852, type: trojan, password: 1de4fa47-60e1-4d51-9ec8-e9118facf1a0, sni: kr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国02 - 自由飞云, server: kr02.freeflyingcloud.xyz, port: 21702, type: trojan, password: 1de4fa47-60e1-4d51-9ec8-e9118facf1a0, sni: kr02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 澳大利亚01 - 自由飞云, server: au01.freeflyingcloud.xyz, port: 42002, type: trojan, password: 1de4fa47-60e1-4d51-9ec8-e9118facf1a0, sni: au01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 俄罗斯 CN2 01 - 自由飞云, server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: 1de4fa47-60e1-4d51-9ec8-e9118facf1a0, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国01 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: 1de4fa47-60e1-4d51-9ec8-e9118facf1a0, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国01 - 自由飞云, server: uk01.freeflyingcloud.xyz, port: 22252, type: trojan, password: 1de4fa47-60e1-4d51-9ec8-e9118facf1a0, sni: uk01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇮🇹 意大利01 - 自由飞云, server: it01.freeflyingcloud.xyz, port: 48102, type: trojan, password: 1de4fa47-60e1-4d51-9ec8-e9118facf1a0, sni: it01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
