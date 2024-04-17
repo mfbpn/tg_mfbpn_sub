@@ -94,6 +94,8 @@ proxies:
 - {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: 9879ab94-6056-4fa3-b0c2-5087dc927559, udp: true}
 - {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: 9879ab94-6056-4fa3-b0c2-5087dc927559, udp: true}
 - {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: 9879ab94-6056-4fa3-b0c2-5087dc927559, udp: true}
+- {name: 🇰🇷 韩国01 - 自由飞云, server: kr01.freeflyingcloud.xyz, port: 24852, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: kr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国02 - 自由飞云, server: kr02.freeflyingcloud.xyz, port: 21702, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: kr02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇦🇺 澳大利亚01 - 自由飞云, server: au01.freeflyingcloud.xyz, port: 42002, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: au01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇷🇺 俄罗斯 CN2 01 - 自由飞云, server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 法国01 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
