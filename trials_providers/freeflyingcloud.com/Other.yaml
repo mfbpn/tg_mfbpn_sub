@@ -8,3 +8,4 @@ proxies:
 - {name: 🇫🇷 法国01 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国01 - 自由飞云, server: uk01.freeflyingcloud.xyz, port: 22252, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: uk01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇹 意大利01 - 自由飞云, server: it01.freeflyingcloud.xyz, port: 48102, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: it01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪 迪拜01 - 自由飞云, server: ae01.freeflyingcloud.xyz, port: 52102, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: ae01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
