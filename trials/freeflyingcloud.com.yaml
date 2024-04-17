@@ -10,11 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -22,9 +18,8 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇺🇸 美国02 - 自由飞云
-  - 🇺🇸 美国03 - 自由飞云
   - 🇦🇺 澳大利亚01 - 自由飞云
+  - 🇷🇺 俄罗斯 CN2 01 - 自由飞云
   - 🇫🇷 法国01 - 自由飞云
   - 🇬🇧 英国01 - 自由飞云
   - 🇮🇹 意大利01 - 自由飞云
@@ -49,10 +44,6 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -62,37 +53,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id002
-  - 🇺🇸 美国02 - 自由飞云
-  - 🇺🇸 美国03 - 自由飞云
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id003
-  - 🇦🇺 澳大利亚01 - 自由飞云
-  - 🇫🇷 法国01 - 自由飞云
-  - 🇬🇧 英国01 - 自由飞云
-  - 🇮🇹 意大利01 - 自由飞云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id002
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id003
 proxies:
 - {name: 🇦🇺 澳大利亚01 - 自由飞云, server: au01.freeflyingcloud.xyz, port: 42002, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: au01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - 自由飞云, server: us02.freeflyingcloud.xyz, port: 30020, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: us02.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国03 - 自由飞云, server: us03.freeflyingcloud.xyz, port: 30018, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: us03.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 俄罗斯 CN2 01 - 自由飞云, server: ru01.freeflyingcloud.xyz, port: 30002, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: ru01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇫🇷 法国01 - 自由飞云, server: fr01.freeflyingcloud.xyz, port: 30502, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: fr01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国01 - 自由飞云, server: uk01.freeflyingcloud.xyz, port: 22252, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: uk01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇮🇹 意大利01 - 自由飞云, server: it01.freeflyingcloud.xyz, port: 48102, type: trojan, password: 5c31e368-f6de-44c2-9ed6-f4d6aab381fc, sni: it01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
