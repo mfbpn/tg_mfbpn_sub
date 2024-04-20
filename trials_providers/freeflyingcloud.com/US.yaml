@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国02 - 自由飞云, server: us05.freeflyingcloud.xyz, port: 30020, type: trojan, password: 904dd222-2514-4a68-9185-32f89113afd9, sni: us05.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
