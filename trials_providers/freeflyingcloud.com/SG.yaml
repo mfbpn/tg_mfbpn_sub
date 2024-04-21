@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: 904dd222-2514-4a68-9185-32f89113afd9, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡04 - 自由飞云, server: sg04.freeflyingcloud.xyz, port: 30018, type: trojan, password: 904dd222-2514-4a68-9185-32f89113afd9, sni: sg04.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01 - 自由飞云, server: sg01.freeflyingcloud.xyz, port: 35702, type: trojan, password: 384b0120-033d-487a-b855-a107ab53ffb4, sni: sg01.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡04 - 自由飞云, server: sg04.freeflyingcloud.xyz, port: 30018, type: trojan, password: 384b0120-033d-487a-b855-a107ab53ffb4, sni: sg04.freeflyingcloud.xyz, skip-cert-verify: true, udp: true}
