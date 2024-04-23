@@ -16,11 +16,11 @@ proxies:
 - {name: 🇹🇼 TW-桃园1-2(Trojan) - 麻雀加速器 Sparrow, server: ty12t.twty.dynu.net, port: 18912, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: ty12t.twty.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-1(Trojan) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 13989, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: c11.twtc.dynu.net, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-2(Trojan) - 麻雀加速器 Sparrow, server: nc12.twtc.dynu.net, port: 14656, type: trojan, password: e63d3dd2-1fdc-45d7-857a-ab32e26c4f73, sni: nc12.twtc.dynu.net, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 00e42143-2bc2-39a7-8de4-1b7807fa4469, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 00e42143-2bc2-39a7-8de4-1b7807fa4469, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 6f3848d5-cc3a-43ec-9d80-779331a46b90, udp: true}
-- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 6f3848d5-cc3a-43ec-9d80-779331a46b90, udp: true}
-- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 6f3848d5-cc3a-43ec-9d80-779331a46b90, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 3de30f5a-51cd-3c3b-8e39-023066c6318c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 3de30f5a-51cd-3c3b-8e39-023066c6318c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: 1b095579-5088-43d5-8de2-c0f4726aa583, udp: true}
+- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: 1b095579-5088-43d5-8de2-c0f4726aa583, udp: true}
+- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: 1b095579-5088-43d5-8de2-c0f4726aa583, udp: true}
 - {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62012, type: vmess, uuid: f9a081d7-eece-3b32-82b3-2b8d484cc70f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 7e20c110-53b8-3b78-98ce-bdb3db0df1ae, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 7e20c110-53b8-3b78-98ce-bdb3db0df1ae, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
