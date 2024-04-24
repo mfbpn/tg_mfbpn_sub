@@ -13,12 +13,18 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -26,7 +32,10 @@ proxy-groups:
   use: &id001
   - HK
   - TW
+  - SG
   - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -51,13 +60,19 @@ proxy-groups:
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
-- name: 🤖 ‍OpenAI+Bing
+- name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -83,11 +98,26 @@ proxy-groups:
   use: &id004
   - HK
   - TW
-- name: 🇯🇵 ‍日本
+- name: 🇸🇬 ‍新加坡
   type: url-test
   tolerance: 100
   use: &id005
+  - SG
+- name: 🇯🇵 ‍日本
+  type: url-test
+  tolerance: 100
+  use: &id006
   - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 300
+  use: &id007
+  - US
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 100
+  use: &id008
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -100,9 +130,18 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   use: *id004
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   use: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  use: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id008
 proxy-providers:
   HK:
     type: http
@@ -122,11 +161,38 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.tannel.xyz/SG.yaml
+    interval: 180
+    path: trials_providers/www.tannel.xyz/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   JP:
     type: http
     url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.tannel.xyz/JP.yaml
     interval: 180
     path: trials_providers/www.tannel.xyz/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.tannel.xyz/US.yaml
+    interval: 180
+    path: trials_providers/www.tannel.xyz/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/www.tannel.xyz/Other.yaml
+    interval: 180
+    path: trials_providers/www.tannel.xyz/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
@@ -178,8 +244,16 @@ rules:
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,api.tsutsu.one,🛩️ ‍墙内
+- DOMAIN,gh.api.99988866.xyz,🛩️ ‍墙内
+- DOMAIN,ghproxy.top,🛩️ ‍墙内
+- DOMAIN,ghproxy.net,🛩️ ‍墙内
+- DOMAIN,ghproxy.org,🛩️ ‍墙内
+- DOMAIN,ghproxy.cc,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,fgit.cf,🛩️ ‍墙内
+- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
+- DOMAIN,gh.idayer.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
+- DOMAIN,gh.con.sh,🛩️ ‍墙内
 - DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
@@ -209,6 +283,7 @@ rules:
 - DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
 - DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
 - DOMAIN,api.juliangcili.com,💩 ‍广告
+- DOMAIN-SUFFIX,anythinktech.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
@@ -1800,7 +1875,6 @@ rules:
 - DOMAIN-SUFFIX,gtm.oasisfeng.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,mtalk.google.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ocsp.pki.goog,🛩️ ‍墙内
-- DOMAIN-SUFFIX,recaptcha.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,safebrowsing-cache.google.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,settings.crashlytics.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,🛩️ ‍墙内
@@ -1861,10 +1935,14 @@ rules:
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
-- DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍OpenAI+Bing
-- DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
+- DOMAIN-SUFFIX,openai.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
+- DOMAIN-SUFFIX,bing.com,🤖 ‍AI
+- DOMAIN,copilot.microsoft.com,🤖 ‍AI
+- DOMAIN,gemini.google.com,🤖 ‍AI
+- DOMAIN-SUFFIX,claude.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,anthropic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
@@ -5353,6 +5431,7 @@ rules:
 - DOMAIN-SUFFIX,realsexpass.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,reason.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rebatesrule.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,recaptcha.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,recordhistory.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,recoveryversion.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,red-lang.org,✈️ ‍起飞
