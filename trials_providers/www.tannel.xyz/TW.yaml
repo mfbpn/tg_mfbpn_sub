@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62012, type: vmess, uuid: 5d0c37ed-d956-3f55-b894-e588f9692ef1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62005, type: vmess, uuid: 5d0c37ed-d956-3f55-b894-e588f9692ef1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62012, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62005, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
