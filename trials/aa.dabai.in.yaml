@@ -61,15 +61,15 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.16.79.63, port: 8080, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-1.cn-db.top, network: ws, ws-opts: {path: /dabai.in637916, headers: {Host: 100.100.17.79.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.19.106.7, port: 2052, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-3.db-link02.top, network: ws, ws-opts: {path: /dabai.in710619, headers: {Host: 100.100.17.106.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【五一活动7折进行中】前往网站订购|共享 - 大白, server: 104.19.124.138, port: 80, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-4.db-link02.top, network: ws, ws-opts: {path: /dabai.in13812419, headers: {Host: 100.100.17.124.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.20.114.45, port: 2095, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-3.cn-db.top, network: ws, ws-opts: {path: /dabai.in4511420, headers: {Host: 100.100.17.114.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.19.226.98, port: 2086, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-4.db-link02.top, network: ws, ws-opts: {path: /dabai.in9822619, headers: {Host: 100.100.17.226.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白, server: 104.19.237.123, port: 8880, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-1.db-link02.top, network: ws, ws-opts: {path: /dabai.in12323719, headers: {Host: 100.100.17.237.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白, server: 104.20.17.202, port: 2095, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-2.cn-db.top, network: ws, ws-opts: {path: /dabai.in2021720, headers: {Host: 100.100.17.17.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.20.85.148, port: 8880, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-2.db-link02.top, network: ws, ws-opts: {path: /dabai.in1488520, headers: {Host: 100.100.17.85.db-link02.top}}, udp: true}
-- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 104.18.98.179, port: 8880, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-1.db-link01.top, network: ws, ws-opts: {path: /dabai.in1799818, headers: {Host: 100.100.17.98.db-link01.top}}, udp: true}
+- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.16.12.162, port: 8880, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-1.cn-db.top, network: ws, ws-opts: {path: /dabai.in1621216, headers: {Host: 100.100.17.12.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.20.142.119, port: 80, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-3.db-link02.top, network: ws, ws-opts: {path: /dabai.in11914220, headers: {Host: 100.100.17.142.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【五一活动7折进行中】前往网站订购|共享 - 大白, server: 104.19.184.93, port: 2082, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-4.db-link02.top, network: ws, ws-opts: {path: /dabai.in9318419, headers: {Host: 100.100.17.184.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.20.181.245, port: 2052, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-3.cn-db.top, network: ws, ws-opts: {path: /dabai.in24518120, headers: {Host: 100.100.17.181.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.18.16.63, port: 80, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: cache-us-4.db-link02.top, network: ws, ws-opts: {path: /dabai.in631618, headers: {Host: 100.100.17.16.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白, server: 104.20.93.103, port: 2052, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-1.db-link02.top, network: ws, ws-opts: {path: /dabai.in1039320, headers: {Host: 100.100.17.93.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白, server: 104.19.31.249, port: 2052, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-2.cn-db.top, network: ws, ws-opts: {path: /dabai.in2493119, headers: {Host: 100.100.17.31.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.20.11.49, port: 2082, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-2.db-link02.top, network: ws, ws-opts: {path: /dabai.in491120, headers: {Host: 100.100.17.11.db-link02.top}}, udp: true}
+- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 104.18.170.171, port: 2082, type: vmess, uuid: 7ae32b19-ebf9-34b0-9145-c388797acacf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: data-us-1.db-link01.top, network: ws, ws-opts: {path: /dabai.in17117018, headers: {Host: 100.100.17.170.db-link01.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -2166,6 +2166,7 @@ rules:
 - DOMAIN-SUFFIX,archive.fo,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.is,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.li,✈️ ‍起飞
+- DOMAIN-SUFFIX,archive.md,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.ph,✈️ ‍起飞
 - DOMAIN-SUFFIX,archive.today,✈️ ‍起飞
@@ -2498,6 +2499,7 @@ rules:
 - DOMAIN-SUFFIX,c-spanvideo.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,c100tibet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,c2cx.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cableav.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,cablegatesearch.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,cachinese.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cacnw.com,✈️ ‍起飞
@@ -2682,6 +2684,7 @@ rules:
 - DOMAIN-SUFFIX,chubun.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,churchinhongkong.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,chushigangdrug.ch,✈️ ‍起飞
+- DOMAIN-SUFFIX,ciciai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cienen.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cineastentreff.de,✈️ ‍起飞
 - DOMAIN-SUFFIX,cipfg.org,✈️ ‍起飞
@@ -2783,6 +2786,7 @@ rules:
 - DOMAIN-SUFFIX,cotweet.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,counter.social,✈️ ‍起飞
 - DOMAIN-SUFFIX,coursehero.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,coze.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cpj.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,crackle.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,crazys.cc,✈️ ‍起飞
@@ -3136,6 +3140,7 @@ rules:
 - DOMAIN-SUFFIX,etadult.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,etaiwannews.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,etherdelta.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,ethermine.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,etherscan.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,etizer.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,etokki.com,✈️ ‍起飞
@@ -3168,6 +3173,7 @@ rules:
 - DOMAIN-SUFFIX,ezpc.tk,✈️ ‍起飞
 - DOMAIN-SUFFIX,ezpeer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ezua.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,f2pool.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,f8.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,faceless.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,facesofnyfw.com,✈️ ‍起飞
@@ -3846,6 +3852,7 @@ rules:
 - DOMAIN-SUFFIX,hrcir.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hrea.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hrichina.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,hrntt.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hrw.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hrweb.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hsjp.net,✈️ ‍起飞
@@ -3881,6 +3888,7 @@ rules:
 - DOMAIN-SUFFIX,hulkshare.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hulu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,huluim.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,humanparty.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,humanrightspressawards.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hung-ya.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hungerstrikeforaids.org,✈️ ‍起飞
@@ -3921,7 +3929,7 @@ rules:
 - DOMAIN-SUFFIX,ibtimes.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ibvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,icams.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,icerocket.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,icedrive.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,icij.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,icl-fi.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,icoco.com,✈️ ‍起飞
@@ -4179,6 +4187,7 @@ rules:
 - DOMAIN-SUFFIX,juyuange.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,juziyue.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,jwmusic.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,jwplayer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,jyxf.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,k-doujin.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,ka-wai.com,✈️ ‍起飞
@@ -5368,6 +5377,7 @@ rules:
 - DOMAIN-SUFFIX,roodo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rosechina.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,rotten.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,rou.video,✈️ ‍起飞
 - DOMAIN-SUFFIX,rsdlmonitor.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rsf-chinese.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,rsf.org,✈️ ‍起飞
@@ -5865,6 +5875,7 @@ rules:
 - DOMAIN-SUFFIX,telesco.pe,✈️ ‍起飞
 - DOMAIN-SUFFIX,tellme.pw,✈️ ‍起飞
 - DOMAIN-SUFFIX,tenacy.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,tenor.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,tensorflow.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,tenzinpalmo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,terabox.com,✈️ ‍起飞
@@ -6811,6 +6822,7 @@ rules:
 - DOMAIN-SUFFIX,z-lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,zacebook.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zalmos.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,zamimg.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zannel.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zaobao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zaozon.com,✈️ ‍起飞
