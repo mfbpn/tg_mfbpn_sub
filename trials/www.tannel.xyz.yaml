@@ -36,7 +36,6 @@ proxy-groups:
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨HKBN丨流媒体 - Tannel中继网络服务
-  - "🇭🇰 香港丨HKT丨流媒体\t - Tannel中继网络服务"
   - 🇭🇰 香港丨国际BGP - Tannel中继网络服务
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务
@@ -107,7 +106,6 @@ proxy-groups:
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨HKBN丨流媒体 - Tannel中继网络服务
-  - "🇭🇰 香港丨HKT丨流媒体\t - Tannel中继网络服务"
   - 🇭🇰 香港丨国际BGP - Tannel中继网络服务
 - name: 🇹🇼 ‍台湾
   type: url-test
@@ -127,7 +125,6 @@ proxy-groups:
   - 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务
   - 🇭🇰 香港B丨HKBN丨流媒体 - Tannel中继网络服务
-  - "🇭🇰 香港丨HKT丨流媒体\t - Tannel中继网络服务"
   - 🇭🇰 香港丨国际BGP - Tannel中继网络服务
   - 🇹🇼 台湾A丨Hinet丨流媒体 - Tannel中继网络服务
   - 🇹🇼 台湾B丨Hinet丨流媒体 - Tannel中继网络服务
@@ -208,7 +205,6 @@ proxies:
 - {name: 🇭🇰 香港A丨HKBN丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62016, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨BGP丨流媒体 - Tannel中继网络服务, server: zx.zztannel.com, port: 62003, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港B丨HKBN丨流媒体 - Tannel中继网络服务, server: zx.zztannel.com, port: 62010, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: "🇭🇰 香港丨HKT丨流媒体\t - Tannel中继网络服务", server: gy.zztannel.com, port: 62006, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港丨国际BGP - Tannel中继网络服务, server: zx.zztannel.com, port: 62013, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
