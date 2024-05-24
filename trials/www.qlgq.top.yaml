@@ -9,7 +9,59 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - 🇭🇰 香港 101 - 墙了个墙
+  - 🇭🇰 香港 102 - 墙了个墙
+  - 🇭🇰 香港 103 - 墙了个墙
+  - 🇭🇰 香港 104 - 墙了个墙
+  - 🇭🇰 香港 105 - 墙了个墙
+  - 🇭🇰 香港 106 - 墙了个墙
+  - 🇭🇰 香港 107 - 墙了个墙
+  - 🇭🇰 香港 108 - 墙了个墙
+  - 🇭🇰 香港 109 - 墙了个墙
+  - 🇭🇰 香港 110 - 墙了个墙
+  - 🇸🇬 新加坡 101 - 墙了个墙
+  - 🇸🇬 新加坡 102 - 墙了个墙
+  - 🇸🇬 新加坡 103 - 墙了个墙
+  - 🇸🇬 新加坡 104 - 墙了个墙
+  - 🇸🇬 新加坡 105 - 墙了个墙
+  - 🇯🇵 日本 101 - 墙了个墙
+  - 🇯🇵 日本 102 - 墙了个墙
+  - 🇯🇵 日本 103 - 墙了个墙
+  - 🇯🇵 日本 104 - 墙了个墙
+  - 🇯🇵 日本 105 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶101 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶102 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶103 - 墙了个墙
+  - 🇩🇪 德国 法兰克福101 - 墙了个墙
+  - 🇩🇪 德国 法兰克福102 - 墙了个墙
+  - 🇩🇪 德国 法兰克福103 - 墙了个墙
+  - 🇩🇪 德国 法兰克福104 - 墙了个墙
+  - 🇩🇪 德国 法兰克福105 - 墙了个墙
+  - 🇬🇧 英国 101 - 墙了个墙
+  - 🇬🇧 英国 102 - 墙了个墙
+  - 🇬🇧 英国 103 - 墙了个墙
+  - 🇲🇾 马来西亚 001 - 墙了个墙
+  - 🇲🇾 马来西亚 002 - 墙了个墙
+  - 🇲🇾 马来西亚 003 - 墙了个墙
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -25,11 +77,23 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇭🇰 ‍香港
   - 🛩️ ‍墙内
+  - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
   - ✈️ ‍起飞
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 👆🏻 ‍指定
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -38,6 +102,88 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港 101 - 墙了个墙
+  - 🇭🇰 香港 102 - 墙了个墙
+  - 🇭🇰 香港 103 - 墙了个墙
+  - 🇭🇰 香港 104 - 墙了个墙
+  - 🇭🇰 香港 105 - 墙了个墙
+  - 🇭🇰 香港 106 - 墙了个墙
+  - 🇭🇰 香港 107 - 墙了个墙
+  - 🇭🇰 香港 108 - 墙了个墙
+  - 🇭🇰 香港 109 - 墙了个墙
+  - 🇭🇰 香港 110 - 墙了个墙
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇸🇬 新加坡 101 - 墙了个墙
+  - 🇸🇬 新加坡 102 - 墙了个墙
+  - 🇸🇬 新加坡 103 - 墙了个墙
+  - 🇸🇬 新加坡 104 - 墙了个墙
+  - 🇸🇬 新加坡 105 - 墙了个墙
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇯🇵 日本 101 - 墙了个墙
+  - 🇯🇵 日本 102 - 墙了个墙
+  - 🇯🇵 日本 103 - 墙了个墙
+  - 🇯🇵 日本 104 - 墙了个墙
+  - 🇯🇵 日本 105 - 墙了个墙
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id005
+  - 🇺🇸 美国 洛杉矶101 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶102 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶103 - 墙了个墙
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id006
+  - 🇩🇪 德国 法兰克福101 - 墙了个墙
+  - 🇩🇪 德国 法兰克福102 - 墙了个墙
+  - 🇩🇪 德国 法兰克福103 - 墙了个墙
+  - 🇩🇪 德国 法兰克福104 - 墙了个墙
+  - 🇩🇪 德国 法兰克福105 - 墙了个墙
+  - 🇬🇧 英国 101 - 墙了个墙
+  - 🇬🇧 英国 102 - 墙了个墙
+  - 🇬🇧 英国 103 - 墙了个墙
+  - 🇲🇾 马来西亚 001 - 墙了个墙
+  - 🇲🇾 马来西亚 002 - 墙了个墙
+  - 🇲🇾 马来西亚 003 - 墙了个墙
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id003
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
 - {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: 42ce7461-cffd-3fe4-934c-13dd56d777b4, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
 - {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq.fun, port: 21789, type: trojan, password: 42ce7461-cffd-3fe4-934c-13dd56d777b4, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
