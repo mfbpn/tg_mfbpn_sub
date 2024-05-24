@@ -9,14 +9,7 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 👆🏻 ‍指定
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  tolerance: 100
-  use: &id001
-  - All
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -33,12 +26,10 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -47,19 +38,7 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 👆🏻 ‍指定
-  type: select
-  use: *id001
-proxy-providers:
-  All:
-    type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/aa.dabai.in/All.yaml
-    interval: 180
-    path: trials_providers/aa.dabai.in/All.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+proxy-providers: {}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -9,24 +9,7 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 👆🏻 ‍指定
   - DIRECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id001
-  - 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
-  - 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
-  - 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
-  - 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
-  - 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白
-  - 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白
-  - 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
-  - 🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
-  - 🇺🇸 美国|最低35%-aff招募进行中|共享 - 大白
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -43,12 +26,10 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -57,19 +38,14 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 proxies:
-- {name: 🇺🇸 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 104.24.109.20, port: 2053, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-333.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.24.109.20, headers: {Host: 100-100-17-333.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: 172.67.127.16, port: 2095, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.127.16, headers: {Host: 100-100-17-458.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.24.181.254, port: 2082, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.181.254, headers: {Host: 100-100-17-372.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.25.188.226, port: 2082, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.188.226, headers: {Host: 100-100-17-266.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白, server: 104.16.72.155, port: 2083, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-368.db-link01.top, network: ws, ws-opts: {path: /dabai.in104.16.72.155, headers: {Host: 100-100-17-368.db-link01.top}}, udp: true}
-- {name: 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白, server: 172.64.20.134, port: 2052, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.20.134, headers: {Host: 100-100-17-405.cn-db.top}}, udp: true}
-- {name: 🇺🇸 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.19.187.163, port: 2096, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-224.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.19.187.163, headers: {Host: 100-100-17-224.cn-db.top}}, udp: true}
-- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 172.67.22.29, port: 8080, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.22.29, headers: {Host: 100-100-17-14.db-link02.top}}, udp: true}
-- {name: 🇺🇸 美国|最低35%-aff招募进行中|共享 - 大白, server: 104.21.90.156, port: 2087, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-456.db-link02.top, network: ws, ws-opts: {path: /dabai.in104.21.90.156, headers: {Host: 100-100-17-456.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: 104.25.106.61, port: 2087, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-303.db-link02.top, network: ws, ws-opts: {path: /dabai.in104.25.106.61, headers: {Host: 100-100-17-303.db-link02.top}}, udp: true}
+- {name: 🇸🇬 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: 104.24.137.196, port: 2052, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.137.196, headers: {Host: 100-100-17-272.db-link01.top}}, udp: true}
+- {name: 🇺🇸 美国|【公共订阅】动态速率油管最低720P保证|GPT+流媒体|共享 - 大白, server: 104.20.202.82, port: 2096, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-454.db-link02.top, network: ws, ws-opts: {path: /dabai.in104.20.202.82, headers: {Host: 100-100-17-454.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|【注册使用】速度更快|GPT+流媒体|共享 - 大白, server: 104.25.22.53, port: 2087, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-13.db-link01.top, network: ws, ws-opts: {path: /dabai.in104.25.22.53, headers: {Host: 100-100-17-13.db-link01.top}}, udp: true}
+- {name: 🏳️‍🌈 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: 104.21.182.44, port: 2053, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-2.cn-db.top, network: ws, ws-opts: {path: /dabai.in104.21.182.44, headers: {Host: 100-100-17-2.cn-db.top}}, udp: true}
+- {name: '🇺🇸 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: 172.67.13.29, port: 8080, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.13.29, headers: {Host: 100-100-17-331.db-link02.top}}, udp: true}
+- {name: 🇺🇸 美国|最低35%-aff招募进行中|共享 - 大白, server: 104.16.60.44, port: 2095, type: vmess, uuid: d930577a-2543-3f74-bd62-fda462fc8c18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.60.44, headers: {Host: 100-100-17-460.db-link02.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
