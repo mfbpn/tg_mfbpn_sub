@@ -28,7 +28,7 @@ proxy-groups:
   - 🇺🇸 美国new02优选（1倍率） - 快狗云
   - 🇺🇸 美国new03（1倍率） - 快狗云
   - 🇺🇸 美国new03优选（1倍率） - 快狗云
-  - ℹ️ 官网https://www.kuaidog002.top - 快狗云
+  - ℹ️ 官网https://www.kuaidog006.top - 快狗云
   - 🇰🇷 韩国01（1倍率） - 快狗云
   - 🇰🇷 韩国01 优选（1倍率） - 快狗云
   - 🇨🇦 加拿大new01（1倍率） - 快狗云
@@ -91,7 +91,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id003
-  - ℹ️ 官网https://www.kuaidog002.top - 快狗云
+  - ℹ️ 官网https://www.kuaidog006.top - 快狗云
   - 🇰🇷 韩国01（1倍率） - 快狗云
   - 🇰🇷 韩国01 优选（1倍率） - 快狗云
   - 🇨🇦 加拿大new01（1倍率） - 快狗云
@@ -112,7 +112,7 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: ℹ️ 官网https://www.kuaidog002.top - 快狗云, server: ca-01.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.daluquan.top}}, udp: true}
+- {name: ℹ️ 官网https://www.kuaidog006.top - 快狗云, server: ca-01.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-01.daluquan.top}}, udp: true}
 - {name: 🇰🇷 韩国01（1倍率） - 快狗云, server: kr-01.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.daluquan.top}}, udp: true}
 - {name: 🇰🇷 韩国01 优选（1倍率） - 快狗云, server: go.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kr-01.daluquan.top}}, udp: true}
 - {name: 🇨🇦 加拿大new01（1倍率） - 快狗云, server: ca-new01.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ca-new01.daluquan.top}}, udp: true}
