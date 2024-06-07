@@ -21,11 +21,11 @@ proxies:
 - {name: 🇸🇬 新加坡A丨禁下载丨流媒体 - Tannel中继网络服务, server: gy.zztannel.com, port: 62033, type: vmess, uuid: ad72309d-9cbc-38b7-9221-09bad733ab35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
 - {name: 🇸🇬 SG新加坡 B - 可乐云, server: sg.colacloud.site, port: 20153, type: ss, cipher: chacha20-ietf-poly1305, password: 2430a610-4898-4b45-b341-f9ab4d498f52, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 3a8b6e39-65f5-34d8-a1be-18cf68badc89, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 3a8b6e39-65f5-34d8-a1be-18cf68badc89, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 3a8b6e39-65f5-34d8-a1be-18cf68badc89, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 3a8b6e39-65f5-34d8-a1be-18cf68badc89, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 3a8b6e39-65f5-34d8-a1be-18cf68badc89, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 4a71bd12-5afd-363c-b92c-101280bfbf7b, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 4a71bd12-5afd-363c-b92c-101280bfbf7b, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 4a71bd12-5afd-363c-b92c-101280bfbf7b, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 4a71bd12-5afd-363c-b92c-101280bfbf7b, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 4a71bd12-5afd-363c-b92c-101280bfbf7b, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡-解锁08 - PL, server: xjp08.bbx9527.xyz, port: 46102, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
 - {name: 🇸🇬 新加坡-解锁01 - PL, server: xjp01.bbx9527.xyz, port: 27369, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
 - {name: 🇸🇬 新加坡-解锁09 - PL, server: xjp09.bbx9527.xyz, port: 45554, type: ss, cipher: chacha20-ietf-poly1305, password: 848f4573-222e-40a8-b9df-5689cfc8be00, udp: true}
