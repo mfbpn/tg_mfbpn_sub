@@ -339,9 +339,10 @@ rules:
 - DOMAIN-SUFFIX,scs.f5.si,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内
-- DOMAIN,api.v1.mk,🛩️ ‍墙内
+- DOMAIN,url.v1.mk,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
-- DOMAIN,api.subcsub.com,🛩️ ‍墙内
+- DOMAIN,sub.id9.cc,🛩️ ‍墙内
+- DOMAIN,api-suc.0z.gs,🛩️ ‍墙内
 - DOMAIN,ghproxy.top,🛩️ ‍墙内
 - DOMAIN,ghproxy.net,🛩️ ‍墙内
 - DOMAIN,ghproxy.org,🛩️ ‍墙内
