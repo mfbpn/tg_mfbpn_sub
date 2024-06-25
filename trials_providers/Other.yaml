@@ -32,7 +32,7 @@ proxies:
 - {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: 6c88e5d2-0f3a-39f7-80f2-275034e7a4cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: 6c88e5d2-0f3a-39f7-80f2-275034e7a4cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 6c88e5d2-0f3a-39f7-80f2-275034e7a4cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: 183.232.167.100, port: 45168, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}

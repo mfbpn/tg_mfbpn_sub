@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: 183.232.167.100, port: 45168, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 97b9d592-dfde-3c91-897b-4568305cabeb, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
