@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国new01（1倍率） - 快狗云, server: us-new01.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new01.daluquan.top}}, udp: true}
-- {name: 🇺🇸 美国new01优选（1倍率） - 快狗云, server: go.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new01.daluquan.top}}, udp: true}
-- {name: 🇺🇸 美国new02（1倍率） - 快狗云, server: us-new02.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new02.daluquan.top}}, udp: true}
-- {name: 🇺🇸 美国new02优选（1倍率） - 快狗云, server: go.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new02.daluquan.top}}, udp: true}
-- {name: 🇺🇸 美国new03（1倍率） - 快狗云, server: us-new03.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new03.daluquan.top}}, udp: true}
-- {name: 🇺🇸 美国new03优选（1倍率） - 快狗云, server: go.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us-new03.daluquan.top}}, udp: true}

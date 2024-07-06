@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇩🇪 德国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare01.bigmeyear.org, port: 20702, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
-- {name: '🇬🇧 英国01 - 常用工具全解锁 & 高速安全,企业服务 | BigME.Pro', server: rare02.bigmeyear.org, port: 20703, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c, udp: true}
