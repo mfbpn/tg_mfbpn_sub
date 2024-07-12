@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: 51655699-ab1d-3919-b512-eff88a197ba9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: 51655699-ab1d-3919-b512-eff88a197ba9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: 51655699-ab1d-3919-b512-eff88a197ba9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: 51655699-ab1d-3919-b512-eff88a197ba9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: b8dbcee7-3eea-362a-9434-2d26cf59643f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: b8dbcee7-3eea-362a-9434-2d26cf59643f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: b8dbcee7-3eea-362a-9434-2d26cf59643f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: b8dbcee7-3eea-362a-9434-2d26cf59643f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: 855353ab-2a8d-370f-be3c-4bae4fe7846a, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 855353ab-2a8d-370f-be3c-4bae4fe7846a, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 855353ab-2a8d-370f-be3c-4bae4fe7846a, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
