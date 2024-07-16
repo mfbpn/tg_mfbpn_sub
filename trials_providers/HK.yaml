@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: 26f406dd-2b97-3dd7-897d-b4bffc2aa24f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: 26f406dd-2b97-3dd7-897d-b4bffc2aa24f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: 89cb839b-1498-39fa-a48f-9d4f1d6d7e47, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: 89cb839b-1498-39fa-a48f-9d4f1d6d7e47, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: 0f9321bd-1910-3245-a1ad-57bab27d6f2b, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 0f9321bd-1910-3245-a1ad-57bab27d6f2b, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 0f9321bd-1910-3245-a1ad-57bab27d6f2b, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
