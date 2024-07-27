@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: e4da3f6f-6659-305a-b435-a173a7633114, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: e4da3f6f-6659-305a-b435-a173a7633114, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: a91c7379-4695-3050-8c32-431126f4791d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: a91c7379-4695-3050-8c32-431126f4791d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 7a10de84-d3c2-3e84-a43d-d0cdaf139f4a, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 7a10de84-d3c2-3e84-a43d-d0cdaf139f4a, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 7a10de84-d3c2-3e84-a43d-d0cdaf139f4a, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}

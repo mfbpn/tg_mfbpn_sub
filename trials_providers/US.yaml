@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: e4da3f6f-6659-305a-b435-a173a7633114, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: e4da3f6f-6659-305a-b435-a173a7633114, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 043f6720-628d-3caa-ba86-6bfdb879fb3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 043f6720-628d-3caa-ba86-6bfdb879fb3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: a91c7379-4695-3050-8c32-431126f4791d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: a91c7379-4695-3050-8c32-431126f4791d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 06df81b0-f3a4-3943-bbf2-7416e7fbcdfd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 06df81b0-f3a4-3943-bbf2-7416e7fbcdfd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
 - {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 7a10de84-d3c2-3e84-a43d-d0cdaf139f4a, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 7a10de84-d3c2-3e84-a43d-d0cdaf139f4a, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 7a10de84-d3c2-3e84-a43d-d0cdaf139f4a, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
