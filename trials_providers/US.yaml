@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: f08c00b7-9ce2-3a3a-81cf-990027550c41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: f08c00b7-9ce2-3a3a-81cf-990027550c41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: c5a4ed6b-c897-3c73-9a6c-9120ab838f19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: c5a4ed6b-c897-3c73-9a6c-9120ab838f19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: be503f9e-f228-3889-b4e2-47a876364b96, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.v2-ray.cyou}}, udp: true}
 - {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: be503f9e-f228-3889-b4e2-47a876364b96, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.v2-ray.cyou}}, udp: true}
 - {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 042b8556-501d-3cfe-8e34-f5dea6193ff6, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -14,6 +14,6 @@ proxies:
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 042b8556-501d-3cfe-8e34-f5dea6193ff6, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 042b8556-501d-3cfe-8e34-f5dea6193ff6, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 042b8556-501d-3cfe-8e34-f5dea6193ff6, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: cb4bae5a-e707-3a63-b569-5cd28857cd4c, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: cb4bae5a-e707-3a63-b569-5cd28857cd4c, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: cb4bae5a-e707-3a63-b569-5cd28857cd4c, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 1106ea10-233f-3819-91da-dacc2fdf9478, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 1106ea10-233f-3819-91da-dacc2fdf9478, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 1106ea10-233f-3819-91da-dacc2fdf9478, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
