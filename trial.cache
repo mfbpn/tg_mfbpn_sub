@@ -1,18 +1,23 @@
 [yiyuanvpn.top]
+buy  pass
+email  hdkbghl506@gmail.com
 name  滑梯云
+node_n  12
+sub_url  http://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=4bab911e04f592ac2337d6c881e34368
+time  2024-08-05 11:47:11.175898+08:00
 type  v2board
-更新订阅链接/续费续签失败  注册失败(htwaizb132@gmail.com): 邀请码无效 #一元云梯
+保存订阅信息失败  could not convert string to float: '1;'
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  obqynji823@gmail.com
-last_checkin  2024-08-05 09:56:26.382313+08:00
+email  fvqtsdu910@gmail.com
+last_checkin  2024-08-05 11:49:09.722126+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  3.057G  10.12G  2024-08-05 11:56:26+08:00  (剩余 7.058G 0:52:22.793504)
-sub_url  https://dy2.dx035.top/link/tLnUGzxYrt1jnUQI?sub=3
-time  2024-08-05 09:56:32.289641+08:00
+sub_info  0B  10.11G  2024-08-05 13:49:09+08:00  (剩余 10.11G 1:57:41.447963)
+sub_url  https://dy2.dx035.top/link/HbS1yQDHfKN4rdyS?sub=3
+time  2024-08-05 11:49:16.312911+08:00
 type  sspanel
 
 [https://xn--mes358a.art]
@@ -20,14 +25,14 @@ type  sspanel
 [portal.passgfw.top]
 email  puypzvzi778@gmail.com
 name  WindyCloud
-sub_info  0B  100G  2024-09-02 07:43:32+08:00  (剩余 100G 27 days, 20:35:00.700268)
+sub_info  0B  100G  2024-09-02 07:43:32+08:00  (剩余 100G 27 days, 19:51:47.321992)
 sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=2deb586f455d5e8aa21be2452d70132b
 time  2024-08-02 07:47:13.850042+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 
 [csyun.xyz]
-email  zisqppuqa441@gmail.com
+email  ncehwje414@gmail.com
 name  橙速云
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
@@ -40,7 +45,7 @@ email  jjdumuyed215@xxxhi.cc
 last_checkin  2024-08-05 00:47:14.865478+08:00
 name  墙了个墙
 node_n  34
-sub_info  39.25G  888G  2024-08-05 15:49:31+08:00  (剩余 848.8G 4:45:26.950798)
+sub_info  39.86G  888G  2024-08-05 15:49:31+08:00  (剩余 848.2G 4:02:20.380528)
 sub_url  https://www.qlgq.top/link/27570191f5ae808b?clash=1#墙了个墙
 time  2024-08-04 15:49:32.963605+08:00
 type  sspanel
@@ -52,7 +57,7 @@ invite_code  IqHr  10000
 last_checkin  2024-08-05 09:51:53.228207+08:00
 name  飞翔吧
 node_n  47
-sub_info  778.7M  10.18G  2024-08-06 09:51:51+08:00  (剩余 9.415G 22:47:48.160850)
+sub_info  2.618G  10.18G  2024-08-06 09:51:51+08:00  (剩余 7.558G 22:04:39.372204)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/iKJ3vOY4oXJ2jORT?sub=3
 time  2024-08-05 09:51:54.617138+08:00
 type  sspanel
@@ -64,7 +69,7 @@ email  tsvgaci628@gmail.com
 last_checkin  2024-08-05 09:53:51.393313+08:00
 name  MG Network
 node_n  11
-sub_info  23.52K  5.431G  2024-08-07 10:53:51+08:00  (剩余 5.431G 1 day, 23:49:48.928593)
+sub_info  617.6M  5.431G  2024-08-07 10:53:51+08:00  (剩余 4.828G 1 day, 23:04:36.612121)
 sub_url  https://www.mgnet.sbs/link/5l12aSLPmwpFSnON?sub=3
 time  2024-08-05 09:53:51.818451+08:00
 type  sspanel
@@ -72,17 +77,17 @@ type  sspanel
 [zhenshihui.shop]
 email  riiefdov411@gmail.com
 name  真实惠
-sub_info  0B  300G  2024-09-05 11:04:00+08:00  (剩余 300G 30 days, 23:55:22.472607)
+sub_info  0B  300G  2024-09-05 11:04:00+08:00  (剩余 300G 30 days, 23:12:25.586542)
 sub_url  https://zhenshihui.shop/api/v1/client/subscribe?token=d79c357842d67963112636dd1b4c0cc3
 time  2024-08-05 11:04:00.963882+08:00
 type  v2board
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 
 [cloudcat.top]
 email  ffcexunr78@gmail.com
 name  云猫机场-免费公益
 node_n  2
-sub_info  0B  50G  2024-09-05 11:04:01+08:00  (剩余 50G 30 days, 23:59:56.638539)
+sub_info  19.56M  50G  2024-09-05 11:04:01+08:00  (剩余 49.98G 30 days, 23:14:50.993132)
 sub_url  https://cloudcat.top/api/v1/client/subscribe?token=82236fa251200c305dab551ec5c5ec35
 time  2024-08-05 11:04:01.622895+08:00
 type  v2board
