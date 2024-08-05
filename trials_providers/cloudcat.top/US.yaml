@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇺🇸 [vmess]直连[防失联节点]美国 - 云猫机场-免费公益', server: usbk.cfip.top, port: 8443, type: vmess, uuid: 1e35c6e1-8ca9-4058-adbd-9593e3edfdf0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
