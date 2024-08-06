@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【高级】🇭🇰香港 - 滑梯云, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: 0a5cedfb-09c0-41aa-abcf-7346160cbc1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: yyyt-hk-2024.mofaxw.top}}, udp: true}
+- {name: 【高级】🇭🇰香港 - 滑梯云, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: a68ec05c-44f1-4157-9076-e98e580c63e0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: yyyt-hk-2024.mofaxw.top}}, udp: true}
