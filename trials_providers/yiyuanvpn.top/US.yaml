@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【高级】🇺🇸美国1 - 滑梯云, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: 72c5e375-7c3b-4006-85ba-0f23a4987033, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: yyyt-us1-2024.mofaxw.top}}, udp: true}
-- {name: 【高级】🇺🇸美国2 - 滑梯云, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: 72c5e375-7c3b-4006-85ba-0f23a4987033, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: yyyt-us2-2024.mofaxw.top}}, udp: true}
+- {name: 【高级】🇺🇸美国1 - 滑梯云, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: 8cc2afb0-4949-4810-b04a-234cdefe0817, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: yyyt-us1-2024.mofaxw.top}}, udp: true}
+- {name: 【高级】🇺🇸美国2 - 滑梯云, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: 8cc2afb0-4949-4810-b04a-234cdefe0817, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: yyyt-us2-2024.mofaxw.top}}, udp: true}
