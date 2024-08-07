@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 'ℹ️ [vmess][官网]cloudcat.top - 云猫机场-免费公益', server: 1.1.1.1, port: 443, type: vmess, uuid: 1e35c6e1-8ca9-4058-adbd-9593e3edfdf0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
+- {name: 'ℹ️ [vmess][官网]cloudcat.top - 云猫机场-免费公益', server: 1.1.1.1, port: 443, type: vmess, uuid: 8a5f72e1-6e10-4bf2-a58f-6a12c994ac72, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
