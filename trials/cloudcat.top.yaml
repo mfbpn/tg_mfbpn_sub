@@ -22,8 +22,8 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇺🇸 [vmess]直连[防失联节点]美国 - 云猫机场-免费公益
-  - '[vmess]永久免费｜cloudcat.top - 云猫机场-免费公益'
+  - 🇺🇸 [vmess][直连]US-New_York-纽约 - 云猫机场-免费公益
+  - ℹ️ [vmess][官网]cloudcat.top - 云猫机场-免费公益
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -64,14 +64,14 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id002
-  - 🇺🇸 [vmess]直连[防失联节点]美国 - 云猫机场-免费公益
+  - 🇺🇸 [vmess][直连]US-New_York-纽约 - 云猫机场-免费公益
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
   proxies: &id003
-  - '[vmess]永久免费｜cloudcat.top - 云猫机场-免费公益'
+  - ℹ️ [vmess][官网]cloudcat.top - 云猫机场-免费公益
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -82,8 +82,8 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: '[vmess]永久免费｜cloudcat.top - 云猫机场-免费公益', server: 1.1.1.1, port: 443, type: vmess, uuid: 1e35c6e1-8ca9-4058-adbd-9593e3edfdf0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
-- {name: '🇺🇸 [vmess]直连[防失联节点]美国 - 云猫机场-免费公益', server: usbk.cfip.top, port: 8443, type: vmess, uuid: 1e35c6e1-8ca9-4058-adbd-9593e3edfdf0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
+- {name: 'ℹ️ [vmess][官网]cloudcat.top - 云猫机场-免费公益', server: 1.1.1.1, port: 443, type: vmess, uuid: 1e35c6e1-8ca9-4058-adbd-9593e3edfdf0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
+- {name: '🇺🇸 [vmess][直连]US-New_York-纽约 - 云猫机场-免费公益', server: usbk.cfip.top, port: 8443, type: vmess, uuid: 1e35c6e1-8ca9-4058-adbd-9593e3edfdf0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
