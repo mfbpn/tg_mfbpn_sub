@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 56e4723d-c308-39cf-89d3-c92b574ba3d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 56e4723d-c308-39cf-89d3-c92b574ba3d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 447d2d96-3786-3c1d-be4e-67bebbab549f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 447d2d96-3786-3c1d-be4e-67bebbab549f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 0b8b12b2-dace-3fb7-8e15-ba4cae5c5c2b, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 0b8b12b2-dace-3fb7-8e15-ba4cae5c5c2b, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 0b8b12b2-dace-3fb7-8e15-ba4cae5c5c2b, sni: x83.flybar.work, skip-cert-verify: true, udp: true}

@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: 56e4723d-c308-39cf-89d3-c92b574ba3d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: 56e4723d-c308-39cf-89d3-c92b574ba3d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: 447d2d96-3786-3c1d-be4e-67bebbab549f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: 447d2d96-3786-3c1d-be4e-67bebbab549f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 0b8b12b2-dace-3fb7-8e15-ba4cae5c5c2b, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 0b8b12b2-dace-3fb7-8e15-ba4cae5c5c2b, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 0b8b12b2-dace-3fb7-8e15-ba4cae5c5c2b, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
