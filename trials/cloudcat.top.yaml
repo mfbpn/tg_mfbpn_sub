@@ -25,7 +25,7 @@ proxy-groups:
   - 🇺🇸 [vmess][直连]US-New_York-纽约 - 云猫机场-免费公益
   - 🇺🇸 [vmess][直连]US-Los_Angeles-洛杉矶-A - 云猫机场-免费公益
   - 🇺🇸 [vmess][直连]US-Los_Angeles-洛杉矶-B - 云猫机场-免费公益
-  - ℹ️ [vmess][官网]cloudcat.top - 云猫机场-免费公益
+  - '[vmess]以下为免费节点 - 云猫机场-免费公益'
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -75,7 +75,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id003
-  - ℹ️ [vmess][官网]cloudcat.top - 云猫机场-免费公益
+  - '[vmess]以下为免费节点 - 云猫机场-免费公益'
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -86,7 +86,7 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: 'ℹ️ [vmess][官网]cloudcat.top - 云猫机场-免费公益', server: 1.1.1.1, port: 443, type: vmess, uuid: 50306eed-9719-44f0-b000-6cd0ac80c452, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
+- {name: '[vmess]以下为免费节点 - 云猫机场-免费公益', server: 1.1.1.1, port: 443, type: vmess, uuid: 50306eed-9719-44f0-b000-6cd0ac80c452, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
 - {name: '🇺🇸 [vmess][直连]US-New_York-纽约 - 云猫机场-免费公益', server: usbk.cfip.top, port: 8443, type: vmess, uuid: 50306eed-9719-44f0-b000-6cd0ac80c452, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: usbk.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: usbk.cfip.top}}, udp: true}
 - {name: '🇺🇸 [vmess][直连]US-Los_Angeles-洛杉矶-A - 云猫机场-免费公益', server: US-Los_Angeles-A.cfip.top, port: 8443, type: vmess, uuid: 50306eed-9719-44f0-b000-6cd0ac80c452, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-los_angeles-a.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: us-los_angeles-a.cfip.top}}, udp: true}
 - {name: '🇺🇸 [vmess][直连]US-Los_Angeles-洛杉矶-B - 云猫机场-免费公益', server: US-Los_Angeles-B.cfip.top, port: 8443, type: vmess, uuid: 50306eed-9719-44f0-b000-6cd0ac80c452, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-los_angeles-b.cfip.top, network: ws, ws-opts: {path: /cctv13/hd.m3u8, headers: {Host: us-los_angeles-b.cfip.top}}, udp: true}
