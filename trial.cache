@@ -22,9 +22,9 @@ sub_info  1010M  10.1G  2024-08-12 11:15:37+08:00  (剩余 9.112G -1 day, 14:14:
 sub_url  https://dy2.dx035.top/link/Ez7HFt1oUIqAJm6g?sub=3
 time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(vupqgbca250@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(orwbswun231@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [https://xn--mes358a.art]
 
@@ -36,10 +36,10 @@ sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=480427c1749a3b699
 time  2024-08-10 22:51:57.025672+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfe8439930>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc764125930>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
 
 [csyun.xyz]
-email  jumbdko840@gmail.com
+email  ybjzhgz586@gmail.com
 name  橙速云
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
@@ -52,7 +52,7 @@ email  klzbyynz869@jkb.tmmad.com
 last_checkin  2024-08-30 00:48:01.611842+08:00
 name  墙了个墙
 node_n  34
-sub_info  28.01G  888G  2024-08-30 21:01:00+08:00  (剩余 860G 2:13:34.898618)
+sub_info  28.97G  888G  2024-08-30 21:01:00+08:00  (剩余 859G 1:13:34.184421)
 sub_url  https://www.qlgq.top/link/d14d5ff509830327?clash=1#墙了个墙
 time  2024-08-29 21:01:02.140526+08:00
 type  sspanel
@@ -64,7 +64,7 @@ invite_code  s2Hp  9999
 last_checkin  2024-08-30 18:47:34.571843+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.19G  2024-08-31 18:47:34+08:00  (剩余 10.19G 23:59:51.769196)
+sub_info  7.348G  10.19G  2024-08-31 18:47:34+08:00  (剩余 2.838G 22:59:56.073203)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/2ZGGDGPWD4B5CyL7?sub=3
 time  2024-08-30 18:47:35.858649+08:00
 type  sspanel
@@ -76,26 +76,25 @@ email  ftuireu131@gmail.com
 last_checkin  2024-08-30 18:47:24.862372+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.41G  2024-09-01 19:47:24+08:00  (剩余 5.41G 2 days, 0:59:57.225672)
+sub_info  0B  5.41G  2024-09-01 19:47:24+08:00  (剩余 5.41G 1 day, 23:59:46.722577)
 sub_url  https://www.mgnet.sbs/link/Y9oNdbsOGXoeQTah?sub=3
 time  2024-08-30 18:47:25.241017+08:00
 type  sspanel
 
 [zhenshihui.shop]
-email  wmzalzjpz736@gmail.com
+email  flygpbr575@gmail.com
 name  真实惠
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=c91c6a59b3b1ed7b52f04cf64b066316
-time  2024-08-30 15:49:27.565659+08:00
+sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=331f58d4e2ea9fc13b268fd31ff407d3
+time  2024-08-30 19:49:28.126046+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(rjjwctcd548@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 email  jffxyhoj319@gmail.com
 name  云猫机场-免费公益
 node_n  4
-sub_info  6.394G  30G  2024-09-30 13:47:14+08:00  (剩余 23.61G 30 days, 18:59:47.832062)
+sub_info  7.825G  30G  2024-09-30 13:47:14+08:00  (剩余 22.17G 30 days, 17:59:41.174940)
 sub_url  https://cloudcat.top/api/v1/client/subscribe?token=41d68fedb8317034b08412814066d4b2
 time  2024-08-30 13:47:14.814110+08:00
 type  v2board
