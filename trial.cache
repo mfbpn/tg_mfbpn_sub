@@ -24,7 +24,7 @@ time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(qlefaeyw358@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(behirxx281@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [https://xn--mes358a.art]
 
@@ -36,10 +36,10 @@ sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=480427c1749a3b699
 time  2024-08-10 22:51:57.025672+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdae46824a0>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc0e853ded0>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
 
 [csyun.xyz]
-email  linbfyl387@gmail.com
+email  ziryreg413@gmail.com
 name  橙速云
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
@@ -52,21 +52,21 @@ email  spaphgiqb810@lplso.tmmad.com
 last_checkin  2024-08-31 20:58:26.144779+08:00
 name  墙了个墙
 node_n  34
-sub_info  459.9M  888G  2024-09-01 20:58:25+08:00  (剩余 887.6G 22:11:14.975356)
+sub_info  2.956G  888G  2024-09-01 20:58:25+08:00  (剩余 885.1G 21:11:18.655057)
 sub_url  https://www.qlgq.top/link/cde96458d0c06429?clash=1#墙了个墙
 time  2024-08-31 20:58:27.182570+08:00
 type  sspanel
 
 [2.flybar20.cc]
 banned_domains  tmpmail.net  moakt.ws  bareed.ws  tmpmail.org  tmails.net  h11gggujjj.bond  disbox.net  tmail.ws  mydefipet.live  psnator.com  disbox.org  moakt.co  tmpnator.live  femailtor.com  smartnator.com
-email  tdjiutlxf244@bccto.cc
-invite_code  XBqW  10000
-last_checkin  2024-08-31 21:47:33.203017+08:00
+email  yzdybdrqx442@guerrillamail.net
+invite_code  rY0Q  10000
+last_checkin  2024-08-31 23:47:26.337019+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.22G  10.18G  2024-09-01 21:47:31+08:00  (剩余 8.958G 23:00:10.835284)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/9pcYH3DPxFCGs6Fu?sub=3
-time  2024-08-31 21:47:34.551498+08:00
+sub_info  0B  10.11G  2024-09-01 23:47:24+08:00  (剩余 10.11G 23:57:51.386791)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/9z9f8ITJtooei7Qi?sub=3
+time  2024-08-31 23:47:27.635037+08:00
 type  sspanel
 
 [mgnet.vip]
@@ -76,26 +76,25 @@ email  wtedltiim198@gmail.com
 last_checkin  2024-08-31 22:47:08.596501+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.596G  2024-09-02 23:47:08+08:00  (剩余 5.596G 2 days, 0:59:50.888232)
+sub_info  0B  5.596G  2024-09-02 23:47:08+08:00  (剩余 5.596G 1 day, 23:59:56.631327)
 sub_url  https://www.mgnet.sbs/link/k5DQP2fbMXqcTtqS?sub=3
 time  2024-08-31 22:47:09.017895+08:00
 type  sspanel
 
 [zhenshihui.shop]
-email  didwmnaff109@gmail.com
+email  nngpjfhce19@gmail.com
 name  真实惠
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=483da324c7bfdb22dde1632da94fd5ca
-time  2024-08-31 21:47:34.331718+08:00
+sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=a4aee5a366cbc5e7c51bb7a849d6d2bb
+time  2024-08-31 23:47:08.252329+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(fpesntgm613@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 email  chhpidarl173@gmail.com
 name  云猫机场-免费公益
 node_n  4
-sub_info  1.386G  30G  2024-10-01 20:58:19+08:00  (剩余 28.61G 30 days, 22:11:10.851114)
+sub_info  2.748G  30G  2024-10-01 20:58:19+08:00  (剩余 27.25G 30 days, 21:11:14.417215)
 sub_url  https://cloudcat.top/api/v1/client/subscribe?token=8fd9aba6236bed53d4e2733b217beb01
 time  2024-08-31 20:58:19.410131+08:00
 type  v2board
