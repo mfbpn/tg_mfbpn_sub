@@ -22,9 +22,9 @@ sub_info  1010M  10.1G  2024-08-12 11:15:37+08:00  (剩余 9.112G -1 day, 14:14:
 sub_url  https://dy2.dx035.top/link/Ez7HFt1oUIqAJm6g?sub=3
 time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(cqsiohw430@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(sjufvow796@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [https://xn--mes358a.art]
 
@@ -36,10 +36,10 @@ sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=480427c1749a3b699
 time  2024-08-10 22:51:57.025672+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb11c892470>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11081ca560>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
 
 [csyun.xyz]
-email  gbswvfpic37@gmail.com
+email  rqhtznxao79@gmail.com
 name  橙速云
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
@@ -52,33 +52,33 @@ email  uupfzitme388@moakt.co
 last_checkin  2024-08-31 00:47:07.270670+08:00
 name  墙了个墙
 node_n  34
-sub_info  29.77G  888G  2024-08-31 21:07:38+08:00  (剩余 858.3G 13:20:10.506718)
+sub_info  34.06G  888G  2024-08-31 21:07:38+08:00  (剩余 854G 11:08:30.076090)
 sub_url  https://www.qlgq.top/link/e8244ff24a4254f0?clash=1#墙了个墙
 time  2024-08-30 21:07:39.638543+08:00
 type  sspanel
 
 [2.flybar20.cc]
 banned_domains  tmpmail.net  moakt.ws  bareed.ws  tmpmail.org  tmails.net  h11gggujjj.bond  disbox.net  tmail.ws  mydefipet.live  psnator.com  disbox.org  moakt.co  tmpnator.live  femailtor.com  smartnator.com
-email  olohnnp781@agteet.cn
-invite_code  8lV5  9999
-last_checkin  2024-08-31 07:47:45.545758+08:00
+email  evwsfjhke391@youxiang.dev
+invite_code  JADh  10000
+last_checkin  2024-08-31 10:01:18.496544+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.17G  2024-09-01 07:47:45+08:00  (剩余 10.17G 23:59:53.203282)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/MZgZiF6coNWwNSrv?sub=3
-time  2024-08-31 07:47:46.882540+08:00
+sub_info  0B  10.1G  2024-09-01 10:01:16+08:00  (剩余 10.1G 23:59:53.738223)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/Im3lSbYP5DdWlUY8?sub=3
+time  2024-08-31 10:01:19.836963+08:00
 type  sspanel
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  ngecihue995@gmail.com
-last_checkin  2024-08-31 01:47:03.227651+08:00
+email  czebapjk240@gmail.com
+last_checkin  2024-08-31 09:59:05.747019+08:00
 name  MG Network
 node_n  11
-sub_info  3.34G  5.318G  2024-09-02 02:47:03+08:00  (剩余 1.978G 1 day, 18:59:37.408598)
-sub_url  https://www.mgnet.sbs/link/uM3LvKE946fVlI5O?sub=3
-time  2024-08-31 01:47:03.520841+08:00
+sub_info  0B  5.284G  2024-09-02 10:59:05+08:00  (剩余 5.284G 2 days, 0:59:57.549769)
+sub_url  https://www.mgnet.sbs/link/HEzGCjmEhaVbgDWj?sub=3
+time  2024-08-31 09:59:06.188490+08:00
 type  sspanel
 
 [zhenshihui.shop]
@@ -89,13 +89,13 @@ sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=2c18ec4a78dd14311
 time  2024-08-31 05:47:23.136897+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(aagpnyyjl245@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(tvlyvtalx263@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 email  ovkwfmx855@gmail.com
 name  云猫机场-免费公益
 node_n  4
-sub_info  0B  30G  2024-10-01 07:47:30+08:00  (剩余 30G 30 days, 23:59:52.114340)
+sub_info  3.396M  30G  2024-10-01 07:47:30+08:00  (剩余 30G 30 days, 21:48:22.165390)
 sub_url  https://cloudcat.top/api/v1/client/subscribe?token=1a7b662580667b2a439bdf65348161ae
 time  2024-08-31 07:47:30.606456+08:00
 type  v2board
