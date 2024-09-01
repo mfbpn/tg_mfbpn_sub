@@ -22,9 +22,9 @@ sub_info  1010M  10.1G  2024-08-12 11:15:37+08:00  (剩余 9.112G -1 day, 14:14:
 sub_url  https://dy2.dx035.top/link/Ez7HFt1oUIqAJm6g?sub=3
 time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(aqwhawnan692@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(rjtmtzi559@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [https://xn--mes358a.art]
 
@@ -36,10 +36,10 @@ sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=480427c1749a3b699
 time  2024-08-10 22:51:57.025672+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1614a81840>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f95ecc21120>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
 
 [csyun.xyz]
-email  rmbncbx754@gmail.com
+email  bpfmgexr154@gmail.com
 name  橙速云
 type  v2board
 更新订阅链接/续费续签失败  HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/user/getSubscribe (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
@@ -48,13 +48,13 @@ type  v2board
 auto_invite  F
 banned_domains  smartnator.com  femailtor.com  tmpnator.live  WJ32.HAIHANTNC.XYZ  haihantnc.xyz
 buy  pass
-email  spaphgiqb810@lplso.tmmad.com
-last_checkin  2024-09-01 00:47:18.340310+08:00
+email  qbbtmztvx506@jkb.tmmad.com
+last_checkin  2024-09-01 21:00:21.164454+08:00
 name  墙了个墙
 node_n  34
-sub_info  53G  888.1G  2024-09-01 20:58:25+08:00  (剩余 835.1G 1:11:08.851162)
-sub_url  https://www.qlgq.top/link/cde96458d0c06429?clash=1#墙了个墙
-time  2024-08-31 20:58:27.182570+08:00
+sub_info  0B  888G  2024-09-02 21:00:21+08:00  (剩余 888G 23:59:57.547817)
+sub_url  https://www.qlgq.top/link/32528423bb0f2ce5?clash=1#墙了个墙
+time  2024-09-01 21:00:21.937869+08:00
 type  sspanel
 
 [2.flybar20.cc]
@@ -64,7 +64,7 @@ invite_code  ecSJ  9999
 last_checkin  2024-09-01 19:47:24.437255+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.13G  2024-09-02 19:47:24+08:00  (剩余 10.13G 23:59:49.686806)
+sub_info  2.165G  10.13G  2024-09-02 19:47:24+08:00  (剩余 7.962G 22:47:00.264552)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/Mcw2mEkKLxEwO8bN?sub=3
 time  2024-09-01 19:47:26.243513+08:00
 type  sspanel
@@ -76,7 +76,7 @@ email  bylmjcmaf672@gmail.com
 last_checkin  2024-09-01 19:47:15.270586+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.589G  2024-09-03 20:47:15+08:00  (剩余 5.589G 2 days, 0:59:57.738960)
+sub_info  0B  5.589G  2024-09-03 20:47:15+08:00  (剩余 5.589G 1 day, 23:46:59.952700)
 sub_url  https://www.mgnet.sbs/link/aP7yVdBQeD1sFIOp?sub=3
 time  2024-09-01 19:47:15.569808+08:00
 type  sspanel
@@ -89,14 +89,14 @@ sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=ec0cc88c68f89f830
 time  2024-09-01 16:47:12.361300+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(ximfjde741@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(gfyoufri966@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
-email  oigvbrtlo736@gmail.com
+email  mbgtqche298@gmail.com
 name  云猫机场-免费公益
 node_n  4
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudcat.top/api/v1/client/subscribe?token=760d187a1c64a271569318f7bd480018
-time  2024-09-01 19:47:16.490115+08:00
+sub_url  https://cloudcat.top/api/v1/client/subscribe?token=2ecc01b3d56b7e24c9ba12bc5fb34247
+time  2024-09-01 21:00:15.655163+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
