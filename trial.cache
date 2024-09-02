@@ -22,9 +22,9 @@ sub_info  1010M  10.1G  2024-08-12 11:15:37+08:00  (剩余 9.112G -1 day, 14:14:
 sub_url  https://dy2.dx035.top/link/Ez7HFt1oUIqAJm6g?sub=3
 time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(trkrztovg699@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(hlptqmfo959@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [https://xn--mes358a.art]
 
@@ -36,13 +36,13 @@ sub_url  https://sub.passgfw.top/api/v1/client/subscribe?token=480427c1749a3b699
 time  2024-08-10 22:51:57.025672+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8c10e18040>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='portal.passgfw.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=480427c1749a3b69905c11503dafd0b2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2360dd7730>: Failed to resolve 'portal.passgfw.top' ([Errno -2] Name or service not known)"))
 
 [csyun.xyz]
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qulyfga661@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(emnixne570@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [www.qlgq.top]
 auto_invite  F
@@ -52,7 +52,7 @@ email  qbbtmztvx506@jkb.tmmad.com
 last_checkin  2024-09-02 00:46:59.275212+08:00
 name  墙了个墙
 node_n  34
-sub_info  33.2G  888G  2024-09-02 21:00:21+08:00  (剩余 854.8G 10:58:36.559294)
+sub_info  34.36G  888G  2024-09-02 21:00:21+08:00  (剩余 853.7G 10:01:45.185048)
 sub_url  https://www.qlgq.top/link/32528423bb0f2ce5?clash=1#墙了个墙
 time  2024-09-01 21:00:21.937869+08:00
 type  sspanel
@@ -64,7 +64,7 @@ invite_code  b6I9  10000
 last_checkin  2024-09-02 10:01:55.304442+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.15G  2024-09-03 10:01:53+08:00  (剩余 10.15G 23:57:52.857475)
+sub_info  6.95G  10.15G  2024-09-03 10:01:53+08:00  (剩余 3.204G 23:03:16.227501)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/ANKTFbiLrUBhS5sj?sub=3
 time  2024-09-02 10:01:56.762039+08:00
 type  sspanel
@@ -76,27 +76,26 @@ email  xqnsmyyu110@gmail.com
 last_checkin  2024-09-02 10:01:43.644747+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.641G  2024-09-04 11:01:43+08:00  (剩余 5.641G 2 days, 0:59:57.603197)
+sub_info  0B  5.641G  2024-09-04 11:01:43+08:00  (剩余 5.641G 2 days, 0:03:02.011574)
 sub_url  https://www.mgnet.sbs/link/ztPw4TjSuO3WTCRZ?sub=3
 time  2024-09-02 10:01:44.084541+08:00
 type  sspanel
 
 [zhenshihui.shop]
-email  erlbxrl240@gmail.com
+email  finegtqm85@gmail.com
 name  真实惠
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=1e47e49b2ef2cd67accaaa8a50b5ac1f
-time  2024-09-02 07:47:25.517981+08:00
+sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=3c778fe476c9ed0344b4a8a0267497e3
+time  2024-09-02 10:58:38.872325+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(pyoytftc802@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
-email  xcztakkg378@gmail.com
+email  xptjmjfb407@gmail.com
 name  云猫机场-免费公益
 node_n  4
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloudcat.top/api/v1/client/subscribe?token=2391edc8e158b58390ce916846a7d702
-time  2024-09-02 10:01:45.061130+08:00
+sub_url  https://cloudcat.top/api/v1/client/subscribe?token=2bc12e765d03d3446416dd31e1307bd4
+time  2024-09-02 10:58:38.408114+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
