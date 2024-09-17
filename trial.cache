@@ -24,14 +24,14 @@ time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(ibnbsny944@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(labvpgvoo964@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [https://xn--mes358a.art]
 
 [portal.passgfw.top]
 email  owszgewd475@gmail.com
 name  WindyCloud
-sub_info  0B  100G  2024-10-10 22:53:38+08:00  (剩余 100G 22 days, 18:05:50.768000)
+sub_info  0B  100G  2024-10-10 22:53:38+08:00  (剩余 100G 22 days, 17:05:39.515461)
 sub_url  https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016cd1cd1ef5832af28ae
 time  2024-09-10 22:53:38.526191+08:00
 type  v2board
@@ -41,7 +41,7 @@ type  v2board
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xlyonaaqd942@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fae6f91a3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(erkctsu382@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fcb4013ce50>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [www.qlgq.top]
 auto_invite  F
@@ -51,7 +51,7 @@ email  nfhbsnmjc426@moakt.ws
 last_checkin  2024-09-18 00:48:53.930047+08:00
 name  墙了个墙
 node_n  34
-sub_info  44.6G  888.1G  2024-09-18 15:49:47+08:00  (剩余 843.5G 11:02:34.733480)
+sub_info  95.08G  888.1G  2024-09-18 15:49:47+08:00  (剩余 793G 10:02:18.671415)
 sub_url  https://www.qlgq.top/link/d19230488ddf04d1?clash=1#墙了个墙
 time  2024-09-17 15:49:49.815176+08:00
 type  sspanel
@@ -63,7 +63,7 @@ invite_code  KfZW  10000
 last_checkin  2024-09-18 03:47:32.614463+08:00
 name  飞翔吧
 node_n  46
-sub_info  954.1M  10.18G  2024-09-19 03:47:31+08:00  (剩余 9.248G 23:00:18.647419)
+sub_info  1.711G  10.18G  2024-09-19 03:47:31+08:00  (剩余 8.469G 22:00:03.258339)
 sub_url  https://2.flybar20.cc/link/4fNpeCZUGxsjtwlG?sub=3
 time  2024-09-18 03:47:33.806245+08:00
 type  sspanel
@@ -75,7 +75,7 @@ email  ogywfll643@gmail.com
 last_checkin  2024-09-18 01:47:07.500993+08:00
 name  MG Network
 node_n  11
-sub_info  202.1M  5.62G  2024-09-20 02:47:07+08:00  (剩余 5.423G 1 day, 21:59:49.431813)
+sub_info  203.2M  5.62G  2024-09-20 02:47:07+08:00  (剩余 5.422G 1 day, 20:59:38.235811)
 sub_url  https://www.mgnet.sbs/link/Qv6zj2qyzfs3MtNW?sub=3
 time  2024-09-18 01:47:07.929517+08:00
 type  sspanel
@@ -88,6 +88,7 @@ sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=93944317eb8ecb86c
 time  2024-09-18 04:47:15.147905+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(pfmcrgq58@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
@@ -98,4 +99,4 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=ca7e8e42520e774cb799
 time  2024-09-14 05:47:24.024104+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(dbichazir85@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(grkwgzakp396@gmail.com): 'NoneType' object is not subscriptable
