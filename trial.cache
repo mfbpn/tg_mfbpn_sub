@@ -22,26 +22,26 @@ sub_info  1010M  10.1G  2024-08-12 11:15:37+08:00  (剩余 9.112G -1 day, 14:14:
 sub_url  https://dy2.dx035.top/link/Ez7HFt1oUIqAJm6g?sub=3
 time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(timqiat577@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(pdzyatedg802@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [https://xn--mes358a.art]
 
 [portal.passgfw.top]
 email  owszgewd475@gmail.com
 name  WindyCloud
-sub_info  0B  100G  2024-10-10 22:53:38+08:00  (剩余 100G 17 days, 6:01:38.397292)
+sub_info  0B  100G  2024-10-10 22:53:38+08:00  (剩余 100G 17 days, 5:05:43.501289)
 sub_url  https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016cd1cd1ef5832af28ae
 time  2024-09-10 22:53:38.526191+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 
 [csyun.xyz]
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mmrbzoy582@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4e0384b400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(ydxdkblhx574@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f6e0c82e9e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [www.qlgq.top]
 auto_invite  F
@@ -51,7 +51,7 @@ email  esvkrmm375@muatoc.com
 last_checkin  2024-09-23 16:51:35.521924+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-09-24 16:51:35+08:00  (剩余 888G 23:59:55.309007)
+sub_info  945.2M  888G  2024-09-24 16:51:35+08:00  (剩余 887.1G 23:04:12.351793)
 sub_url  https://www.qlgq.top/link/187e7dbdbdc416b5?clash=1#墙了个墙
 time  2024-09-23 16:51:36.416733+08:00
 type  sspanel
@@ -63,7 +63,7 @@ invite_code  urfb  10000
 last_checkin  2024-09-23 14:50:24.599635+08:00
 name  飞翔吧
 node_n  46
-sub_info  4.114G  10.14G  2024-09-24 14:50:23+08:00  (剩余 6.023G 21:58:32.992124)
+sub_info  4.513G  10.14G  2024-09-24 14:50:23+08:00  (剩余 5.623G 21:02:51.530737)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/JrLy526dIIItDQd6?sub=3
 time  2024-09-23 14:50:25.945096+08:00
 type  sspanel
@@ -71,13 +71,13 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  gaayfjnhf950@gmail.com
-last_checkin  2024-09-23 11:03:20.944648+08:00
+email  tnbxsgxdh620@gmail.com
+last_checkin  2024-09-23 17:47:30.318896+08:00
 name  MG Network
 node_n  11
-sub_info  4.093G  5.422G  2024-09-25 12:03:20+08:00  (剩余 1.329G 1 day, 19:11:54.829319)
-sub_url  https://www.mgnet.sbs/link/oIAxoHcQggPWJ5DX?sub=3
-time  2024-09-23 11:03:21.245714+08:00
+sub_info  0B  5.917G  2024-09-25 18:47:30+08:00  (剩余 5.917G 2 days, 0:59:57.830754)
+sub_url  https://www.mgnet.sbs/link/si4xcKForrwPgHuU?sub=3
+time  2024-09-23 17:47:30.739340+08:00
 type  sspanel
 
 [zhenshihui.shop]
@@ -88,7 +88,7 @@ sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=f9f8f4779834063cb
 time  2024-09-23 14:50:17.245097+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(kjdmpai748@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(cktkfsjko816@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
@@ -99,4 +99,4 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=ca7e8e42520e774cb799
 time  2024-09-14 05:47:24.024104+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(iekqlraca833@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(nkoemahdf705@gmail.com): 'NoneType' object is not subscriptable
