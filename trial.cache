@@ -24,24 +24,24 @@ time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(hhyyhfau106@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(uaujkdwnd710@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
 
 [https://xn--mes358a.art]
 
 [portal.passgfw.top]
 email  owszgewd475@gmail.com
 name  WindyCloud
-sub_info  0B  100G  2024-10-10 22:53:38+08:00  (剩余 100G 12 days, 21:56:59.886675)
+sub_info  0B  100G  2024-10-10 22:53:38+08:00  (剩余 100G 12 days, 20:59:51.648295)
 sub_url  https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016cd1cd1ef5832af28ae
 time  2024-09-10 22:53:38.526191+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 
 [csyun.xyz]
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(sebsdsk561@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f60a4d061a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新订阅链接/续费续签失败  注册失败(crpijztw464@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f49ccd04850>: Failed to establish a new connection: [Errno 111] Connection refused'))
 
 [www.qlgq.top]
 auto_invite  F
@@ -51,7 +51,7 @@ email  nylgwgg98@moakt.ws
 last_checkin  2024-09-28 00:49:49.424815+08:00
 name  墙了个墙
 node_n  30
-sub_info  17.52G  888.1G  2024-09-28 16:49:49+08:00  (剩余 870.5G 15:59:55.323138)
+sub_info  19.04G  888.1G  2024-09-28 16:49:49+08:00  (剩余 869G 15:02:34.294975)
 sub_url  https://www.qlgq.top/link/6ea8be5f569ba232?clash=1#墙了个墙
 time  2024-09-27 16:49:50.955830+08:00
 type  sspanel
@@ -63,7 +63,7 @@ invite_code  A6nJ  9997
 last_checkin  2024-09-28 00:52:05.149421+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.15G  2024-09-29 00:52:04+08:00  (剩余 10.15G 23:59:53.867902)
+sub_info  943.6M  10.15G  2024-09-29 00:52:04+08:00  (剩余 9.229G 23:04:48.294518)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/TulH4v76oi8c4bh1?sub=3
 time  2024-09-28 00:52:06.605323+08:00
 type  sspanel
@@ -71,24 +71,23 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  eyqrfgjg887@gmail.com
-last_checkin  2024-09-28 00:49:49.426858+08:00
+email  uapzbiv914@gmail.com
+last_checkin  2024-09-28 01:47:13.819311+08:00
 name  MG Network
 node_n  11
-sub_info  5.197G  6.303G  2024-09-29 22:04:32+08:00  (剩余 1.106G 1 day, 21:14:33.844397)
-sub_url  https://www.mgnet.sbs/link/2HaU2bcTfDFV8UOK?sub=3
-time  2024-09-27 21:04:33.642592+08:00
+sub_info  0B  5.451G  2024-09-30 02:47:13+08:00  (剩余 5.451G 2 days, 0:59:57.866615)
+sub_url  https://www.mgnet.sbs/link/ZR9fk9ykEdKC3RVG?sub=3
+time  2024-09-28 01:47:14.154105+08:00
 type  sspanel
 
 [zhenshihui.shop]
-email  nebfyla886@gmail.com
+email  qajjnkr431@gmail.com
 name  真实惠
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=b0341255c9bc3cf28d29d4235c24c53a
-time  2024-09-27 19:47:27.667684+08:00
+sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=3ad5ca6a9c93e21f696f5911554c0a20
+time  2024-09-28 01:47:21.920079+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(tnsxmrm79@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
@@ -99,4 +98,4 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=ca7e8e42520e774cb799
 time  2024-09-14 05:47:24.024104+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(uhwwflky655@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(tgdnlgu132@gmail.com): 'NoneType' object is not subscriptable
