@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: a7569e41-6b79-311a-b1d5-6cb4d868c35a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: a7569e41-6b79-311a-b1d5-6cb4d868c35a, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡1 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 402d4e72-eb2a-3728-8644-b31b36fa82fe, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]新加坡2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 402d4e72-eb2a-3728-8644-b31b36fa82fe, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
