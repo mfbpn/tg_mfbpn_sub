@@ -43,7 +43,7 @@ type  v2board
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hikxmfc373@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff2659c8040>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(wbudnzh470@gmail.com): HTTPSConnectionPool(host='csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9f54dd3790>: Failed to resolve 'csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [www.qlgq.top]
 auto_invite  F
@@ -67,7 +67,7 @@ invite_code  Jltp  10000
 last_checkin  2025-01-04 02:48:29.127661+08:00
 name  飞翔吧
 node_n  47
-sub_info  231.6M  10.15G  2025-01-05 02:48:27+08:00  (剩余 9.924G 23:01:09.450027)
+sub_info  1.232G  10.15G  2025-01-05 02:48:27+08:00  (剩余 8.919G 22:00:41.731076)
 sub_url  http://175.178.9.20/link/xmmZwc2l9vdqooXR?sub=3
 time  2025-01-04 02:48:30.928725+08:00
 type  sspanel
@@ -79,7 +79,7 @@ email  nywtxhk814@gmail.com
 last_checkin  2025-01-04 01:47:11.019508+08:00
 name  MG Network
 node_n  10
-sub_info  2.494M  5.42G  2025-01-06 02:47:10+08:00  (剩余 5.417G 1 day, 22:59:54.222004)
+sub_info  11.99M  5.42G  2025-01-06 02:47:10+08:00  (剩余 5.408G 1 day, 21:59:36.759233)
 sub_url  https://www.mgnet.sbs/link/vtm8mbyWrbl6q4BE?sub=3
 time  2025-01-04 01:47:11.324686+08:00
 type  sspanel
@@ -92,7 +92,7 @@ sub_url  https://zhenshihui.life/api/v1/client/subscribe?token=dd0cf8d76dc164a1c
 time  2025-01-02 23:47:14.274530+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(gmypdpkb6@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(imkejjx717@gmail.com): 'NoneType' object is not subscriptable
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
