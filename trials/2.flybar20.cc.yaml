@@ -26,6 +26,7 @@ proxy-groups:
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
+  - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   url: https://i.ytimg.com/generate_204
