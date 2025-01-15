@@ -10,6 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
@@ -17,7 +18,6 @@ proxy-groups:
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
@@ -80,6 +80,9 @@ proxy-groups:
   - 🇩🇪 中转•德国304•GPT - 飞翔吧
   - 🇩🇪 中转•德国305•GPT - 飞翔吧
   - 🇩🇪 中转•德国306•GPT - 飞翔吧
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -229,9 +232,6 @@ proxy-groups:
   - 🇩🇪 中转•德国304•GPT - 飞翔吧
   - 🇩🇪 中转•德国305•GPT - 飞翔吧
   - 🇩🇪 中转•德国306•GPT - 飞翔吧
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
