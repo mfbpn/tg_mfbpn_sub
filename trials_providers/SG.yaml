@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 【高级】🇸🇬新加坡 - 滑梯云, server: htsub-2024.899696998.xyz, port: 20011, type: vmess, uuid: eb9b6d07-8644-437f-a1c5-dbed378d38ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /2024, headers: {Host: yyyt-sg-2024.mofaxw.top}}, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: de9ea7db-d1ad-3c34-8eef-00cf8956e8d4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, tfo: true, type: vmess, uuid: edc0d4e5-b6f5-3918-bfc5-96c6360651e7, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 064f2126-f27c-3ca6-9b0b-6f58ff187f95, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 064f2126-f27c-3ca6-9b0b-6f58ff187f95, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 064f2126-f27c-3ca6-9b0b-6f58ff187f95, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
