@@ -36,7 +36,6 @@ proxy-groups:
   - 【高级】🇭🇰香港 - 滑梯云
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 广港•香港309•专线 - 飞翔吧
-  - 🇭🇰 中转•香港301•高速 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 中转•香港307•高速 - 飞翔吧
   - 🇭🇰 广港•香港143•高速 - 飞翔吧
@@ -209,7 +208,6 @@ proxy-groups:
   - 【高级】🇭🇰香港 - 滑梯云
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 广港•香港309•专线 - 飞翔吧
-  - 🇭🇰 中转•香港301•高速 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 中转•香港307•高速 - 飞翔吧
   - 🇭🇰 广港•香港143•高速 - 飞翔吧
@@ -252,7 +250,6 @@ proxy-groups:
   - 【高级】🇭🇰香港 - 滑梯云
   - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 广港•香港309•专线 - 飞翔吧
-  - 🇭🇰 中转•香港301•高速 - 飞翔吧
   - 🇭🇰 中转•香港102•高速 - 飞翔吧
   - 🇭🇰 中转•香港307•高速 - 飞翔吧
   - 🇭🇰 广港•香港143•高速 - 飞翔吧
@@ -441,7 +438,6 @@ proxies:
 - {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 4aa29a1f-360f-35fd-a48e-dc976d1f14b2, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 4aa29a1f-360f-35fd-a48e-dc976d1f14b2, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 4aa29a1f-360f-35fd-a48e-dc976d1f14b2, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: 4aa29a1f-360f-35fd-a48e-dc976d1f14b2, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 4aa29a1f-360f-35fd-a48e-dc976d1f14b2, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 4aa29a1f-360f-35fd-a48e-dc976d1f14b2, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 4aa29a1f-360f-35fd-a48e-dc976d1f14b2, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
