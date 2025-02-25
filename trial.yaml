@@ -35,7 +35,6 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -58,14 +57,12 @@ proxy-groups:
   - 【高级】🇭🇰香港 - 滑梯云
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
   - 🇹🇼 广港•台湾262•高速 - 飞翔吧
   - 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
-  - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -92,7 +89,6 @@ proxy-groups:
   - 🇯🇵 日本•高速76•高速 - 飞翔吧
   - 🇺🇸 美国 1 - 西瓜皮是真的皮
   - 🇺🇸 美国 2 - 西瓜皮是真的皮
-  - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 美国 洛杉矶101 - 墙了个墙
   - 🇺🇸 美国 洛杉矶102 - 墙了个墙
   - 🇺🇸 美国 洛杉矶103 - 墙了个墙
@@ -117,12 +113,6 @@ proxy-groups:
   - 🇻🇳 越南 1 - 西瓜皮是真的皮
   - 🇻🇳 越南 2 - 西瓜皮是真的皮
   - 🇮🇳 印度 1 - 西瓜皮是真的皮
-  - 🇮🇳 [vip①]印度1 - MG Network
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
   - 🇩🇪 德国 法兰克福101 - 墙了个墙
   - 🇩🇪 德国 法兰克福102 - 墙了个墙
   - 🇩🇪 德国 法兰克福103 - 墙了个墙
@@ -207,7 +197,6 @@ proxy-groups:
   proxies: &id002
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -236,7 +225,6 @@ proxy-groups:
   proxies: &id003
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -249,7 +237,6 @@ proxy-groups:
   proxies: &id004
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇭🇰 [vip①]①香港 - MG Network
   - 🇭🇰 香港 101 - 墙了个墙
   - 🇭🇰 香港 102 - 墙了个墙
   - 🇭🇰 香港 103 - 墙了个墙
@@ -272,7 +259,6 @@ proxy-groups:
   - 【高级】🇭🇰香港 - 滑梯云
   - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network
   - 🇹🇼 中转•台湾100•高速 - 飞翔吧
   - 🇹🇼 中转•台湾91•原生 - 飞翔吧
   - 🇹🇼 广港•台湾261•高速 - 飞翔吧
@@ -285,7 +271,6 @@ proxy-groups:
   proxies: &id005
   - 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
-  - 🇸🇬 [vip①]②新加坡 - MG Network
   - 🇸🇬 新加坡 101 - 墙了个墙
   - 🇸🇬 新加坡 102 - 墙了个墙
   - 🇸🇬 新加坡 103 - 墙了个墙
@@ -324,7 +309,6 @@ proxy-groups:
   proxies: &id007
   - 🇺🇸 美国 1 - 西瓜皮是真的皮
   - 🇺🇸 美国 2 - 西瓜皮是真的皮
-  - 🇺🇸 [vip①]美国1 - MG Network
   - 🇺🇸 美国 洛杉矶101 - 墙了个墙
   - 🇺🇸 美国 洛杉矶102 - 墙了个墙
   - 🇺🇸 美国 洛杉矶103 - 墙了个墙
@@ -355,12 +339,6 @@ proxy-groups:
   - 🇻🇳 越南 1 - 西瓜皮是真的皮
   - 🇻🇳 越南 2 - 西瓜皮是真的皮
   - 🇮🇳 印度 1 - 西瓜皮是真的皮
-  - 🇮🇳 [vip①]印度1 - MG Network
-  - 🇩🇪 [vip①]德国1 - MG Network
-  - 🇩🇪 [vip①]德国2 - MG Network
-  - 🇬🇧 [vip①]英国1 - MG Network
-  - 🇬🇧 [vip①]英国2 - MG Network
-  - 🇰🇷 [vip①]韩国1 - MG Network
   - 🇩🇪 德国 法兰克福101 - 墙了个墙
   - 🇩🇪 德国 法兰克福102 - 墙了个墙
   - 🇩🇪 德国 法兰克福103 - 墙了个墙
@@ -425,16 +403,6 @@ proxies:
 - {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: 075c16e6-67cb-3599-aa5a-025b478db156, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 075c16e6-67cb-3599-aa5a-025b478db156, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 075c16e6-67cb-3599-aa5a-025b478db156, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 67125128-66e5-34ec-a0b7-231aadbfeb76, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip101.qlgq.fun, port: 12249, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
 - {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip101.qlgq.fun, port: 22249, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
 - {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
