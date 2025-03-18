@@ -24,8 +24,8 @@ time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_gujJRqPNBkWDurwqEs/BApbrf1gXIEzFontaT2vSVwqXSPs9TGC42VOr2H0jajDfzCAoIpWOb7m5RupmhGn1qg==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiYzU4M2EwMTItZDg4Ni00ZmQ0LTkwZTktYjkyYTA2ZWY3MDk0IiwicGFnZV90aW1lIjoxNzQyMjU1MjI0LCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvbG9naW4iLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIyMC4yNS4xOTIuMTQxIn0K";</script>\n<script src="/bKJcOMqkD.js"></script>\n</body>\n</html>\n')
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_gujJRqPNBkWDurwqEs/BApbrf1gXIEzFontaT2vSVwqXSPs9TGC42VOr2H0jajDfzCAoIpWOb7m5RupmhGn1qg==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiNTQ2ZDJjZTYtYTAxZS00M2U3LWEzYmQtMjZlNjZjMGNmYjNhIiwicGFnZV90aW1lIjoxNzQyMjU1MjMxLCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvbG9naW4iLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIyMC4yNS4xOTIuMTQxIn0K";</script>\n<script src="/bhPRlxvVA.js"></script>\n</body>\n</html>\n')
+尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_gujJRqPNBkWDurwqEs/BApbrf1gXIEzFontaT2vSVwqXSPs9TGC42VOr2H0jajDfzCAoIpWOb7m5RupmhGn1qg==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiZDhhODEyYWEtMzIyNy00MTQ2LWE5ZmMtNjYyYTQ5NzY1ZGViIiwicGFnZV90aW1lIjoxNzQyMjYzOTQ1LCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvbG9naW4iLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIyMC41Ny43OS4wIn0K";</script>\n<script src="/bXzEgQvhR.js"></script>\n</body>\n</html>\n')
+更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!doctype html>\n<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_gujJRqPNBkWDurwqEs/BApbrf1gXIEzFontaT2vSVwqXSPs9TGC42VOr2H0jajDfzCAoIpWOb7m5RupmhGn1qg==" lang="en" style="background: #2B2B2B;">\n<head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">\n <link rel="preconnect" href="https://www.google.com" crossorigin>\n</head>\n<body>\n<div id="target" style="opacity: 0"></div>\n<script>window.park = "eyJ1dWlkIjoiNzUyMmIyNTgtMzM4Zi00MjY0LTk1YjktNGUwZGY4NTdhZmVjIiwicGFnZV90aW1lIjoxNzQyMjYzOTQ5LCJwYWdlX3VybCI6Imh0dHBzOi8vdmlweGd5dW4uY29tL2F1dGgvbG9naW4iLCJwYWdlX21ldGhvZCI6IlBPU1QiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoidmlweGd5dW4uY29tIiwiaXAiOiIyMC41Ny43OS4wIn0K";</script>\n<script src="/bKYfAusDY.js"></script>\n</body>\n</html>\n')
 
 [https://xn--mes358a.art]
 
@@ -37,14 +37,14 @@ sub_url  https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016
 time  2024-09-10 22:53:38.526191+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  'NoneType' object is not subscriptable
+更新旧订阅失败  (https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016cd1cd1ef5832af28ae): 403 Forbidden '{"status":"fail","message":"token is error","data":null,"error":null}'
 
 [csyun.xyz]
 api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qoiiktjj293@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(qadasth845@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [www.qlgq.top]
 auto_invite  F
@@ -58,31 +58,31 @@ sub_info  7.529G  888G  2024-12-16 02:49:16+08:00  (剩余 880.5G 3:01:48.476649
 sub_url  https://www.qlgq.top/link/b953a23647069d34?clash=1#墙了个墙
 time  2024-12-15 02:49:17.270078+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1e25722a70>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1e256b5a80>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f98bb254f70>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /link/b953a23647069d34?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f98baeb4dc0>: Failed to resolve 'www.qlgq.top' ([Errno -2] Name or service not known)"))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.net  moakt.ws  bareed.ws  tmpmail.org  tmails.net  h11gggujjj.bond  disbox.net  tmail.ws  mydefipet.live  psnator.com  disbox.org  moakt.co  tmpnator.live  femailtor.com  smartnator.com  xxxhi.cc  buguauto.cn  nespressopixie.com  muatoc.com  miteon.com  maxamba.com  lista.cc  111.wldpb.shop  snapmail.cc  mynanaimohomes.com  222.wfmvz.shop  222.vzakf.shop  222.wkhxn.shop  333.wkhxn.shop  wfes.site  lplso.tmmad.com  bccto.cc  965.tmmad.com  x866.cc  51788.top  jkb.tmmad.com  mxl001.win  zz.wgfkq.shop  442587.xyz  mail.shouyou789.com  lpl1so.tmmad.com  ipiso.tmmad.com
-email  opfgwcsw939@grr.la
-invite_code  gILG  10000
-last_checkin  2025-03-18 07:47:30.266511+08:00
+email  chafune963@top.co.mom
+invite_code  gILG  9999
+last_checkin  2025-03-18 10:12:39.437716+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.12G  2025-03-19 07:47:28+08:00  (剩余 10.12G 23:59:51.636427)
-sub_url  http://175.178.9.20/link/mfbCWFgc7SbRk4qk?sub=3
-time  2025-03-18 07:47:31.594241+08:00
+sub_info  0B  10.16G  2025-03-19 10:12:39+08:00  (剩余 10.16G 23:59:53.789840)
+sub_url  http://175.178.9.20/link/K4kObO5cqNpP3hrC?sub=3
+time  2025-03-18 10:12:40.763554+08:00
 type  sspanel
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  jkzslsgb320@gmail.com
-last_checkin  2025-03-18 01:47:14.437322+08:00
+email  eklsaade238@gmail.com
+last_checkin  2025-03-18 10:12:28.814992+08:00
 name  MG Network
 node_n  10
-sub_info  4.887G  5.63G  2025-03-20 02:47:14+08:00  (剩余 760.3M 1 day, 19:00:06.820900)
-sub_url  https://www.mgnet.sbs/link/vJFn4hTIUfYj03nB?sub=3
-time  2025-03-18 01:47:14.764787+08:00
+sub_info  0B  5.291G  2025-03-20 11:12:28+08:00  (剩余 5.291G 2 days, 0:59:56.560636)
+sub_url  https://www.mgnet.sbs/link/VVcswmJs2W2CUIsN?sub=3
+time  2025-03-18 10:12:29.280840+08:00
 type  sspanel
 
 [zhenshihui.shop]
@@ -93,7 +93,7 @@ sub_url  https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e
 time  2025-02-12 00:50:37.542466+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='zhenshihui.shop', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 522 <none> ''
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
@@ -104,4 +104,4 @@ sub_url  https://cloudcat.top/api/v1/client/subscribe?token=ca7e8e42520e774cb799
 time  2024-09-14 05:47:24.024104+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloudcat.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=ca7e8e42520e774cb799f21a684ec3f2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1e1c981e40>: Failed to resolve 'cloudcat.top' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cloudcat.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=ca7e8e42520e774cb799f21a684ec3f2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f98bb2a26e0>: Failed to resolve 'cloudcat.top' ([Errno -5] No address associated with hostname)"))
