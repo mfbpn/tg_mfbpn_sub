@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: eecc9efc-511a-31f4-82ca-68018affbaa2, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 3f602a26-73e3-305f-a033-a9e78ca938f4, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
