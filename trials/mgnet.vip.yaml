@@ -155,16 +155,16 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: f9e5c5a0-2b87-39d3-b7b6-107e4f246669, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 11.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 18.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 13.mamamajd.site}}, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 2c6cdfbf-0980-353a-96ee-4a3ebb63a029, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1907,18 +1907,35 @@ rules:
 - DOMAIN-SUFFIX,steamchina.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,steamcontent.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,steamusercontent.com,🛩️ ‍墙内
-- DOMAIN,apiintl.biliapi.net,📺 ‍B站
+- DOMAIN,p-bstarstatic.akamaized.net,📺 ‍B站
+- DOMAIN,p.bstarstatic.com,📺 ‍B站
+- DOMAIN,upos-bstar-mirrorakam.akamaized.net,📺 ‍B站
+- DOMAIN,upos-bstar1-mirrorakam.akamaized.net,📺 ‍B站
 - DOMAIN,upos-hz-mirrorakam.akamaized.net,📺 ‍B站
-- DOMAIN-SUFFIX,acg.tv,📺 ‍B站
 - DOMAIN-SUFFIX,acgvideo.com,📺 ‍B站
+- DOMAIN-SUFFIX,bilibili.com,📺 ‍B站
+- DOMAIN-SUFFIX,bilibili.tv,📺 ‍B站
+- IP-CIDR,45.43.32.234/32,📺 ‍B站,no-resolve
+- IP-CIDR,103.151.150.0/23,📺 ‍B站,no-resolve
+- IP-CIDR,119.29.29.29/32,📺 ‍B站,no-resolve
+- IP-CIDR,128.1.62.200/32,📺 ‍B站,no-resolve
+- IP-CIDR,128.1.62.201/32,📺 ‍B站,no-resolve
+- IP-CIDR,150.116.92.250/32,📺 ‍B站,no-resolve
+- IP-CIDR,164.52.33.178/32,📺 ‍B站,no-resolve
+- IP-CIDR,164.52.33.182/32,📺 ‍B站,no-resolve
+- IP-CIDR,164.52.76.18/32,📺 ‍B站,no-resolve
+- IP-CIDR,203.107.1.33/32,📺 ‍B站,no-resolve
+- IP-CIDR,203.107.1.34/32,📺 ‍B站,no-resolve
+- IP-CIDR,203.107.1.65/32,📺 ‍B站,no-resolve
+- IP-CIDR,203.107.1.66/32,📺 ‍B站,no-resolve
+- DOMAIN,apiintl.biliapi.net,📺 ‍B站
+- DOMAIN-SUFFIX,acg.tv,📺 ‍B站
 - DOMAIN-SUFFIX,b23.tv,📺 ‍B站
 - DOMAIN-SUFFIX,bigfun.cn,📺 ‍B站
 - DOMAIN-SUFFIX,bigfunapp.cn,📺 ‍B站
 - DOMAIN-SUFFIX,biliapi.com,📺 ‍B站
 - DOMAIN-SUFFIX,biliapi.net,📺 ‍B站
 - DOMAIN-SUFFIX,bilibili.co,📺 ‍B站
-- DOMAIN-SUFFIX,bilibili.com,📺 ‍B站
-- DOMAIN-SUFFIX,bilibili.tv,📺 ‍B站
 - DOMAIN-SUFFIX,biligame.com,📺 ‍B站
 - DOMAIN-SUFFIX,biligame.net,📺 ‍B站
 - DOMAIN-SUFFIX,biliintl.co,📺 ‍B站
