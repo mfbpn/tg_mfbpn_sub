@@ -251,52 +251,52 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 55c6ab03-65aa-3500-8571-3bbd749c6ee2, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, tfo: true, type: trojan, password: d183a3ab-44a5-3566-92c6-f15b4200de70, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -689,7 +689,6 @@ rules:
 - DOMAIN-SUFFIX,mobclix.com,💩 ‍广告
 - DOMAIN-SUFFIX,mobgi.com,💩 ‍广告
 - DOMAIN-SUFFIX,mobisage.cn,💩 ‍广告
-- DOMAIN-SUFFIX,mobvista.com,💩 ‍广告
 - DOMAIN-SUFFIX,moogos.com,💩 ‍广告
 - DOMAIN-SUFFIX,mopub.com,💩 ‍广告
 - DOMAIN-SUFFIX,moquanad.com,💩 ‍广告
@@ -699,7 +698,6 @@ rules:
 - DOMAIN-SUFFIX,mzy2014.com,💩 ‍广告
 - DOMAIN-SUFFIX,networkbench.com,💩 ‍广告
 - DOMAIN-SUFFIX,ninebox.cn,💩 ‍广告
-- DOMAIN-SUFFIX,ntalker.com,💩 ‍广告
 - DOMAIN-SUFFIX,nylalobghyhirgh.com,💩 ‍广告
 - DOMAIN-SUFFIX,o2omobi.com,💩 ‍广告
 - DOMAIN-SUFFIX,oadz.com,💩 ‍广告
@@ -8154,66 +8152,95 @@ rules:
 - DOMAIN-SUFFIX,cmbchina.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,95516.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
-- IP-CIDR,8.208.0.0/12,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.209.32.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.209.40.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.209.48.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.210.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.211.64.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.211.128.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.211.144.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.211.152.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.211.208.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.211.224.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.212.0.0/14,🛩️ ‍墙内,no-resolve
+- IP-CIDR,8.216.0.0/13,🛩️ ‍墙内,no-resolve
 - IP-CIDR,14.1.112.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,41.222.240.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,41.223.119.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,43.242.168.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,45.112.212.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,47.52.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,47.56.0.0/15,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.74.0.0/15,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.76.0.0/14,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.80.0.0/12,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.235.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.236.0.0/14,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.240.0.0/14,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.244.0.0/15,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.246.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.250.0.0/15,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.252.0.0/15,🛩️ ‍墙内,no-resolve
-- IP-CIDR,47.254.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.75.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.89.0.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.89.64.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.89.82.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.89.91.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.89.100.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.90.0.0/17,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.91.128.0/17,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.92.0.0/14,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.240.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.242.0.0/15,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.244.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.246.5.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.246.16.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.246.60.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,47.246.65.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,59.82.0.0/20,🛩️ ‍墙内,no-resolve
 - IP-CIDR,59.82.240.0/21,🛩️ ‍墙内,no-resolve
 - IP-CIDR,59.82.248.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,72.254.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.38.56.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.52.76.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.206.40.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,110.76.21.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,110.76.23.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,112.125.0.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.251.64.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.79.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.80.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.84.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.88.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.93.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.94.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.102.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.104.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.112.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,116.251.124.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,119.38.208.0/20,🛩️ ‍墙内,no-resolve
 - IP-CIDR,119.38.224.0/20,🛩️ ‍墙内,no-resolve
 - IP-CIDR,119.42.224.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,139.95.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,140.205.1.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,140.205.122.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,147.139.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,149.129.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,155.102.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,161.117.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,163.181.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,170.33.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,198.11.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,205.204.96.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,19.28.0.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,149.129.64.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,163.181.32.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,163.181.40.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,170.33.0.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,198.11.141.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,198.11.184.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,205.204.104.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,205.204.117.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,205.204.122.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,205.204.124.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,45.40.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,49.51.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,49.51.56.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,49.51.60.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,49.51.110.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,49.51.112.0/20,🛩️ ‍墙内,no-resolve
 - IP-CIDR,62.234.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,94.191.0.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.7.28.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.116.50.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.231.60.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,109.244.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,111.30.128.0/21,🛩️ ‍墙内,no-resolve
 - IP-CIDR,111.30.136.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,111.30.139.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,111.30.140.0/23,🛩️ ‍墙内,no-resolve
 - IP-CIDR,115.159.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,119.28.0.0/15,🛩️ ‍墙内,no-resolve
-- IP-CIDR,120.88.56.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.0.0/18,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.64.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.124.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.128.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.164.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.168.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.176.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.192.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.28.224.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,119.29.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,121.51.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,129.28.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,129.204.0.0/16,🛩️ ‍墙内,no-resolve
@@ -8221,61 +8248,46 @@ rules:
 - IP-CIDR,132.232.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,134.175.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,146.56.192.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,148.70.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,150.109.0.0/16,🛩️ ‍墙内,no-resolve
+- IP-CIDR,150.109.32.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,150.109.64.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,150.109.96.0/19,🛩️ ‍墙内,no-resolve
 - IP-CIDR,152.136.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,162.14.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,162.62.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,170.106.130.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,182.254.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,188.131.128.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,203.195.128.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.205.128.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,210.4.138.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,211.152.128.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,211.152.132.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,211.152.148.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.128.0/20,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.144.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.158.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.180.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.208.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.212.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.218.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.220.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,203.205.248.0/21,🛩️ ‍墙内,no-resolve
 - IP-CIDR,212.64.0.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,212.129.128.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,45.113.192.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,63.217.23.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,45.113.194.0/23,🛩️ ‍墙内,no-resolve
 - IP-CIDR,63.243.252.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.235.44.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,104.193.88.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,106.12.0.0/15,🛩️ ‍墙内,no-resolve
 - IP-CIDR,114.28.224.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,119.63.192.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,180.76.0.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,180.76.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,182.61.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,185.10.104.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,185.10.105.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,202.46.48.0/20,🛩️ ‍墙内,no-resolve
 - IP-CIDR,203.90.238.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,43.254.0.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,45.249.212.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,49.4.0.0/17,🛩️ ‍墙内,no-resolve
-- IP-CIDR,78.101.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,78.101.224.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,81.52.161.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,85.97.220.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.31.200.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.69.140.0/23,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.218.216.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,114.115.128.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,114.116.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,116.63.128.0/18,🛩️ ‍墙内,no-resolve
 - IP-CIDR,116.66.184.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.96.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.128.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.136.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.141.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.142.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.243.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.244.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,116.71.251.0/24,🛩️ ‍墙内,no-resolve
 - IP-CIDR,117.78.0.0/18,🛩️ ‍墙内,no-resolve
 - IP-CIDR,119.3.0.0/16,🛩️ ‍墙内,no-resolve
-- IP-CIDR,119.8.0.0/21,🛩️ ‍墙内,no-resolve
 - IP-CIDR,119.8.32.0/19,🛩️ ‍墙内,no-resolve
 - IP-CIDR,121.36.0.0/17,🛩️ ‍墙内,no-resolve
 - IP-CIDR,121.36.128.0/18,🛩️ ‍墙内,no-resolve
@@ -8304,37 +8316,7 @@ rules:
 - IP-CIDR,159.138.96.0/20,🛩️ ‍墙内,no-resolve
 - IP-CIDR,159.138.112.0/21,🛩️ ‍墙内,no-resolve
 - IP-CIDR,159.138.125.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.192.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.223.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,159.138.224.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,168.195.92.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,185.176.76.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.199.0.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.210.163.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.252.1.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.252.2.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.252.4.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,197.252.8.0/21,🛩️ ‍墙内,no-resolve
-- IP-CIDR,200.32.52.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,200.32.54.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,200.32.57.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.0.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.4.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.8.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.11.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.13.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.20.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.22.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.24.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.26.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.29.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.33.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.38.0/23,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.40.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.43.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.48.0/24,🛩️ ‍墙内,no-resolve
-- IP-CIDR,203.135.50.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,159.138.128.0/19,🛩️ ‍墙内,no-resolve
 - IP-CIDR,42.186.0.0/16,🛩️ ‍墙内,no-resolve
 - IP-CIDR,45.127.128.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,45.195.24.0/24,🛩️ ‍墙内,no-resolve
@@ -8358,7 +8340,6 @@ rules:
 - IP-CIDR,103.72.128.0/21,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.74.24.0/21,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.74.48.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.126.92.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.129.252.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.131.252.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.135.240.0/22,🛩️ ‍墙内,no-resolve
@@ -8372,7 +8353,11 @@ rules:
 - IP-CIDR,123.58.160.0/19,🛩️ ‍墙内,no-resolve
 - IP-CIDR,223.252.192.0/19,🛩️ ‍墙内,no-resolve
 - IP-CIDR,101.198.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.192.0/19,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.192.0/24,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.194.0/23,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.196.0/22,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.200.0/21,🛩️ ‍墙内,no-resolve
+- IP-CIDR,101.198.208.0/20,🛩️ ‍墙内,no-resolve
 - IP-CIDR,101.199.196.0/22,🛩️ ‍墙内,no-resolve
 - GEOIP,CN,🛩️ ‍墙内
 - MATCH,🌐 ‍未知站点
