@@ -251,52 +251,52 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 1b5850cc-d317-3a81-bc6b-591e2c99f816, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 8baaf2b4-e0c7-37de-9356-7202e31b3368, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -2197,14 +2197,6 @@ rules:
 - DOMAIN-SUFFIX,1bao.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,1dumb.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1eew.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.cloud,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.cz,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.domains,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.education,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.limited,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.pl,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.sk,✈️ ‍起飞
-- DOMAIN-SUFFIX,1lib.to,✈️ ‍起飞
 - DOMAIN-SUFFIX,1mobile.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1point3acres.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,1pondo.tv,✈️ ‍起飞
@@ -2224,7 +2216,6 @@ rules:
 - DOMAIN-SUFFIX,24smile.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,25u.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2du5.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,2lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,2lipstube.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2shared.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,2waky.com,✈️ ‍起飞
@@ -2237,7 +2228,6 @@ rules:
 - DOMAIN-SUFFIX,3arabtv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,3boys2girls.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,3d-game.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,3lib.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,3proxy.ru,✈️ ‍起飞
 - DOMAIN-SUFFIX,3tui.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,404museum.com,✈️ ‍起飞
@@ -2519,7 +2509,6 @@ rules:
 - DOMAIN-SUFFIX,arethusa.su,✈️ ‍起飞
 - DOMAIN-SUFFIX,arlingtoncemetery.mil,✈️ ‍起飞
 - DOMAIN-SUFFIX,army.mil,✈️ ‍起飞
-- DOMAIN-SUFFIX,art1lib.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,art4tibet1998.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,arte.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,artofpeacefoundation.org,✈️ ‍起飞
@@ -2586,11 +2575,7 @@ rules:
 - DOMAIN-SUFFIX,azirevpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,azubu.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,azurewebsites.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,b-ok.africa,✈️ ‍起飞
-- DOMAIN-SUFFIX,b-ok.asia,✈️ ‍起飞
 - DOMAIN-SUFFIX,b-ok.cc,✈️ ‍起飞
-- DOMAIN-SUFFIX,b-ok.global,✈️ ‍起飞
-- DOMAIN-SUFFIX,b-ok.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,b0ne.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,baby-kingdom.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,babylonbee.com,✈️ ‍起飞
@@ -2781,16 +2766,8 @@ rules:
 - DOMAIN-SUFFIX,bonfoundation.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bongacams.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,boobstagram.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,book4you.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bookdepository.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bookepub.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,bookfi.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,booksc.me,✈️ ‍起飞
-- DOMAIN-SUFFIX,booksc.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,booksc.xyz,✈️ ‍起飞
-- DOMAIN-SUFFIX,bookshome.info,✈️ ‍起飞
-- DOMAIN-SUFFIX,bookshome.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,bookshome.world,✈️ ‍起飞
 - DOMAIN-SUFFIX,booktopia.com.au,✈️ ‍起飞
 - DOMAIN-SUFFIX,boomssr.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,bootstrapcdn.com,✈️ ‍起飞
@@ -3126,7 +3103,6 @@ rules:
 - DOMAIN-SUFFIX,clipfish.de,✈️ ‍起飞
 - DOMAIN-SUFFIX,clips4sale.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloakpoint.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,cloudflare-dns.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudflare-ipfs.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudfront.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudfunctions.net,✈️ ‍起飞
@@ -3319,7 +3295,6 @@ rules:
 - DOMAIN-SUFFIX,ddns.name,✈️ ‍起飞
 - DOMAIN-SUFFIX,ddns.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,de-sci.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,de1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,deadhouse.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,deadline.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,deaftone.com,✈️ ‍起飞
@@ -3685,7 +3660,6 @@ rules:
 - DOMAIN-SUFFIX,fangongheike.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanhaodang.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanhaolou.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,fani.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiang.network,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiang.tk,✈️ ‍起飞
 - DOMAIN-SUFFIX,fanqiangdang.com,✈️ ‍起飞
@@ -3707,7 +3681,6 @@ rules:
 - DOMAIN-SUFFIX,faststone.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,fatakat-n.club,✈️ ‍起飞
 - DOMAIN-SUFFIX,fatbtc.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,favcomic.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,favotter.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,favstar.fm,✈️ ‍起飞
 - DOMAIN-SUFFIX,fawanghuihui.org,✈️ ‍起飞
@@ -4069,7 +4042,6 @@ rules:
 - DOMAIN-SUFFIX,gmx.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,gnews.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,go-pki.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,go-to-library.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,go-to-zlibrary.se,✈️ ‍起飞
 - DOMAIN-SUFFIX,go.sony.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,go141.com,✈️ ‍起飞
@@ -4181,7 +4153,6 @@ rules:
 - DOMAIN-SUFFIX,gzm.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,gzone-anime.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,h-china.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,h-ciyuan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,h-moe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,h1n1china.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,h528.com,✈️ ‍起飞
@@ -4293,7 +4264,6 @@ rules:
 - DOMAIN-SUFFIX,hjd2048.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk-pub.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk01.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,hk1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk32168.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hkacg.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hkacg.net,✈️ ‍起飞
@@ -4443,7 +4413,6 @@ rules:
 - DOMAIN-SUFFIX,hybrid-analysis.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hyperrate.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hypothes.is,✈️ ‍起飞
-- DOMAIN-SUFFIX,hysteria.network,✈️ ‍起飞
 - DOMAIN-SUFFIX,i-cable.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,i-scmp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,i2p2.de,✈️ ‍起飞
@@ -4609,7 +4578,6 @@ rules:
 - DOMAIN-SUFFIX,isuntv.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,isupportuyghurs.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,itaboo.info,✈️ ‍起飞
-- DOMAIN-SUFFIX,italian-books.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,italiatibet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,itasoftware.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,itemdb.com,✈️ ‍起飞
@@ -4900,9 +4868,6 @@ rules:
 - DOMAIN-SUFFIX,libertysculpturepark.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,libraryinformationtechnology.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,libredd.it,✈️ ‍起飞
-- DOMAIN-SUFFIX,libsolutions.app,✈️ ‍起飞
-- DOMAIN-SUFFIX,libsolutions.domains,✈️ ‍起飞
-- DOMAIN-SUFFIX,libsolutions.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,lidecheng.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lifemiles.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lighti.me,✈️ ‍起飞
@@ -4995,7 +4960,6 @@ rules:
 - DOMAIN-SUFFIX,m-team.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,m.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,m8008.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,ma1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,macgamestore.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,macrovpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mad-ar.ch,✈️ ‍起飞
@@ -5029,7 +4993,6 @@ rules:
 - DOMAIN-SUFFIX,mansion.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mansionpoker.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,manta.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,manwa.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,manyvoices.news,✈️ ‍起飞
 - DOMAIN-SUFFIX,maplew.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,marc.info,✈️ ‍起飞
@@ -6098,7 +6061,6 @@ rules:
 - DOMAIN-SUFFIX,safechat.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,safeguarddefenders.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,safervpn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,sagernet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,saintyculture.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,saiq.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,sakuralive.com,✈️ ‍起飞
@@ -6188,7 +6150,6 @@ rules:
 - DOMAIN-SUFFIX,sfshibao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sftindia.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sftuk.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,sg1lib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sgwritings.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sgzhan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,shadeyouvpn.com,✈️ ‍起飞
@@ -6257,11 +6218,7 @@ rules:
 - DOMAIN-SUFFIX,simpleswap.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,sinchew.com.my,✈️ ‍起飞
 - DOMAIN-SUFFIX,singfortibet.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,singlelogin.app,✈️ ‍起飞
-- DOMAIN-SUFFIX,singlelogin.me,✈️ ‍起飞
-- DOMAIN-SUFFIX,singlelogin.re,✈️ ‍起飞
 - DOMAIN-SUFFIX,singlelogin.se,✈️ ‍起飞
-- DOMAIN-SUFFIX,singlelogin.site,✈️ ‍起飞
 - DOMAIN-SUFFIX,singtao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,singtaousa.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sino-monthly.com,✈️ ‍起飞
@@ -6370,7 +6327,6 @@ rules:
 - DOMAIN-SUFFIX,sosad.fun,✈️ ‍起飞
 - DOMAIN-SUFFIX,sosreader.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sostibet.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,sotwe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,sou-tong.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,soubory.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,soul-plus.net,✈️ ‍起飞
@@ -6422,7 +6378,6 @@ rules:
 - DOMAIN-SUFFIX,ssglobal.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,ssh91.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ssl443.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,ssm.fun,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspanel.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspanel.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,sspro.ml,✈️ ‍起飞
@@ -6688,7 +6643,6 @@ rules:
 - DOMAIN-SUFFIX,thlib.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thomasbernhard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thongdreams.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,thotsbay.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,threadreaderapp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,threads.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,threatchaos.com,✈️ ‍起飞
@@ -7676,13 +7630,8 @@ rules:
 - DOMAIN-SUFFIX,yyjlymb.xyz,✈️ ‍起飞
 - DOMAIN-SUFFIX,yysub.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,yzzk.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-lib.gd,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-lib.gs,✈️ ‍起飞
 - DOMAIN-SUFFIX,z-lib.io,✈️ ‍起飞
 - DOMAIN-SUFFIX,z-lib.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-lib.ps,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-library.se,✈️ ‍起飞
-- DOMAIN-SUFFIX,z-library.sk,✈️ ‍起飞
 - DOMAIN-SUFFIX,zacebook.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zalmos.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zamimg.com,✈️ ‍起飞
@@ -7734,9 +7683,6 @@ rules:
 - DOMAIN-SUFFIX,zippyshare.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zkaip.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zkiz.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,zlib.life,✈️ ‍起飞
-- DOMAIN-SUFFIX,zlibcdn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,zlibcdn2.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zmw.cn,✈️ ‍起飞
 - DOMAIN-SUFFIX,zoho.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,zomobo.net,✈️ ‍起飞
