@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 68159e09-8f00-37f5-a2a0-5641f10f2f63, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 80b1cce0-7e07-323a-9f8a-e002b64be4a0, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
