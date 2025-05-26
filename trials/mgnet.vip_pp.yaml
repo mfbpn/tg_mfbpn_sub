@@ -177,6 +177,40 @@ proxy-providers:
       url: https://i.ytimg.com/generate_204
       interval: 30
 rules:
+- DOMAIN-SUFFIX,acl4.ssr,DIRECT
+- DOMAIN-SUFFIX,ip6-localhost,DIRECT
+- DOMAIN-SUFFIX,ip6-loopback,DIRECT
+- DOMAIN-SUFFIX,lan,DIRECT
+- DOMAIN-SUFFIX,local,DIRECT
+- DOMAIN-SUFFIX,localhost,DIRECT
+- IP-CIDR,0.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+- IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+- IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+- IP-CIDR,198.18.0.0/16,DIRECT,no-resolve
+- IP-CIDR,224.0.0.0/4,DIRECT,no-resolve
+- IP-CIDR6,::1/128,DIRECT,no-resolve
+- IP-CIDR6,fc00::/7,DIRECT,no-resolve
+- IP-CIDR6,fe80::/10,DIRECT,no-resolve
+- DOMAIN,instant.arubanetworks.com,DIRECT
+- DOMAIN,setmeup.arubanetworks.com,DIRECT
+- DOMAIN,router.asus.com,DIRECT
+- DOMAIN,www.asusrouter.com,DIRECT
+- DOMAIN-SUFFIX,hiwifi.com,DIRECT
+- DOMAIN-SUFFIX,leike.cc,DIRECT
+- DOMAIN-SUFFIX,miwifi.com,DIRECT
+- DOMAIN-SUFFIX,my.router,DIRECT
+- DOMAIN-SUFFIX,p.to,DIRECT
+- DOMAIN-SUFFIX,peiluyou.com,DIRECT
+- DOMAIN-SUFFIX,phicomm.me,DIRECT
+- DOMAIN-SUFFIX,router.ctc,DIRECT
+- DOMAIN-SUFFIX,routerlogin.com,DIRECT
+- DOMAIN-SUFFIX,tendawifi.com,DIRECT
+- DOMAIN-SUFFIX,zte.home,DIRECT
+- DOMAIN-SUFFIX,tplogin.cn,DIRECT
+- DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
 - DOMAIN-SUFFIX,bgithub.xyz,DIRECT
 - DOMAIN-SUFFIX,dgithub.xyz,DIRECT
@@ -4103,7 +4137,6 @@ rules:
 - DOMAIN-SUFFIX,hitbtc.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hitomi.la,✈️ ‍起飞
 - DOMAIN-SUFFIX,hiveon.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,hiwifi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hizb-ut-tahrir.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,hizb-ut-tahrir.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,hizbuttahrir.org,✈️ ‍起飞
@@ -8035,7 +8068,6 @@ rules:
 - DOMAIN-SUFFIX,zmzfile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,teamviewer.com,🛩️ ‍墙内
 - IP-CIDR,139.220.243.27/32,🛩️ ‍墙内,no-resolve
-- IP-CIDR,172.16.102.56/32,🛩️ ‍墙内,no-resolve
 - IP-CIDR,185.188.32.1/28,🛩️ ‍墙内,no-resolve
 - IP-CIDR,221.226.128.146/32,🛩️ ‍墙内,no-resolve
 - IP-CIDR6,2a0b:b580::/48,🛩️ ‍墙内,no-resolve
