@@ -6,96 +6,24 @@ mode: rule
 log-level: info
 external-controller: :9090
 proxy-groups:
-- name: 🔰 节点选择
+- name: ✈️ ‍起飞
   type: select
   proxies:
-  - ♻️ 自动选择
-  - 🎯 全球直连
-  - 1
-- name: ♻️ 自动选择
-  type: url-test
-  url: http://www.gstatic.com/generate_204
-  interval: 300
-  proxies:
-  - 1
-- name: 🎥 NETFLIX
-  type: select
-  proxies:
-  - 🔰 节点选择
-  - ♻️ 自动选择
-  - 🎯 全球直连
-  - 1
-- name: ⛔️ 广告拦截
-  type: select
-  proxies:
-  - 🛑 全球拦截
-  - 🎯 全球直连
-  - 🔰 节点选择
-- name: 🚫 运营劫持
-  type: select
-  proxies:
-  - 🛑 全球拦截
-  - 🎯 全球直连
-  - 🔰 节点选择
-- name: 🌍 国外媒体
-  type: select
-  proxies:
-  - 🔰 节点选择
-  - ♻️ 自动选择
-  - 🎯 全球直连
-  - 1
-- name: 🌏 国内媒体
-  type: select
-  proxies:
-  - 🎯 全球直连
-  - 🔰 节点选择
-- name: Ⓜ️ 微软服务
-  type: select
-  proxies:
-  - 🎯 全球直连
-  - 🔰 节点选择
-  - 1
-- name: 📲 电报信息
-  type: select
-  proxies:
-  - 🔰 节点选择
-  - 🎯 全球直连
-  - 1
-- name: 🍎 苹果服务
-  type: select
-  proxies:
-  - 🔰 节点选择
-  - 🎯 全球直连
-  - ♻️ 自动选择
-  - 1
-- name: 🎯 全球直连
-  type: select
-  proxies:
-  - DIRECT
-- name: 🛑 全球拦截
-  type: select
-  proxies:
-  - REJECT
-  - DIRECT
-- name: 🐟 漏网之鱼
-  type: select
-  proxies:
-  - 🔰 节点选择
-  - 🎯 全球直连
-  - ♻️ 自动选择
-  - 1
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
+  - 🇭🇰 ‍
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 4e0a32bf-1aa4-3fac-a88a-18f74dfc4fdf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 [vip①]印度1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国1 - MG Network', server: 16.mamamajd.site, port: 23616, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [vip①]德国2 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: 5.mamamajd.site, port: 23605, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: 13.mamamajd.site, port: 23613, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: a32c5acc-49ac-3170-a20f-fe1c52aefa73, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 3c668456-cc9c-3392-9014-0f73e5a09bb3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
