@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]②日本 - MG Network', server: ydgz.miloli.me, port: 23617, type: vmess, uuid: 0cceba58-61d8-3aef-8661-dcf7bce62d33, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: dx.miloli.me, port: 23616, type: vmess, uuid: 0cceba58-61d8-3aef-8661-dcf7bce62d33, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]②日本 - MG Network', server: ydgz.miloli.me, port: 23617, type: vmess, uuid: fc39c39f-81b9-34b1-b81c-1116c20b743c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: dx.miloli.me, port: 23616, type: vmess, uuid: fc39c39f-81b9-34b1-b81c-1116c20b743c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
