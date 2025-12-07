@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: xx, port: 50003, type: vmess, uuid: 2c657528-4b0c-3f51-bdd5-ca1168e0aab4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国1 - MG Network', server: dx.miloli.me, port: 23605, type: vmess, uuid: 2c657528-4b0c-3f51-bdd5-ca1168e0aab4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [vip①]英国2 - MG Network', server: dx.miloli.me, port: 23613, type: vmess, uuid: 2c657528-4b0c-3f51-bdd5-ca1168e0aab4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [vip①]韩国1 - MG Network', server: dx.miloli.me, port: 23614, type: vmess, uuid: 2c657528-4b0c-3f51-bdd5-ca1168e0aab4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
