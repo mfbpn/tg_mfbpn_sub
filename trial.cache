@@ -44,7 +44,7 @@ api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xngaynxgz218@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7fafd8e67c10>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(yxdptfjxl492@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f8d68a4f580>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -83,10 +83,11 @@ email  oglxlcul781@gmail.com
 last_checkin  2025-12-08 00:50:32.147409+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.532G  2025-12-10 01:50:31+08:00  (剩余 5.532G 2 days, 0:59:47.119835)
+sub_info  0B  5.532G  2025-12-10 01:50:31+08:00  (剩余 5.532G 2 days, 0:03:22.289360)
 sub_url  https://aa.mgnet.sbs/link/6KYVh4T94rozVNsC?sub=3
 time  2025-12-08 00:50:32.554862+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [zhenshihui.shop]
 email  mffkaxr824@gmail.com
@@ -96,7 +97,7 @@ sub_url  https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e
 time  2025-02-12 00:50:37.542466+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 404 Not Found '<script>window.location.href = "/"</script>'
+更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<script>window.location.href = "/"</script>')
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
