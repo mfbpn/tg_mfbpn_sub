@@ -44,7 +44,7 @@ api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ksqkbfxtl324@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7fdec8ded4b0>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(jgqsfhuuv377@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f3bad0a0730>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -79,13 +79,13 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  idshkywf858@gmail.com
-last_checkin  2025-12-14 14:54:56.270678+08:00
+email  rfgqiqjis538@gmail.com
+last_checkin  2025-12-14 16:53:03.101315+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.757G  2025-12-16 15:54:55+08:00  (剩余 5.757G 2 days, 0:07:34.414597)
-sub_url  https://aa.mgnet.sbs/link/id1bMa5UtW9cVOBC?sub=3
-time  2025-12-14 14:54:56.717197+08:00
+sub_info  0B  5.653G  2025-12-16 17:53:02+08:00  (剩余 5.653G 2 days, 0:59:57.391807)
+sub_url  https://aa.mgnet.sbs/link/BwGZFJKkYv9E7Zxo?sub=3
+time  2025-12-14 16:53:03.495472+08:00
 type  sspanel
 
 [zhenshihui.shop]
