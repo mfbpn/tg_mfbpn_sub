@@ -9,7 +9,7 @@ sub_url  https://huaticloud.top/api/v1/client/subscribe?token=885472dd6903ee528b
 time  2024-08-08 21:47:30.792394+08:00
 type  v2board
 保存base64/clash订阅失败  _gen_base64_config: no base64: b"The following link doesn't contain any valid node info: https://htcmi-20240805.mozhiti.top/api/v1/client/subscribe?token=885472dd6903ee528b92e5b1d168d9fc#1723128435.0387223"
-更新旧订阅失败  HTTPSConnectionPool(host='huaticloud.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=885472dd6903ee528b92e5b1d168d9fc (Caused by NameResolutionError("HTTPSConnection(host='huaticloud.top', port=443): Failed to resolve 'huaticloud.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='huaticloud.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("HTTPSConnection(host='huaticloud.top', port=443): Failed to resolve 'huaticloud.top' ([Errno -2] Name or service not known)"))
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -37,14 +37,14 @@ sub_url  https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016
 time  2024-09-10 22:53:38.526191+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  (https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016cd1cd1ef5832af28ae): 403 Forbidden '{"status":"fail","message":"token is error","data":null,"error":null}'
+更新旧订阅失败  'NoneType' object is not subscriptable
 
 [csyun.xyz]
 api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(lwhskdnd180@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f03b81da3b0>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(onbigiic509@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7fea14196e00>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -74,18 +74,18 @@ sub_url  https://2.flybar20.cc/link/D9IrEEOjquFC3vhH?sub=3
 time  2025-06-04 15:47:55.838141+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /link/D9IrEEOjquFC3vhH?sub=3 (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  yobhqpbx433@gmail.com
-last_checkin  2025-12-14 10:36:08.317377+08:00
+email  aocggyr750@gmail.com
+last_checkin  2025-12-14 13:49:03.708767+08:00
 name  MG Network
 node_n  11
-sub_info  19.52K  5.529G  2025-12-16 11:36:07+08:00  (剩余 5.529G 1 day, 23:46:09.098963)
-sub_url  https://aa.mgnet.sbs/link/ovbrnaxy9rMY7TOp?sub=3
-time  2025-12-14 10:36:08.789911+08:00
+sub_info  0B  5.52G  2025-12-16 14:49:03+08:00  (剩余 5.52G 2 days, 0:59:55.991139)
+sub_url  https://aa.mgnet.sbs/link/XZeIa5lPKgk7Kwle?sub=3
+time  2025-12-14 13:49:03.998417+08:00
 type  sspanel
 
 [zhenshihui.shop]
@@ -96,7 +96,7 @@ sub_url  https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e
 time  2025-02-12 00:50:37.542466+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: \'3\',cZone: \'2025-12-14.sqllq.com\',cType: \'managed\',cRay: \'9adabc1ab9e76190\',cH: \'LpZTV_GNoQ1AksO.Uljkc.8Zg2815M2zduc5R760qVk-1765684202-1.2.1.1-1zgn_NXnXWtth17KZ9fRF2Crtop53KyuYIUrWd8jkkG2qLN1QNOo9EH4XKM86Xq9\',cUPMDTk:"\\/en\\/?__cf_chl_tk=sFTuZ70.buPhji.o8FuvFB4BruxD5XE35acLzFd0CVA-1765684202-1.0.1.1-oqNR3O0cy0uxSc2MAuXOw8bQGbJxb.EGsb0UY7AYmDA",cFPWv: \'g\',cITimeS: \'1765684202\',cTplC:0,cTplV:5,cTplB: \'0\',fa:"\\/en\\/?__cf_chl_f_tk=sFTuZ70.buPhji.o8FuvFB4BruxD5XE35acLzFd0CVA-1765684202-1.0.1.1-oqNR3O0cy0uxSc2MAuXOw8bQGbJxb.EGsb0UY7AYmDA",md: \'BgB9dMKqKbqUEiJocjIIBODgdRuyXGFKCBQ3l6TXZJo-1765684202-1.2.1.1-0MNH2dJKOaW7RFH1eEqpG2Uma1ICdCwyZ.T2Axzr1uNJZdoAIPX__65pU_MqqhIH55XlW2H2tI3EpWbgHE0Hk7_EOGtC3ImQpAix3UkWdXcN2L35oIeIvjsnPIVYXI_Dt4lbn2GeogqN2Hr9EUUku7996N2qwfjhx.KRjQto1abSdpbIYtoOLtLQiMH0Yrno4cq8Hc3HEeivPtGJjwYzZVAmtYkeXZJ_qqYBiaJ1Wr0axpKOMlUPsn6_ai9ibDdFhQeFZS8D4pJXIbP8tib1JMJ4izsVEb_W.Nb1wMwdpHjVUUuE7wY8jwlaiGVt64R4P9un5PTkdVImXDDIG0P0rJr6Pf4OeuNc67vl115qziONTxUPOF5LiXMq0Q5UVyPToYFHjcXmFY.Z2z57PLq.bwuVszQhFD9.HY2avaVQVSY88l1nkHz58sWp9omDra0laZp2RmqQsTnW4iFqn95_LsYelcPrgkAmxiPgKKGXA8fMrkisJ3bXikpILQ769UgtikBRrJWtwUOd7icRrNDosO1bJupideEKmQ3wEeOL0tIBDeBUOybesXEeDrmCTN0rR7ZILMfnQyWZzxl4CBhq2QsHb7LDN4R0hLg.r2u_oiwIx7L8HPgSgPs.4Q2CdK82yF53N9hhww8_SsXsRD6mxlNtZlGpXw8zJiNs8WKSyxscfVnnE1zs4YnuRNJA4hOnrE0P5ZA5mEDtb81kqUsiiJQmFzLBBAUiefNia7PeUJrgIiuSeXhxR671GDSqxf.wiZ7VGBCSye5akBJWEafAB6it5.u5SJH587nnWcOMKKNiNbeSf_exgJ2uE8z9n1BV\',mdrd: \'iwbDfXKXGOU8w51696zWO54_FuuMBz_XvvDFs_80K3Q-1765684202-1.2.1.1-D_y89QitSTU3kaieaj2oguhr21aF5UQcF0UqfwP5Yn7Sp.BPnOrspvvDlrAIoMSEXoF9lnkv1Lo5WPniOvrBG6W19bkiM8Bl5vS2ydgueKQrEfvzi9J..GUYZpqE9OeYtXAIjpUv2wKdD357NvnS5HwS2S0FgvhY.7eOfsR10PeM8FLoyoon716.N.DlvXj4hqGx2gCtx4INQZO6z2WAw38hRXPcVcBrEZMoFgss7c2E0etJnoXcMKGme9zODfkVEAYJufvHR5LeEFzl4841bInpSYRrMC4iWqWlhVeu6L.6g9VosHBGYVbXFX5QeT0T3rloCiGneRQN330lWtqmCvCcpDx06inn_Syi5WQ3Ax_TKRy1rLhNUcoeECo.PIOl5UCubIV6vZSkMAVPWb00rOFj76AB_kPBYsVq3ozA5U7m_3Q6gy2b2swKzPl9W37w45o0Yosp3hvw4kkLStMV7TrLmQYcj8met1QywFJS3D2mg9Dl.qSGL1cK2tlmGEM9_P1YfWnbyfSW7PFSKcE4dv.Jc0bWxZNWiNLbn1dHd.gngnq0kmiRPtc0wFqUQ9Ks1XV_x_ua_3hzFbvVR2BhB09arvEGlylRFmIAXJaDCKz541Q_u_OCNZT7tazTU.YSl4Ms_4rtu11hgQGtrHeFMkD7WWrv8f7W_NCmpUAfTZDirW4SN1ErsEPYylI4fYPqTwB13qMQS5nGSDq93AVbXmyd0YkfHVqUmmoZvZtspC9OBEhLdudYSCHkIeIa7_4yac0TdRoD9VDwe8GRP6edngjZEQUCOlse5vvYVXQvUxi_CuLN6yzoxySeqYVXq5_NUidMpZ89Fqop6QRbfbv_ndmZD5ESt_bwYZ1fyw0F27csfOZbb.bTFCwx2_.jJIN97w0mVUgJcabkAVgM17SvsPmhwPIGx9J7iYEUSgDuVCZmeW3_eV6qG16aOFR0oiKZkiv1l7hHyClFVVw9Ufr5WIqhd5pCfInhvhYol1YNE8GYdpmlbwLWY9BF.k0fmgl81yVkrr06w8yfTnE5Gl.eehFkG8JUxMuyg2387qTHlCvTddiY5cjWOuXB40dULXfCMIQQcEEx9x9cWdrj8LaVl1lDICfUPUdE22jPyqz4ye2sUu5faQwrl8zpS.cLTn4u4PlpBhaFwuuGsCmhKLF6Hsb0xvXKGjqXIi9LZ0BM1VrqwRtOcKEpZh2DbII84j1QOqX3L7jVbaLsU0AwBpXcg4ebacfqb7kicjBD1CZH89zMGWLZHk5oIqMCe25EXSJ7usZHabG23N_9k9xJSJ.xFeYph4gEG0Zud4tnyukRHzXTLTqVYGLHzPuV2V.Wtr0zhutlr72NaEHI7Eo6UnVW40jKuEDRHdSz.mmO5v4AU7V.Ed1VURjxyeSNVjX0sDT0wO_RWiyUA59AEoFl7kUZ7Ta7gfHXm_j9zFW5tUeAI0fWsuN1fbarH.Ofwy0LEQeLi_WF8O43FCUXvQTTGsmSZLILcl1oEAg9oZxOZqVnjX0fbozAMepiyQ.VCw12Tt8KkoLXVlecwJ7dnpK5mHKnBGc6U5SLD.0GN_V4HoIjgSJ2hxtuO.5c4q9h1QdbJ5hJVax7dq355GK8Nszt6gwZIKyDh9e1JUU5pU0jVNZgGzZ_utgU3EUh3RmeiXajc1RiFPPPRkqSSEx0LOrzu1HeCo.RxArzwdN.jqz7me0MByyNZIlfNPFgnNRfHCy5FkzNBCVZ8KcUbkyfp_2A3My6tOxBnznmFg79TjBaJ8taY82lPUjaLVbl1Kx8t8UOQf2hMoz4KK.rBfel8b.4dMOeO2dwbsIT4JyMcMJEazFzgytVn_IyBLJg1.gxZqROkTTJ1mQZvuntznPv38S_D.GiLDP5wHLWdMMRdnHDuAeVV5nJdSXsjLeDP5.Y4KFCgrzCEuKZ65G9C._5nXx_A8M2hUhPhse0KCbtP.ggCxxFGRH34ki.quBzvsRdx.p.rIAgMopfGS2WAqdLHldE2cSZ4tfY4PQpnTtrkJShJ2onKGr2W.3obhyKA0loc0vbheZKsCFgH3LCJtzfOTMbJSVCTjrmZbGylW8ewodIZa3nBv6HbWifVUmNwBy1m5EjgdYl5OIYwqzI1ga1BZQGk7OZieyR.PJcqgELltj_5vxLUQYeRoUjn.87THmPdlBsLc_oZ_dL9NdvL_3oqi0IqFoybA25vECt6lSmAqNwtGlIUnCneSQxvETnP5z3xTsl0y9lhVG4NnauBmBXAhQjnK40cPW5sqVYfRY2oL4Yp.W57HSOFUAXnUdAoQiAYOKcvF6JT.xrbpcXAKDPFpexDxreZeAcajgK3Owt7NHsgz0BUZTGlMsPOtADUW640FHPhJPSmwl5JOf7T_4UzUQH0XOzgw\',};var a = document.createElement(\'script\');a.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9adabc1ab9e76190\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\\/en\\/?__cf_chl_rt_tk=sFTuZ70.buPhji.o8FuvFB4BruxD5XE35acLzFd0CVA-1765684202-1.0.1.1-oqNR3O0cy0uxSc2MAuXOw8bQGbJxb.EGsb0UY7AYmDA"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(a);}());</script></body></html>'
+更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 404 Not Found '<script>window.location.href = "/"</script>'
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
