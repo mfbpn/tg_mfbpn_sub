@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 952e38ad-d847-3386-9b79-3334273e0899, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 952e38ad-d847-3386-9b79-3334273e0899, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 952e38ad-d847-3386-9b79-3334273e0899, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: b30fd8c3-7ce9-3ffb-aa9a-94badc6774fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: b30fd8c3-7ce9-3ffb-aa9a-94badc6774fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: b30fd8c3-7ce9-3ffb-aa9a-94badc6774fd, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
