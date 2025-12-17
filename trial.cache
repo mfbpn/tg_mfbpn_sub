@@ -37,14 +37,14 @@ sub_url  https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016
 time  2024-09-10 22:53:38.526191+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  (https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016cd1cd1ef5832af28ae): 403 Forbidden '{"status":"fail","message":"token is error","data":null,"error":null}'
+更新旧订阅失败  'NoneType' object is not subscriptable
 
 [csyun.xyz]
 api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qsqfzepnv881@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7ff850ad54e0>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(rwswzzrne254@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f1970c34880>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -74,18 +74,18 @@ sub_url  https://2.flybar20.cc/link/D9IrEEOjquFC3vhH?sub=3
 time  2025-06-04 15:47:55.838141+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /link/D9IrEEOjquFC3vhH?sub=3 (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='2.flybar20.cc', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("HTTPSConnection(host='2.flybar20.cc', port=443): Failed to resolve '2.flybar20.cc' ([Errno -2] Name or service not known)"))
 
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  lefdrgint248@gmail.com
-last_checkin  2025-12-17 13:51:31.670318+08:00
+email  xmyojuwk184@gmail.com
+last_checkin  2025-12-17 16:59:16.837198+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.478G  2025-12-19 14:51:31+08:00  (剩余 5.478G 1 day, 23:01:44.465626)
-sub_url  https://aa.mgnet.sbs/link/7MC4FOJ5XEia8nMZ?sub=3
-time  2025-12-17 13:51:31.981247+08:00
+sub_info  0B  5.474G  2025-12-19 17:59:16+08:00  (剩余 5.474G 2 days, 0:59:57.358651)
+sub_url  https://aa.mgnet.sbs/link/tJvyQlpqoroUhewJ?sub=3
+time  2025-12-17 16:59:17.271464+08:00
 type  sspanel
 
 [zhenshihui.shop]
@@ -96,7 +96,7 @@ sub_url  https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e
 time  2025-02-12 00:50:37.542466+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 404 Not Found '<script>window.location.href = "/"</script>'
+更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: \'3\',cZone: \'2025-12-17.sqllq.com\',cType: \'managed\',cRay: \'9af539c51fda432f\',cH: \'HOC7PH_clXpFwsurPrFOT49ZMYVTNtY2gqIdebK0WwQ-1765961979-1.2.1.1-57GvARk.81RxOUfSTOvO51c68ior4gUDyEIm1ii1eeytLVVp9RGFzFM_7AZDlHlI\',cUPMDTk:"\\/en\\/?__cf_chl_tk=b7ecsYD.YSXQf8Og96NL6JvD8iXhJv0qu5Aywrvky1g-1765961979-1.0.1.1-QB6C0UN.zw0tMaqj7bpmDJXEGj9_FGaHvAxPoy8qKf0",cFPWv: \'b\',cITimeS: \'1765961979\',cTplC:0,cTplV:5,cTplB: \'0\',fa:"\\/en\\/?__cf_chl_f_tk=b7ecsYD.YSXQf8Og96NL6JvD8iXhJv0qu5Aywrvky1g-1765961979-1.0.1.1-QB6C0UN.zw0tMaqj7bpmDJXEGj9_FGaHvAxPoy8qKf0",md: \'iWPLNWASKdfFbsF5ZEqls_MG3f.u7Gf64mCtWzu6AKo-1765961979-1.2.1.1-hDU0wbTR5IBkfBRkLGClXv07Ab9fyOqAjN7kSYy.D5s2ZZL_M8mD1qkQVz6OLpU9yR2XlDdXRfRE9hy4fG5HNnDt8dIGhttMl.JxCGY0PS1dG0mIMEtDaxBnqMLVGEks_4cFoiquLnrhyhZuTwfJ7n64oqXLrPeXbNoYNuBCzhUw2eU7jmUEoRsPET7xDcdgxDCNPUUnqC5TDoq8JInX35xHwRhXJX0a7z3u.c1LUopQANL4b.FRcM1fskSIts1eZyZOF03HES7ephg9fFo0GfvDjdhV6BRIlGWhFZpBz1ehN.8BHV3IZKV1jfUka3m39Ck3c.EDRRRVYfhOr.SNfeltgU7PMt2N44JawKh4d3TgI3XGXk2nu53.Mz6uUxDeRODdlsUZXLwosWfitfSGJKSXqY68Yns7mKv2SiZpxgkeywLAWvO4HpwZmIkjFZdA.5pglmp8sDL6oQ7ZaeKDdWxxSyndn9hLPgoth0P3oXiyMiL5G0V4LZTykKvWhBLduHUbJw8Oj92AFA_5h1yvMZ_fz_qFo9K.gIcuAVM1fhLavdgKpEMq3xwApFAYhOKAxAtBFbjTCeyvLWVRxyWfc41gIvh53MEdgjpQg4LAqOBLeXTkjZ1WQ4kf0BNHB6Qby67p8RbGyK91LRLC7zmgN2oORwmtoBkLTA5mhMzIAp7EHHdNrp0qMnFyfGkzaFg2gN9ZVZXGroRDenOl6H1wQYVoimof8O0SjdQDv5hGBIfgifn.K4gwWc9QklzjhtCMQzFqNrWALC62PerUlCk1GrrjcVfhoKm4Wm4s.o6KSNu9iiJaEVKWxzFZJMH9X_ZB\',mdrd: \'F3UCyiuWuvu4FoBy2h2rKbvd7bdL3nyQ2d5GZgbx33g-1765961979-1.2.1.1-cJVvyuRmgZWv92QUBCTRU65jyRO4f8qkVGfiBdb4XX36CU1ckjVRP1xC7ViGkJuZAaAB7jTFs2ETyMYNH8FlHKv9gfCmav1qhl41l7HB9Imw.rfmLB3X8.VFEt4YVVfODcl6L2.c0f3S8brJyp87FqBbWsiLhUdF2_wCNcEmNynhtPwdwxN.W3LFOTVZgb4G85PaaxocPdOqrbpprLzMxa6QARS5JqsYbnMnD3C1biWyQZ_Li4Cg8uQnBjNLDxzCJkJoSdE.bBtvaCN0e7.ykaC_hu4gA2_xsccF0pb0ttfUATc95Y7qh453oNicvIDRYxXPG8ibPtZA.ouI2XZTcUgD2Mw38fPD8FAn7dY58DnXQVOgQf8xddu4kI0IhnUlq3oWZa7A.UVwMVdk760ztZOrjLR1LXVz01WCCeRE5tAgwExiKc9sHXnW4K9aeMMcXvJDHhZBksTqv86G5Tt.rz67shvaJXwIHUJpV3t6NIqqLqRmBKEIKK1Lqoqc6BNFqOSl4nM1qSewEBes3va0QbbgviKP.Jx2h1t2a76K1QnxqkLhjuGT7.YYJgzQnALcv7cXwGl7od.4.PlK1V0O5lSCgczpItt0JRxj8meW1SrEEV_PIGuBNM38gn205kdZ6aSexHmu0_dN.PUtUoTt4fwM4lhsTT4fKU_g3tiFYHTYJnBdJJVq8U1dFx47lfYNj4PiJXUsLq9JKRyWbs.k_AzWWkNSlkbzJddJWlhMyf_P46.Qp_L68WOPAnLdvcvqiMWVIysPDFpnqwMkxWp2P1JUwL1g7cLxMid7gh0E6AviCtjRMzurECwpEdDOeqygz0kayCbe6xCFq_ZfaMC3S215fvnIC2rdkUfF.IW2KjyN60oxzNix5LeffXiKpju.uLbwDwoTwZGMHRgenBGrThgfvvS2BNxHmZvPFt_jRtslqg1umdbNNSxz8Na65f0rECDX55aVErQtn4OmDkzOKjVFe63.OopvTgnbLpc1ZXrikZuJoW4UNNlEquUW0nKnTomFSx3vQPAF1UFQ4DS5AsO.SkQ2ZT5E8WdiEQ3S5xWupSY7i9ibHP74l61kc.o0FLo3R9qgLH3nCbkTQuyoUg1hCwvc4KIT_pOUcKrs6qbeMf5gozdk.EFWlh0WuxygM_NPOshDVQ4V_K4nCDzMt5Ig1KiQ_0LJsaFAdnBA2SbAvmFh34mxKPPj8KBcF7xqjumlH17I7PkbRH_BS6fWrHxHrvpTmA6q6hyvbcF7a8lDiDG4cMPGkB49jim6m40u6csqfSbdkQ_e8weejOlDlku7E_rh0cSlL4V3PBSJtm3srOeoF7egnPFz3aacSyMei6DMO2GaXtZHpyDc1dQrUc9.kGY3kvU85dfZ6CmP9uzCxYoIy0D0ZP7tHexoz7YiaM7XH76b2CrbJ7TQXlaJ0zsxhvwHm7hOsxrcJCYVlgxbM81lZCiE4.gfASmmB4QjRvEmGwBtAR5TQpAfYrXq.qJttZW2Lj7buXHKF6HrpJ6ZU3mRbKScKmlnrycxUV_pfra2.eSMTJkH7t6BRRWKO1EB4oOvaIP8rvlqVCpB2DbBMQT4bfIHbwDiRfsZJk5rHyhCKkYZmmpxkLFk0QA97xy9OyUjvP02oXWCprtocOU6A6nfwm7uUU9xV.P2QySN5LNg2rwUUkjOKPZxEpCmDjNA5ik1batGBPtM4F6CsKZaQHpwrI.qvspG.K.OuFCB_xMAS2jM_kp.8cp0IF8TSdXNOraEasF.WFrKRiYnq4k2GJsZgrcB6_wuhWrTfIevvkj1UvY6G_.3P02bOH6ZhI_GJmbsv1SoeaitCxj4PQqEYiD7XoCof5IoGZni14H5Tx5ui0x1Jn4qH9bfNOfxQZR.5yYneDeIbJVZfsMdwO_gBwxZPMC26McU.MXIp0VWQuyPFqJoG3ZTx9JvdgwNpEYd_ntrc_6AReG9xaa72.Yeyxz7TPjWFsDKCKuOTb6V9_Q46ynPB5rkopKRPGZiopc14Fhg6572nGKjQCKqaJqzeR_5QQ0UfVBj25r3UME6vxJS31LU1lAkYAoDqrM.BhwfcpBlsU8DpxRaIYf3o92tVHOqgjcqXaOZ5lWFhC4JbtX3lZrq84es2aKSoXQCJTRpBNi9Fo_EIo2sR4XEcSl19vdn.KFcaiYNMzs04ffGry5kstXERUKkxaBaeDLXOfPebybjk48cyrw3Z__GaDL0njKUQ2G9zppiQCgSnb3RKC2cS2m0hbEjIg4FIXVvOUcmH5RrDuYU0P7DlE6Ut0cTg6TY99kxzztoZN3z6A7HzNK93IuUsNHuH4RL2o7_b.0eZKju9K8KTbnOdr53oTwI9QVr9h0Kw890cc1tyL.o_v7k8o.ELsvSclro4ODiyA\',};var a = document.createElement(\'script\');a.src = \'/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9af539c51fda432f\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\\/en\\/?__cf_chl_rt_tk=b7ecsYD.YSXQf8Og96NL6JvD8iXhJv0qu5Aywrvky1g-1765961979-1.0.1.1-QB6C0UN.zw0tMaqj7bpmDJXEGj9_FGaHvAxPoy8qKf0"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(a);}());</script></body></html>'
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
