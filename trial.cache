@@ -9,7 +9,7 @@ sub_url  https://huaticloud.top/api/v1/client/subscribe?token=885472dd6903ee528b
 time  2024-08-08 21:47:30.792394+08:00
 type  v2board
 保存base64/clash订阅失败  _gen_base64_config: no base64: b"The following link doesn't contain any valid node info: https://htcmi-20240805.mozhiti.top/api/v1/client/subscribe?token=885472dd6903ee528b92e5b1d168d9fc#1723128435.0387223"
-更新旧订阅失败  HTTPSConnectionPool(host='huaticloud.top', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=885472dd6903ee528b92e5b1d168d9fc (Caused by NameResolutionError("HTTPSConnection(host='huaticloud.top', port=443): Failed to resolve 'huaticloud.top' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='huaticloud.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by NameResolutionError("HTTPSConnection(host='huaticloud.top', port=443): Failed to resolve 'huaticloud.top' ([Errno -2] Name or service not known)"))
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -37,14 +37,14 @@ sub_url  https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016
 time  2024-09-10 22:53:38.526191+08:00
 type  v2board
 保存base64/clash订阅失败  'proxies'
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新旧订阅失败  (https://portal.passgfw.top/api/v1/client/subscribe?token=8f699baf3a3016cd1cd1ef5832af28ae): 403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: \'3\',cZone: \'404-no-leak.passgfw.top\',cType: \'managed\',cRay: \'9b16d0f39f84b086\',cH: \'QuIEYM7a9.CWWttYgS7nxHuNlH1tz33mJPBuJbl1FBc-1766314202-1.2.1.1-Zg1TnGp9Xq_KFM_J.bow6PihAMgqtUh5i_SIah4E5qJn88cwnpqdh_DYe_PLZcOT\',cUPMDTk:"\\/?__cf_chl_tk=Sq2YR3dKnaq_JOG9weAvPzeXrV59fFpOUP96YomOG5M-1766314202-1.0.1.1-whXwCOAxl4uevcX.V130Dek9lTZUQ7e_T1nnN5MNjNc",cFPWv: \'g\',cITimeS: \'1766314202\',cTplC:0,cTplV:5,cTplB: \'0\',fa:"\\/?__cf_chl_f_tk=Sq2YR3dKnaq_JOG9weAvPzeXrV59fFpOUP96YomOG5M-1766314202-1.0.1.1-whXwCOAxl4uevcX.V130Dek9lTZUQ7e_T1nnN5MNjNc",md: \'rA0dQLdeuCghGvZZ2MFOuY2X3nTMph7ZD94pSea.9WI-1766314202-1.2.1.1-.rahB9uAB46SB4JgVBdINW4iwYPpAAwSkcz0pqCdw_dygP2h5pSXE9txcFsmVE6u4exDIevF6DVV5ERZLDzHYdZKIilVbH5w8Fs4ENDTMjp3H9TNNNAYrHfGck7HF5WCdixISooKQzaUkjPRLlqWoAX8btX72GJwmk7OWLDYtSjOgOvlivgik3nJzpbcqaYs.vLBnU11XzW4r4BRPDB8VngkQGpa3ZkyuEi9aVlT5I.PhFPOphsPoI8iLqr0LVpxC7OICSXT1h38etYrTttgeB_reEgCHOuUl2GuIjCwfzRoUaZsOPasWCSrP4rqOvXsOd07ZhQthElWVDONN8jSpQhJBiNEccHCfQDGVi51CHJc3cU7VyZe3SxZmmNvoU6MNuXpzw7fzPLYQpqs81oDTBuKH9nhhCqHUSEmhVOnFLXiQx6E6PL3_AHztwOsaBkd0RHVDauUGBudmXU_zBOax3Caoe3YwT52DkevSWEhqQ0yMzllugSQHe0Tl8aKnzQXg3ld3yYXkwtav3g5iKFVsFOzjxU4vo8uP1ZyhtbgkhXDJozZzGCIzuwuT2CT5.WtGBKpkG2.DcbzYFWHQKDLYRSMvpSIz2SbdNPzVdx1j98tD_AW48gd85N6UXS1Dsj4st2NpnAy0akE7qYhXsU89yw6I28Avv9mOCekQjDwJiycjqDFfy0EuGe3Jc4QYMWwwST0ZXg3wOKTLRRGfbtKPX03hHNB7tFuKjAWqo1c9L9gXFi5wu6wGsOWe5mq6YOaIlAZ3af0rWqULp.A2ATLIJnjKXBu3sUs9CNIHGWzV0TAS4UC.5iuXKpaJPjqhQ0qUqrvUlOiSOrjVNQulGxG4hHsevHj8H4q9S7yAXoAwnDCGfdaL6ttFp3ARgS0256MnR5nWlyc2QpGi_0z7RFB8A\',mdrd: \'RmjRiBza38fZttYeVMj4xcBQbz4RAe5Hmkp56FkAk7o-1766314202-1.2.1.1-GpqZNtxlyS6nSJj8dw99e5vu9tRctwSwZ6SC1Ketr7d2QB.Ua4UzrGihkz_i1d1c5THtBLu5WyyjFF7H4dxNwWPtKkFssBT2yy6MYp45vyTvjQmYJ849_ZzhcUPXI0Kt_6aQldZ0HWV_HdUWy6FBoD6r9XYye71NVRxbECcXnELWM31KPcydry7FKGbhVUEbV_kD_5QxkZWlQ2mIFf8uOWmZj1W72qLgdt9BSZuRhBu6c3KBT3t895LdYv8BGG_OQ2sHqfKhuMo0XOPM.iIJIYM6R2qXLPGr_y9a4ffPWrZnD.P8.YhocW3LMicKHeIwXj94BUkpkeY772jpJGY.4YLojB4aM9vkg_6h54G79FfEFdklgiVGyoUSsv1mYz7AqRtuXjds59Pw7WfMsv3qIpz6b2H8gn6uhunuJUvgMVMZ8EYnnt8t8bh_Fh2QVAsgimbzGowEsMo.kSr0hBAp1E8ygU1Cnb0l8clB3I4TyVJFoIZp7ZzntoI5N_aEpwtwYfLZUvSSMuNAgzeUEUKkBXKBHcEAH5WoGWARTmbijnA8sCYQUJr4qd4XtIHzwtWGMSY9MJmEhRBaWkCFjSELBDiyIxswC_8ig.ob1KwXhRwwspPniGnUaSAJgZgobloqHrSWuGkRXsB3HzfZcy.u.mm_5XVSqAt8gvIddpY9e4mZqqTNMmrEqu0zzWYTMyQOAzuFehb2zoxv0Aomfe_PavYGRrbBpZQKXJKqd_rGpIOKhjjQdJvpVRWWUYQBfvRm2CI3njcdqYbncZTyg1knMEQpqQK._K0VqqYqicYJ.F_mGWZ7si261PkWMUGmEmSxRk.qHdbKVhCjTQTH793d34KcAchCs52_SwOZAk2CjqZbmc3y_aDriWRx6eK7B0C6oUhu6fESk_ffExZ35Z30h.cOvQX.3u8r4KIllvkrL0PuU8U8cBw7LlOd7QOUEbwlGD0X60YMk.G7joPYOFVlYLR_eHk14VQDSWkxoLkOjVSRcaOvRCBWnmoRQMX9icjugU9EfePHU5KpXpdH6N62yugk._lfMqDScsPQ48hFQxwl1lYLqR_EOWhogQmSAtonmxYW6OkvbBkneG7oQEjgH9blRIHfoLh14eorvEizY.9Q8QaE2kmtnuf3ghGyoh98.nMPU3gPRZd9CHU8Vy0Nm1ZPXh3etKL2LcIUTF.6IG3te5SMk4tkQRpDWZb0.vIoTpukczJvQeMTDyWRoC.ZH28fdTDagWd3j8C8xM1Twozts8qDsnfbBsxUjdY5wZzgar1xS5sTiK3DtZ0MUqfSvtepydkAAfvLuwGlz5pbt6NqJo2PelkYcI88IOQe0d0ado_.lGAoh8_MwifqkUVL5GFRUSJB17eJfmoyx3NFNTUSNNsz62ycI1ROEkH.lmARu8dN4XHapemm5f0U7AbDLxaFM6ZqWBr1f0z7cLOVqh5Xjmw.dqhpNXXCJkmKcKoVpXFiEiuy53gxPYpHuhnqfbiVXi8c2xFOMIzsWK14OIysd.9l4ObTGWK0.yJk19nMcFbwDSW8EbD_xxvsm_GkzC3c.GinGbKLAEsTNaoikILP.5BzbEh60dKqq55FFGuA_UuUV87dg8ObrxiAm9VTD7hg6BBZTojMMqEMIYAciAsI.vcPfUbOoPkF5ap2_FOm5Wh1X0BUUbIW7cIqDktvrGcRa3Q7dzIBtCRaqB3JpeI57wZyMD0NGpg1j1VFubC0GfYaUzlXMbADjvKEKYjy8xcAT99fp8kiDNmEG337tXtgmoEzLOXXYVLY_JlC2JhrnKmUVHgnymLm68arRdwGnkGoJncoSMooqwcCT73OyRcWw_YxXSGOjZx5FWIbwVzX_YypbhUakaPfPA_SfLlr97wNs7rDfmCEQAGIYgnotzA59Z.IwTVzDq2m9ILhh3R372ecUQMDz3aSbKygYFktkywahVrrZZLlstPeG05dOr.jwwhNCsf4z_9IHYWXeYEy5DWgumHctBfrDKorRexvLzaU0i5aiECrrwtRqphmQXdeIbcnfNJw7di4.E.u7_ZFLvk9aZSwttKVcAf5L8R4HQJOyCOWPnsdpuLHi20WF4WvI5n_gajhK8rA1VlI5mtjFEtQkoFI9xo.mBeR0CflvcINuSxiERgavg86EbribhNb5Vs44KtnCcIMqLV.a8mLOC.C9sBnPypKDIcND027d1gzEhMzdK_TqFTi9tPUp1s7Om64ICyrA9cseYceTJyUzE53I9qsh7ahqiN_7Of2ADMEvzqQfT3Va0q7qZXioI1s9C86bUxANqFu9NcC5_ngB.iSIlwa_H0DVyv4CZwyoSzqbQ4m3zmZcxV5w9Jbwo1E9MwtO1n6PEgclt4Xe6ORw9R2kKowOlxrQpj7xEy4nw\',};var a = document.createElement(\'script\');a.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9b16d0f39f84b086\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\\/?__cf_chl_rt_tk=Sq2YR3dKnaq_JOG9weAvPzeXrV59fFpOUP96YomOG5M-1766314202-1.0.1.1-whXwCOAxl4uevcX.V130Dek9lTZUQ7e_T1nnN5MNjNc"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(a);}());</script></body></html>'
 
 [csyun.xyz]
 api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bydlfkzff307@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f751055e320>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(svgdwxmv368@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7fb7dcf5f880>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -79,13 +79,13 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  qnzjqzrit963@gmail.com
-last_checkin  2025-12-21 16:54:58.095453+08:00
+email  inkxver576@gmail.com
+last_checkin  2025-12-21 18:50:02.547963+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.544G  2025-12-23 17:54:57+08:00  (剩余 5.544G 2 days, 0:07:02.559011)
-sub_url  https://aa.mgnet.sbs/link/DBqwC9wC6B4Tjfyn?sub=3
-time  2025-12-21 16:54:58.520379+08:00
+sub_info  0B  5.327G  2025-12-23 19:50:02+08:00  (剩余 5.327G 2 days, 0:57:55.539037)
+sub_url  https://aa.mgnet.sbs/link/UdadybaDP0TCsmwP?sub=3
+time  2025-12-21 18:50:03.335789+08:00
 type  sspanel
 
 [zhenshihui.shop]
@@ -96,7 +96,7 @@ sub_url  https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e
 time  2025-02-12 00:50:37.542466+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<script>window.location.href = "/"</script>')
+更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 404 Not Found '<script>window.location.href = "/"</script>'
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
