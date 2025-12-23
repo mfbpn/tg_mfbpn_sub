@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: 5df70da2-a213-3e88-bbc0-9c7535b81aed, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23615, type: vmess, uuid: ea917e5e-49b4-3c00-bf9f-56ca9802b8f1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
