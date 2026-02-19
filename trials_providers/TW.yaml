@@ -7,4 +7,4 @@ proxies:
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: 259d0b6d-bec5-3c7a-8c10-ff66e2ad073b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23619, type: vmess, uuid: 7abdaf65-9461-30c8-9b1d-0421a2a72755, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
