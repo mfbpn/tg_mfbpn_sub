@@ -44,7 +44,7 @@ api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mhcbnszve290@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f7b60de0940>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(eckppkh631@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.csyun.xyz', port=443) at 0x7f6b40575210>, 'Connection to ww38.csyun.xyz timed out. (connect timeout=30)'))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -59,8 +59,8 @@ sub_info  7.529G  888G  2024-12-16 02:49:16+08:00  (剩余 880.5G 3:01:48.476649
 sub_url  https://ww38.qlgq.top/link/b953a23647069d34?clash=1#墙了个墙
 time  2024-12-15 02:49:17.270078+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f7b60de2020>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
-更新旧订阅失败  HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /link/b953a23647069d34?clash=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f7b6873f6d0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+尝试签到失败  HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f6b405749a0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /link/b953a23647069d34?clash=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f6b4053e2f0>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
 
 [2.flybar20.cc]
 banned_domains  tmpmail.net  moakt.ws  bareed.ws  tmpmail.org  tmails.net  h11gggujjj.bond  disbox.net  tmail.ws  mydefipet.live  psnator.com  disbox.org  moakt.co  tmpnator.live  femailtor.com  smartnator.com  xxxhi.cc  buguauto.cn  nespressopixie.com  muatoc.com  miteon.com  maxamba.com  lista.cc  111.wldpb.shop  snapmail.cc  mynanaimohomes.com  222.wfmvz.shop  222.vzakf.shop  222.wkhxn.shop  333.wkhxn.shop  wfes.site  lplso.tmmad.com  bccto.cc  965.tmmad.com  x866.cc  51788.top  jkb.tmmad.com  mxl001.win  zz.wgfkq.shop  442587.xyz  mail.shouyou789.com  lpl1so.tmmad.com  ipiso.tmmad.com  guerrillamail.de  guerrillamail.com  yzm.de  linshiyou.com  lyx13.xyz  jkd.tmmad.com
@@ -79,13 +79,13 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  eekccahl928@gmail.com
-last_checkin  2026-02-20 23:22:41.173224+08:00
+email  ylkqxwq672@gmail.com
+last_checkin  2026-02-21 01:21:27.000673+08:00
 name  MG Network
 node_n  11
-sub_info  0B  1.525G  2026-02-23 00:22:40+08:00  (剩余 1.525G 2 days, 0:16:27.089051)
-sub_url  https://aa.mgnet.sbs/link/faS3z3a3cwHq4WBt?sub=3
-time  2026-02-20 23:22:41.574729+08:00
+sub_info  0B  1.617G  2026-02-23 02:21:26+08:00  (剩余 1.617G 2 days, 0:59:58.068612)
+sub_url  https://aa.mgnet.sbs/link/wSfSqwxqtbZYACBb?sub=3
+time  2026-02-21 01:21:27.300055+08:00
 type  sspanel
 
 [zhenshihui.shop]
