@@ -14,6 +14,6 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 73bb3428-c58c-36d8-a223-5690ca4b5655, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 73bb3428-c58c-36d8-a223-5690ca4b5655, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 73bb3428-c58c-36d8-a223-5690ca4b5655, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23611, type: vmess, uuid: 65e4a380-8acb-3060-b3a4-c2a732b2c336, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23617, type: vmess, uuid: 65e4a380-8acb-3060-b3a4-c2a732b2c336, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: traffic.a1.szx.gfw250.com, port: 23618, type: vmess, uuid: 65e4a380-8acb-3060-b3a4-c2a732b2c336, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
