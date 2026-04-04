@@ -14,6 +14,6 @@ proxies:
 - {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, tfo: true, type: trojan, password: a6ba0ada-cef1-3009-98dc-a1300ca76ed6, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: daba7c7d-5c18-3cd4-beda-38b0a9869cd6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: daba7c7d-5c18-3cd4-beda-38b0a9869cd6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [vip①]日本3 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: daba7c7d-5c18-3cd4-beda-38b0a9869cd6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本1 - MG Network', server: 11.mamamajd.site, port: 23611, type: vmess, uuid: da63eae7-c3e7-3ee5-93a9-99dec9b26948, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本2 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: da63eae7-c3e7-3ee5-93a9-99dec9b26948, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [vip①]日本3 - MG Network', server: 18.mamamajd.site, port: 23618, type: vmess, uuid: da63eae7-c3e7-3ee5-93a9-99dec9b26948, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
