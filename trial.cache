@@ -44,7 +44,7 @@ api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bbubwid411@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.csyun.xyz', port=443): Failed to resolve 'ww38.csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(rqcnnrsgz672@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.csyun.xyz', port=443): Failed to resolve 'ww38.csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -79,14 +79,15 @@ type  sspanel
 [mgnet.vip]
 auto_invite  F
 buy  pass
-email  bodgwbb80@gmail.com
-last_checkin  2026-05-10 19:30:26.467686+08:00
+email  vzmktpd591@gmail.com
+last_checkin  2026-05-10 22:07:50.618394+08:00
 name  MG Network
 node_n  11
-sub_info  323.7M  1.573G  2026-05-12 20:30:25+08:00  (剩余 1.257G 1 day, 23:50:38.310846)
-sub_url  https://az.mgnet.sbs/link/Q85YPsjlutNLss2e?sub=3
-time  2026-05-10 19:30:26.878221+08:00
+sub_info  0B  1.566G  2026-05-12 23:07:50+08:00  (剩余 1.566G 2 days, 0:59:52.846460)
+sub_url  https://az.mgnet.sbs/link/Uy1M26q5RvuF26U6?sub=3
+time  2026-05-10 22:07:50.928685+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 9, column 27: body { font-family: system-ui, sans-serif; margin: ... ^ (line: 9)
 
 [zhenshihui.shop]
 email  mffkaxr824@gmail.com
