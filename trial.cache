@@ -44,7 +44,7 @@ api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vdqcdrma363@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.csyun.xyz', port=443): Failed to resolve 'ww38.csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(lhfwbrvwf592@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.csyun.xyz', port=443): Failed to resolve 'ww38.csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -83,7 +83,7 @@ email  egzxfdl852@gmail.com
 last_checkin  2026-05-27 05:17:38.580945+08:00
 name  MG Network
 node_n  11
-sub_info  617.8M  1.772G  2026-05-29 06:17:38+08:00  (剩余 1.169G 1 day, 20:40:55.732311)
+sub_info  1.258G  1.772G  2026-05-29 06:17:38+08:00  (剩余 527.1M 1 day, 16:15:29.032372)
 sub_url  https://az.mgnet.sbs/link/KTP6nadWbsp7e5UP?sub=3
 time  2026-05-27 05:17:38.866938+08:00
 type  sspanel
@@ -96,7 +96,7 @@ sub_url  https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e
 time  2025-02-12 00:50:37.542466+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 404 Not Found '<script>window.location.href = "/"</script>'
+更新旧订阅失败  (https://zhenshihui.shop/api/v1/client/subscribe?token=838f0e0d9be453f2e077a543863eb741): 404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
 
 [cloudcat.top]
 email  hdkcrjota449@gmail.com
