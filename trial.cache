@@ -24,8 +24,8 @@ time  2024-08-12 19:47:22.970613+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<HTTPSConnection(host='vipxgyun.com', port=443) at 0x7fdf00f17eb0>, 'Connection to vipxgyun.com timed out. (connect timeout=30)'))
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/Ez7HFt1oUIqAJm6g?sub=3 (Caused by ConnectTimeoutError(<HTTPSConnection(host='vipxgyun.com', port=443) at 0x7fdf13348f10>, 'Connection to vipxgyun.com timed out. (connect timeout=30)'))
+尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<HTTPSConnection(host='vipxgyun.com', port=443) at 0x7f41f48318a0>, 'Connection to vipxgyun.com timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/Ez7HFt1oUIqAJm6g?sub=3 (Caused by ConnectTimeoutError(<HTTPSConnection(host='vipxgyun.com', port=443) at 0x7f41f459bb50>, 'Connection to vipxgyun.com timed out. (connect timeout=30)'))
 
 [https://xn--mes358a.art]
 
@@ -44,7 +44,7 @@ api_host  ww38.csyun.xyz
 email  qayhoca806@gmail.com
 name  橙速云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jxbzhmu357@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.csyun.xyz', port=443): Failed to resolve 'ww38.csyun.xyz' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(paiwjpaue720@gmail.com): HTTPSConnectionPool(host='ww38.csyun.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("HTTPSConnection(host='ww38.csyun.xyz', port=443): Failed to resolve 'ww38.csyun.xyz' ([Errno -2] Name or service not known)"))
 
 [www.qlgq.top]
 api_host  ww38.qlgq.top
@@ -83,7 +83,7 @@ email  hvqegagsk137@gmail.com
 last_checkin  2026-06-04 01:32:13.206753+08:00
 name  MG Network
 node_n  11
-sub_info  1012M  1.806G  2026-06-05 16:24:38+08:00  (剩余 837.3M 1 day, 6:14:00.434871)
+sub_info  1013M  1.806G  2026-06-05 16:24:38+08:00  (剩余 836.1M 1 day, 1:15:41.379146)
 sub_url  https://az.mgnet.sbs/link/0j1MVrm3wKHGKiQ1?sub=3
 time  2026-06-03 15:24:39.238930+08:00
 type  sspanel
